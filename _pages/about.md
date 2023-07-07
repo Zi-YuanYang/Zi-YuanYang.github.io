@@ -54,11 +54,26 @@ My research interest includes Model-based Systems Engineering tool-chain design 
 
 # 📖 Educations
 - *2020.06 - now *, Beijing Institute of Technology, Mechanical Engineering. Ph.D Student. 
-- *2016.09 - 2020.06*, Beijing Institute of Technology, Industrial Engineering. BSc Student.
+- *2016.09 - 2020.06*, Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
 
 # 💬 Presentation
 - *2023.03*, "基于多架构建模语言的系统工程建模方法" invited by in System Engineering Society of China  \| [\[video\]](https://www.bilibili.com/video/BV1Ph4y1M7HQ/?spm_id_from=333.999.0.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
 - *2021.06*, "Cognitive Thread Supports System of Systems for Complex System Development" invited by SoSE 2021  \| [\[video\]](https://www.bilibili.com/video/BV1jr4y1r7Gp/?spm_id_from=333.788.videocard.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
+
+# 🔨 Project  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source MBSE Project</div><img src='images/MarRoverMBSE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mars Rover MBSE modeling](http://ikarma.chinambse.com/usecase2?id=301)
+
+**Shouxuan Wu**, Jiawei Li, Rui Chen, Zhiqing Liu, Mengru Dong
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In the conceptual modeling process of rover, different models need to be built for different system levels and fields. The existing modeling methodology is often based on a single specification, which is difficult to effectively support the demand for methodology customization in the modeling process. In addition, there is a problem of semantic and syntactic heterogeneity among modeling languages, and the methodology application services in existing modeling tools do not have the ability to drive these heterogeneous models simultaneously. Based on the research and development documents of "Perseverance" rover, the complex system architecture navigational modeling system and language and KAMRA language modeling tools are used to carry out conceptual modeling based on mission, operation, function, logic and physics (MOFLP) modeling methodology for "Perseverance" rover, and solve the problems of multi-architecture modeling and model-driven aspects of the existing methodology. Verify the feasibility and effectiveness of the proposed system in practical application.
+- 在火星车概念建模过程中，需要针对不同系统层级、领域构建不同的模型，现有的建模方法论往往基于单一规范，难以有效支持建模过程中对方法论定制化的需求。此外，目前多种建模语言之间存在建模语言的语义语法异构问题，而现有建模工具中方法论应用服务不具备同时驱动这些异构模型的能力。基于“毅力号”火星车研发文件，采用复杂系统架构导航式建模系统及语言和KAMRA语言建模工具，面向“毅力号”火星车开展基于使命、运行、功能、逻辑和物理（MOFLP）建模方法论的概念建模，解决现有方法论在多架构建模及模型驱动方面的问题，验证本文所提系统在实际应用中的可行性和有效性。
+</div>
+</div>
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
