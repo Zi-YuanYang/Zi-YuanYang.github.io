@@ -16,19 +16,23 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Here is Shouxuan Wu (吴绶玄).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D student majoring in Mechanical Engineering at Beijing Institute of Technology. I am extremely fortunate to be advised by Prof. [Guoxin Wang] (https://me.bit.edu.cn/szdw/jsml/zzgcx/gygcyjs/sssds13/b178125.htm). Besides, I work with the KARMA International joint R&D team led by Associate Prof. Jinzhi Lu. I am also member of Chinese Association of Mechanical Engineering, Syetem Engineerng Society of China, and Systems Engineering WG of Industrial Ontologies Foundry (IOF). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Model-based Systems Engineering tool-chain design and service-oriented data interoperation. My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 News & Updates
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## Journal Paper (ENG)
+
+- **(Ongoing)** Design Ontology for Cognitive Thread Supporting Traceability Management in Model-based Systems Engineering.
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,21 +42,28 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Conference Paper (ENG)
+- [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, **2023 IEEE International Systems Conference (SysCon)**
+- [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959),Jinzhi Lu, Guoxin Wang, Yan Yan, David Cameron, Feng Lei, Yangyang Zhang, Xijin Tang, Jian Wang, Junjie Tang, Jian Tang, Huisheng Zhang, Michel Reniers, Martin Törngren, Junda Ma, Yves Keraron, **Shouxuan Wu**, Dimitris Kiritsis, **INCOSE International Symposium 2022**
+- [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , **World Conference on Information Systems and Technologies 2021**
+- [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, **2021 16th International Conference of System of Systems Engineering (SoSE)**
+
+## Journal Paper (CHN)
+- [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12* China, The Third Qihang-Cup MBSE modeling Competition. First Prize (ranked first) / 第三届启航杯MBSE建模大赛冠军 
+- *2020.9*  G599《模型驱动的无人陆基平台机电系统架构设计方法与实现》获 全国第四届中国机械行业卓越工程师教育联盟“恒星杯”毕业设计大赛 工业工程类唯一入选作品
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - now *, Beijing Institute of Technology, Mechical Engineering. Ph.D Student. 
+- *2016.09 - 2020.06*, Beijing Institute of Technology, Industrial Engineering. BSc Student.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Presentation
+- *2023.03*, "基于多架构建模语言的系统工程建模方法" invited by in Syetem Engineerng Society of China  \| [\[video\]](https://www.bilibili.com/video/BV1Ph4y1M7HQ/?spm_id_from=333.999.0.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
+- *2021.06*, "Cognitive Thread Supports System of Systems for Complex System Development" invited by SoSE 2021  \| [\[video\]](https://www.bilibili.com/video/BV1jr4y1r7Gp/?spm_id_from=333.788.videocard.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
