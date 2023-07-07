@@ -69,9 +69,13 @@ My research interest includes Model-based Systems Engineering tool-chain design 
 
 **Shouxuan Wu**, Jiawei Li, Rui Chen, Zhiqing Liu, Mengru Dong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In the conceptual modeling process of rover, different models need to be built for different system levels and fields. The existing modeling methodology is often based on a single specification, which is difficult to effectively support the demand for methodology customization in the modeling process. In addition, there is a problem of semantic and syntactic heterogeneity among modeling languages, and the methodology application services in existing modeling tools do not have the ability to drive these heterogeneous models simultaneously. Based on the research and development documents of "Perseverance" rover, the complex system architecture navigational modeling system and language and KAMRA language modeling tools are used to carry out conceptual modeling based on mission, operation, function, logic and physics (MOFLP) modeling methodology for "Perseverance" rover, and solve the problems of multi-architecture modeling and model-driven aspects of the existing methodology. Verify the feasibility and effectiveness of the proposed system in practical application.
-- 在火星车概念建模过程中，需要针对不同系统层级、领域构建不同的模型，现有的建模方法论往往基于单一规范，难以有效支持建模过程中对方法论定制化的需求。此外，目前多种建模语言之间存在建模语言的语义语法异构问题，而现有建模工具中方法论应用服务不具备同时驱动这些异构模型的能力。基于“毅力号”火星车研发文件，采用复杂系统架构导航式建模系统及语言和KAMRA语言建模工具，面向“毅力号”火星车开展基于使命、运行、功能、逻辑和物理（MOFLP）建模方法论的概念建模，解决现有方法论在多架构建模及模型驱动方面的问题，验证本文所提系统在实际应用中的可行性和有效性。
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- This work focus on the concept modeling, early verification, and integration of Mars Rover.
+- Academic Impact: This work is developed based on mission, operation, function, logic and physics (MOFLP) modeling methodology and OSLC services, which supports the demand for multi-architecture modeling based on the same meta meta-models, and improves the ability for integrating heterogenous models in different modeling tools.
+- Industry Impact: This work includes at least 4 heterogenous modeling languages/tools (Excel, KARMA, Modelica, Julia), and can be reused in other similar modeling project.
+- [\[video\]](https://www.bilibili.com/video/BV15Y411f7PG/?spm_id_from=333.999.0.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906) 
+
 </div>
 </div>
 
