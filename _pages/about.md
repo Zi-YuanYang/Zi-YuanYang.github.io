@@ -18,9 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Here is Shouxuan Wu (吴绶玄).
 
-I am a Ph.D student majoring in Mechanical Engineering at Beijing Institute of Technology. I am extremely fortunate to be advised by Prof. <a href='https://me.bit.edu.cn/szdw/jsml/zzgcx/gygcyjs/sssds13/b178125.htm'>Guoxin Wang</a>. Besides, I work with the KARMA International joint R&D team led by Associate Prof. Jinzhi Lu. I am also member of Chinese Association of Mechanical Engineering, System Engineering Society of China, and Systems Engineering WG of Industrial Ontologies Foundry (IOF). 
+I am a Ph.D student majoring in Mechanical Engineering at Beijing Institute of Technology. I am also member of Chinese Association of Mechanical Engineering, System Engineering Society of China, and Systems Engineering WG of Industrial Ontologies Foundry (IOF). 
 
-My research interest includes Model-based Systems Engineering tool-chain design and service-oriented data interoperation. My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes Model-based Systems Engineering tool-chain design, and in particular with:
+- Concept & Technology of Cognitive thread / Digital thread 
+- Ontology Design / Formalization for Model-based Systems Engineering tool-chain
+- Model-based Systems Engineering tool-chain design automation
+- Service-oriented Data Inter-operation & Tool integration
+
+
+My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News & Updates
