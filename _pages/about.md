@@ -48,8 +48,8 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, **2021 16th International Conference of System of Systems Engineering (SoSE)**
 
 ## Journal Paper (CHN)
-- **(In press)** 面向 MBSE 的复杂系统研发模型追溯管理方法,兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新, **系统工程学报**,2023.
-- [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02).
+- [面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT),兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新, **系统工程学报**,2023,38(03):289-303.DOI:10.13383/j.cnki.jse.2023.03.01..
+- [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02):146-160.DOI:10.13383/j.cnki.jse.2023.02.001..
 
 # 🎖 Honors and Awards 
 ## Honors and Awards （in China）
