@@ -233,7 +233,7 @@ function main(data) {
    construct paper info from json
 */
 
-function paper_info(info) {
+function paper_info(info, index) {
    var title = info["title"];
    var authors = info["authors"];
    var journal = info["journal"];
@@ -245,6 +245,7 @@ function paper_info(info) {
    var bibtex_href = info["bibtex_href"];
 
    var data = `<tr>
+   <td>${index} </td>
       <td>
          <p class="pub_title"><b>${title}</b></p>
          <p class="pub_author">${authors}<br>
@@ -277,14 +278,16 @@ function create_publications(data) {
    <table class="imgtable">`;
    var conference_pubs = `<font size="4"><b>Conference</b></font></br></br>
    <table class="imgtable">`;
+   var journal_num = 1;
+   var conference_num = 1;
    for(var i=0; i < data.length; ++i) {
       var item = data[i];
-
-
-      if (item["type"] = "journal") {
-         journal_pubs += paper_info(item);
+      if (item["type"] == "journal") {
+         journal_pubs += paper_info(item, journal_num);
+         journal_num += 1;
       } else {
-         conference_pubs + paper_info(item);
+         conference_pubs + paper_info(item, conference_num);
+         conference_num += 1
       }
    }
 
