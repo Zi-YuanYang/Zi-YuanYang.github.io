@@ -285,7 +285,7 @@ function create_publications(data) {
          journal_pubs += paper_info(item, journal_num);
          journal_num += 1;
       } else {
-         conference_pubs + paper_info(item, conference_num);
+         conference_pubs += paper_info(item, conference_num);
          conference_num += 1
       }
    }
