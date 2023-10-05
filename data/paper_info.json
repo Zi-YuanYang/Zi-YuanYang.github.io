@@ -4,6 +4,7 @@
         "authors": "Ziyuan Yang; Yingyu Chen; Huijie Huangfu; <b>Maosong Ran</b>; Hui Wang; Xiaoxiao Li; Yi Zhang",
         "journal": "IEEE Journal of Biomedical and Health Informatics",
         "journal_abbr": "JBHI",
+        "type": "journal",
         "year": 2023,
         "pic_href": "./figs/papers/00008.png",
         "paper_href": "./pdf/Dynamic_Corrected_Split_Federated_Learning_with_Homomorphic_Encryption_for_U-shaped_Medical_Image_Networks.pdf",

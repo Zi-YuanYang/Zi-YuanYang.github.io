@@ -245,7 +245,6 @@ function paper_info(info) {
    var bibtex_href = info["bibtex_href"];
 
    var data = `<tr>
-
       <td>
          <p class="pub_title"><b>${title}</b></p>
          <p class="pub_author">${authors}<br>
@@ -273,32 +272,28 @@ function paper_info(info) {
 }
 
 function create_publications(data) {
-   var pre_year = -1;
-
    var curent_node = "";
+   var journal_pubs = `<font size="4"><b>Journal</b></font></br></br>
+   <table class="imgtable">`;
+   var conference_pubs = `<font size="4"><b>Conference</b></font></br></br>
+   <table class="imgtable">`;
    for(var i=0; i < data.length; ++i) {
       var item = data[i];
-      if (pre_year == -1 || item["year"] != pre_year) {
-         if (curent_node != "") {
-            curent_node += "</table>";
-            var $newElement = $(curent_node);
-            $("#publications").append($newElement);
-            curent_node = "";
-         }
 
-      curent_node += `<font size="4"><b>${item["year"]}</b></font></br></br>
-         <table class="imgtable">`
-         
+
+      if (item["type"] = "journal") {
+         journal_pubs += paper_info(item);
+      } else {
+         conference_pubs + paper_info(item);
       }
-      curent_node += paper_info(item);
-
-      pre_year = item["year"];
    }
 
-   curent_node += "</table>";
-   var $newElement = $(curent_node);
+   journal_pubs += "</table>";
+   conference_pubs += "</table>";
+   var $newElement = $(journal_pubs);
    $("#publications").append($newElement);
-   curent_node = "";
+   var $newElement = $(conference_pubs);
+   $("#publications").append($newElement);
 }
 
 
