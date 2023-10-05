@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <meta name="color-scheme" content="light dark">
+        <title>Maosong Ran-HomePage</title>
+    </head>
+    <script src="./js/jquery-1.11.1.min.js"></script>
+    <script>
+        function getUrlParam(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+            var r = window.location.search.substr(1).match(reg);  //匹配目标参数
+            if (r != null) return unescape(r[2]); return null; //返回参数值
+        };
+
+        function extract_bibtex(data) {
+            var regex = /@\w+\{\w+,\n(\s*\w+=\{[\S| ]+\},?[\f|\t|\v]*\n\w*)+\s*}/g;
+                // var regex = /(\s*\w+=\{[\S| ]+\},?[\f|\t|\v]*\n)+\s*}/g
+            var bibtexs = data.match(regex);
+            return bibtexs;
+        }
+
+        function show_bibtex(data) {
+
+        }
+
+        $(function(){
+            var bibtex_name = getUrlParam("bibtex");
+
+            $.get("./data/bibtex.bib", function (data) {
+                var all_bibtex = extract_bibtex(data);
+                for (var item of all_bibtex) {
+                    if (item.indexOf(bibtex_name) != -1) {
+                        $("pre").text(item);
+                        break;
+                    }
+                }
+            });
+
+            
+
+            
+
+            
+
+        });
+
+        
+
+
+    </script>
+    <body>
+        <pre style="word-wrap: break-word; white-space: pre-wrap;">
+
+        </pre>
+    </body>
+</html>

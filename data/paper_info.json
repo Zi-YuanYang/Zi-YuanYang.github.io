@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks",
+        "authors": "Ziyuan Yang; Yingyu Chen; Huijie Huangfu; <b>Maosong Ran</b>; Hui Wang; Xiaoxiao Li; Yi Zhang",
+        "journal": "IEEE Journal of Biomedical and Health Informatics",
+        "journal_abbr": "JBHI",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "./pdf/Dynamic_Corrected_Split_Federated_Learning_with_Homomorphic_Encryption_for_U-shaped_Medical_Image_Networks.pdf",
+        "bibtex_href": "yang2023dynamic",
+        "code_href": "https://github.com/Zi-YuanYang/DC-SFL"
+    },
+
+    {
+        "title": "A Robust Prototype-Free Retrieval Method for Automatic Check-Out",
+        "authors": "Huijie Huangfu; Ziyuan Yang; <b>Maosong Ran</b>; Weihua Zhang; Jingfeng Lu; Yi Zhang",
+        "journal": "IEEE Symposium on Computers and Communications",
+        "journal_abbr": "ISCC",
+        "year": 2023,
+        "pic_href": "./figs/papers/00007.png",
+        "paper_href": "/pdf/A_Robust_Prototype-Free_Retrieval_Method_for_Automatic_Check-Out.pdf",
+        "bibtex_href": "huangfu2023robust",
+        "code_href": ""
+    },
+    {
+        "title": "Dynamic Focus Mechanism-Based Dual-Domain Reconstruction Network for Accelerated MRI",
+        "authors": "Zhongxian Wang; Zhiwen Wang; Zhongzhou Zhang; Ziyuan Yang; <b>Maosong Ran</b>; Hui Yu; Zhenyang Yu; Yi Zhang",
+        "journal": "IEEE 20th International Symposium on Biomedical Imaging",
+        "journal_abbr": "ISBI",
+        "year": 2023,
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "./pdf/Dynamic_Focus_Mechanism-Based_Dual-Domain_Reconstruction_Network_for_Accelerated_MRI.pdf",
+        "bibtex_href": "wang2023dynamic",
+        "code_href": ""
+    },
+    {
+        "title": "Md-recon-net: A parallel dual-domain convolutional neural network for compressed sensing mri",
+        "authors": "<b>Maosong Ran</b>; Wenjun Xia; Yongqiang Huang; Zexin Lu; Peng Bao; Yan Liu; Huaiqiang Sun; Jiliu Zhou; Yi Zhan",
+        "journal": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+        "journal_abbr": "TRPMS",
+        "year": 2021,
+        "pic_href": "./figs/papers/00005.png",
+        "paper_href": "./pdf/MD-Recon-Net_A_Parallel_Dual-Domain_Convolutional_Neural_Network_for_Compressed_Sensing_MRI.pdf",
+        "bibtex_href": "ran2020md",
+        "code_href": "https://github.com/Deep-Imaging-Group/MD-Recon-Net"
+    },
+
+    {
+        "title": "Residual encoder–decoder conditional generative adversarial network for pansharpening",
+        "authors": "Zhimin Shao; Zexin Lu; <b>Maosong Ran</b>; Leyuan Fang; Jiliu Zhou; Yi Zhang",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "journal_abbr": "",
+        "year": 2020,
+        "pic_href": "./figs/papers/00004.png",
+        "paper_href": "./pdf/Residual_EncoderDecoder_Conditional_Generative_Adversarial_Network_for_Pansharpening.pdf",
+        "bibtex_href": "shao2019residual",
+        "code_href": "https://github.com/Deep-Imaging-Group/RED-cGAN"
+    },
+
+    {
+        "title": "Denoising of 3D magnetic resonance images using a residual encoder–decoder Wasserstein generative adversarial network",
+        "authors": "<b>Maosong Ran</b>; Jinrong Hu; Yang Chen; Hu Chen; Huaiqiang Sun; Jiliu Zhou;Yi Zhang",
+        "journal": "Medical Image Analysis",
+        "journal_abbr": "MedIA",
+        "year": 2019,
+        "pic_href": "./figs/papers/00003.png",
+        "paper_href": "./pdf/Denoising of 3D magnetic resonance images using a residual encoder–decoder Wasserstein generative adversarial network.pdf",
+        "bibtex_href": "ran2019denoising",
+        "code_href": "https://github.com/Deep-Imaging-Group/RED-WGAN"
+    },
+
+    {
+        "title": "Simultaneous denoising and super-resolution of optical coherence tomography images based on generative adversarial network",
+        "authors": "Yongqiang Huang, Zexin Lu, Zhimin Shao, <b>Maosong Ran</b>, Jiliu Zhou, Leyuan Fang, and Yi Zhang",
+        "journal": "Optics Express",
+        "year": 2019,
+        "pic_href": "./figs/papers/00002.png",
+        "paper_href": "./pdf/Simultaneous denoising and super-resolution of optical coherence tomography images based on generative adversarial network.pdf",
+        "bibtex_href": "huang2019simultaneous",
+        "code_href": "https://github.com/Deep-Imaging-Group/SDSR-OCT"
+    }
+
+]
