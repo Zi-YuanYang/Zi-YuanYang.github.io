@@ -12,9 +12,9 @@ function main(data) {
    title_nodes.each(function (index, node) {
       var paper_title = $(node).text().toLowerCase();
       var citation = paper_to_citation[paper_title];
-      if (citation != 0) {
-         $(node).append(' (<span style="color:rgb(178 34 34)" >Google Citation: ' + citation + "</span>)")
-      }
+      // if (citation != 0) {
+      //    $(node).append(' (<span style="color:rgb(178 34 34)" >Google Citation: ' + citation + "</span>)")
+      // }
       
 
       // setting download name
@@ -78,7 +78,7 @@ function main(data) {
       var winScrollTop = $win.scrollTop();
       if (!(winScrollTop > paperOffsetTop + paperOuterHeight) && !(winScrollTop < paperOffsetTop - winHeight) ) {
          if (!paper_appear) {
-            plotPaperChart(years, paper_nums);
+            // plotPaperChart(years, paper_nums);
             paper_appear = true;
          }
       } else {
@@ -87,7 +87,7 @@ function main(data) {
 
       if (!(winScrollTop > citationOffsetTop + citationOuterHeight) && !(winScrollTop < citationOffsetTop - winHeight) ) {
          if (!citation_appear) {
-            plotCitationChart();
+            // plotCitationChart();
             citation_appear = true;
          }
          
@@ -313,9 +313,9 @@ $(function() {
       create_publications(data);
    });
 
-   $.getJSON("./google/data.json", function (data) {
-      main(data);
-   });
+   // $.getJSON("./google/data.json", function (data) {
+   //    main(data);
+   // });
    $.ajaxSettings.async = true;
 
 });
