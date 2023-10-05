@@ -245,8 +245,7 @@ function paper_info(info) {
    var bibtex_href = info["bibtex_href"];
 
    var data = `<tr>
-      <td><img class="proj_thumb" src="${pic_href}" alt="" width="200px" height="120px" />&nbsp;
-      </td>
+
       <td>
          <p class="pub_title"><b>${title}</b></p>
          <p class="pub_author">${authors}<br>
