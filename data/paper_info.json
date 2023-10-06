@@ -52,7 +52,7 @@
         "bibtex_href": "yang2023co3net",
         "code_href": "https://github.com/Zi-YuanYang/CO3Net"
     },
-    
+
     {
         "title": "SCA-Former: Transformer-Like Network based on Stream-Cross Attention for Medical Image Segmentation",
         "authors": "Chegnrui Gao; Junlong Cheng; <b>Ziyuan Yang</b>; Yingyu Chen; Min Zhu",
@@ -113,6 +113,17 @@
         "bibtex_href": "yang2023multi"
     },
 
+    {
+        "title": "RegFormer: A Local-Nonlocal Regularization-Based Model for Sparse-View CT Reconstruction",
+        "authors": "Wenjun Xia; <b>Ziyuan Yang</b>; Zexin Lu; Zhognxian Wang; Yi Zhang",
+        "journal": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+        "journal_abbr": "TRPMS",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://ieeexplore.ieee.org/abstract/document/10138692",
+        "bibtex_href": "xia2023regformer"
+    },
 
     {
         "title": "A Robust Prototype-Free Retrieval Method for Automatic Check-Out",
@@ -176,6 +187,18 @@
         "pic_href": "./figs/papers/00008.png",
         "paper_href": "https://link.springer.com/article/10.1007/s10489-022-03862-0",
         "bibtex_href": "yang2023two"
+    },
+
+    {
+        "title": "Downsampling in Uniformly-Spaced Windows for Coding-Based Palmprint Recognition",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Weidong Min",
+        "journal": "Multimedia Tools and Applications",
+        "journal_abbr": "MTAP",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s11042-023-14574-z",
+        "bibtex_href": "yang2023downsampling"
     },
 
     {
