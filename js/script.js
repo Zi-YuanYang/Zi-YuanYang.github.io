@@ -341,6 +341,33 @@ $(function() {
    // });
    $.ajaxSettings.async = true;
 
+   
+   var paper_appear = false
+   var citation_appear = false
+   var winHeight = $win.height();
+   $win.scroll(function () {
+      var winScrollTop = $win.scrollTop();
+      if (!(winScrollTop > paperOffsetTop + paperOuterHeight) && !(winScrollTop < paperOffsetTop - winHeight) ) {
+         if (!paper_appear) {
+            // plotPaperChart(years, paper_nums);
+            paper_appear = true;
+         }
+      } else {
+         paper_appear = false;
+      }
+
+      if (!(winScrollTop > citationOffsetTop + citationOuterHeight) && !(winScrollTop < citationOffsetTop - winHeight) ) {
+         if (!citation_appear) {
+            // plotCitationChart();
+            citation_appear = true;
+         }
+         
+      } else {
+         citation_appear = false;
+      }
+   });
+
+
 });
 
 
