@@ -107,7 +107,7 @@
         "year": 2023,
         "type": "conference",
         "pic_href": "./figs/papers/00007.png",
-        "paper_href": "/pdf/A_Robust_Prototype-Free_Retrieval_Method_for_Automatic_Check-Out.pdf",
+        "paper_href": "https://ieeexplore.ieee.org/document/10218102",
         "bibtex_href": "huangfu2023robust",
         "code_href": ""
     },
@@ -133,7 +133,7 @@
         "year": 2023,
         "type": "conference",
         "pic_href": "./figs/papers/00006.png",
-        "paper_href": "https://ieeexplore.ieee.org/abstract/document/10230778/authors#authors",
+        "paper_href": "https://ieeexplore.ieee.org/abstract/document/10230778",
         "bibtex_href": "gao2023saanet",
         "code_href": ""
     },  
