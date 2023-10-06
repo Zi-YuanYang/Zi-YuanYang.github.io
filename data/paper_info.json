@@ -62,7 +62,7 @@
         "paper_href": "https://link.springer.com/article/10.1007/s10462-022-10194-5",
         "bibtex_href": "yang2023multi"
     },
-    
+
     {
         "title": "Two Novel Style-transfer Palmprint Reconstruction Attacks",
         "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
@@ -196,6 +196,19 @@
         "pic_href": "./figs/papers/00006.png",
         "paper_href": "https://ieeexplore.ieee.org/document/10230834",
         "bibtex_href": "wang2023dynamic",
+        "code_href": ""
+    },
+
+    {
+        "title": "A Computer-aid Multi-task Light-weight Network for Feces Macroscopic Diagnosis",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Ming Li; Jun Chu",
+        "journal": "Multimedia Tools and Applications",
+        "journal_abbr": "MTAP",
+        "year": 2022,
+        "type": "conference",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s11042-022-12565-0",
+        "bibtex_href": "yang2022computer",
         "code_href": ""
     },
 
