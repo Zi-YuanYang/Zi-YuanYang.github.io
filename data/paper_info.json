@@ -1,19 +1,5 @@
 [
 
-
-
-    {
-        "title": "SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction",
-        "authors": "Xiang Chen, Wenjun Xia, <b>Ziyuan Yang</b>; Hu Chen; Yan Liu; Jiliu Zhou; Zhe Wang; Yang Chen; Bihan Wen; Yi Zhang",
-        "journal": "IEEE Transactions on Neural Networks and Learning Systems",
-        "journal_abbr": "TNNLS",
-        "type": "journal",
-        "year": 2023,
-        "pic_href": "./figs/papers/00008.png",
-        "paper_href": "https://ieeexplore.ieee.org/document/10271326",
-        "bibtex_href": "chen2023soul"
-    },
-
     {
         "title": "Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks",
         "authors": "<b>Ziyuan Yang</b>; Yingyu Chen; Huijie Huangfu; Maosong Ran; Hui Wang; Xiaoxiao Li; Yi Zhang",
@@ -54,6 +40,54 @@
     },
 
     {
+        "title": "Cross-Database Attack of Coding-based Palmprint Template",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Andrew Beng Jin Teoh; Bob Zhang; Yi Zhang",
+        "journal": "Knowledge-based Systems",
+        "journal_abbr": "KBS",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://www.sciencedirect.com/science/article/pii/S0950705123000606",
+        "bibtex_href": "yang2023cross"
+    },
+
+    {
+        "title": "Two Novel Style-transfer Palmprint Reconstruction Attacks",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
+        "journal": "Applied Intelligence",
+        "journal_abbr": "APIN",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s10489-022-03862-0",
+        "bibtex_href": "yang2023two"
+    },
+
+    {
+        "title": "Downsampling in Uniformly-Spaced Windows for Coding-Based Palmprint Recognition",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Weidong Min",
+        "journal": "Multimedia Tools and Applications",
+        "journal_abbr": "MTAP",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s11042-023-14574-z",
+        "bibtex_href": "yang2023downsampling"
+    },
+
+    {
+        "title": "SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction",
+        "authors": "Xiang Chen, Wenjun Xia, <b>Ziyuan Yang</b>; Hu Chen; Yan Liu; Jiliu Zhou; Zhe Wang; Yang Chen; Bihan Wen; Yi Zhang",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+        "journal_abbr": "TNNLS",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://ieeexplore.ieee.org/document/10271326",
+        "bibtex_href": "chen2023soul"
+    },
+
+    {
         "title": "SCA-Former: Transformer-Like Network based on Stream-Cross Attention for Medical Image Segmentation",
         "authors": "Chegnrui Gao; Junlong Cheng; <b>Ziyuan Yang</b>; Yingyu Chen; Min Zhu",
         "journal": "Physics in Medicine and Biology",
@@ -77,17 +111,6 @@
         "bibtex_href": "wang2023blind"
     },
 
-    {
-        "title": "Cross-Database Attack of Coding-based Palmprint Template",
-        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Andrew Beng Jin Teoh; Bob Zhang; Yi Zhang",
-        "journal": "Knowledge-based Systems",
-        "journal_abbr": "KBS",
-        "type": "journal",
-        "year": 2023,
-        "pic_href": "./figs/papers/00008.png",
-        "paper_href": "https://www.sciencedirect.com/science/article/pii/S0950705123000606",
-        "bibtex_href": "yang2023cross"
-    },
 
     {
         "title": "PET Image Denoising with Score-Based Diffusion Probabilistic Models",
@@ -177,29 +200,6 @@
         "code_href": ""
     },
 
-    {
-        "title": "Two Novel Style-transfer Palmprint Reconstruction Attacks",
-        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
-        "journal": "Applied Intelligence",
-        "journal_abbr": "APIN",
-        "type": "journal",
-        "year": 2023,
-        "pic_href": "./figs/papers/00008.png",
-        "paper_href": "https://link.springer.com/article/10.1007/s10489-022-03862-0",
-        "bibtex_href": "yang2023two"
-    },
-
-    {
-        "title": "Downsampling in Uniformly-Spaced Windows for Coding-Based Palmprint Recognition",
-        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Weidong Min",
-        "journal": "Multimedia Tools and Applications",
-        "journal_abbr": "MTAP",
-        "type": "journal",
-        "year": 2023,
-        "pic_href": "./figs/papers/00008.png",
-        "paper_href": "https://link.springer.com/article/10.1007/s11042-023-14574-z",
-        "bibtex_href": "yang2023downsampling"
-    },
 
     {
         "title": "Residual encoder–decoder conditional generative adversarial network for pansharpening",
