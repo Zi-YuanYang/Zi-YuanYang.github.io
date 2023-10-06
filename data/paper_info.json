@@ -1,6 +1,18 @@
 [
 
     {
+        "title": "SCA-Former: Transformer-Like Network based on Stream-Cross Attention for Medical Image Segmentation",
+        "authors": "Chegnrui Gao; Junlong Cheng; <b>Ziyuan Yang</b>; Yingyu Chen; Min Zhu",
+        "journal": "Physics in Medicine and Biology",
+        "journal_abbr": "PMB",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://ieeexplore.ieee.org/document/10271326",
+        "bibtex_href": "gao2023SCA"
+    },
+
+    {
         "title": "SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction",
         "authors": "Xiang Chen, Wenjun Xia, <b>Ziyuan Yang</b>; Hu Chen; Yan Liu; Jiliu Zhou; Zhe Wang; Yang Chen; Bihan Wen; Yi Zhang",
         "journal": "IEEE Transactions on Neural Networks and Learning Systems",
@@ -52,6 +64,18 @@
     },
 
     {
+        "title": "Blind Image Quality Assessment via Deep Response Feature Decomposition and Aggregation",
+        "authors": "Hui Wang; Guangcheng Wang; Wenjun Xia; <b>Ziyuan Yang</b>; Hui Yu; Leyuan Fang; Yi Zhang",
+        "journal": "IEEE Journal of Selected Topics in Signal Processing",
+        "journal_abbr": "JSTSP",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://ieeexplore.ieee.org/document/10123006",
+        "bibtex_href": "wang2023blind"
+    },
+
+    {
         "title": "Cross-Database Attack of Coding-based Palmprint Template",
         "authors": "<b>Ziyuan Yang</b>; Lu Leng; Andrew Beng Jin Teoh; Bob Zhang; Yi Zhang",
         "journal": "Knowledge-based Systems",
@@ -87,17 +111,6 @@
         "bibtex_href": "yang2023multi"
     },
 
-    {
-        "title": "Two Novel Style-transfer Palmprint Reconstruction Attacks",
-        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
-        "journal": "Applied Intelligence",
-        "journal_abbr": "APIN",
-        "type": "journal",
-        "year": 2023,
-        "pic_href": "./figs/papers/00008.png",
-        "paper_href": "https://link.springer.com/article/10.1007/s10489-022-03862-0",
-        "bibtex_href": "yang2023two"
-    },
 
     {
         "title": "A Robust Prototype-Free Retrieval Method for Automatic Check-Out",
@@ -149,6 +162,18 @@
         "paper_href": "https://ieeexplore.ieee.org/document/10230834",
         "bibtex_href": "wang2023dynamic",
         "code_href": ""
+    },
+
+    {
+        "title": "Two Novel Style-transfer Palmprint Reconstruction Attacks",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
+        "journal": "Applied Intelligence",
+        "journal_abbr": "APIN",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s10489-022-03862-0",
+        "bibtex_href": "yang2023two"
     },
 
     {
