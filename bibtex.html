@@ -12,7 +12,7 @@
         };
 
         function extract_bibtex(data) {
-            var regex = /@\w+\{\w+,\n(\s*\w+=\{[\S| ]+\},?[\f|\t|\v]*\n\w*)+\s*}/g;
+            var regex = /@\w+\{\w+,\n(\s*\w+=\{[\S| ]+\},?[\f|\t|\v| ]*\n\w*)+\s*}/g;
                 // var regex = /(\s*\w+=\{[\S| ]+\},?[\f|\t|\v]*\n)+\s*}/g
             var bibtexs = data.match(regex);
             return bibtexs;

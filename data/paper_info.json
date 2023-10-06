@@ -27,11 +27,36 @@
     },
 
     {
+        "title": "CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition",
+        "authors": "<b>Ziyuan Yang</b>; Wenjun Xia; Yifan Qiao; Zexin Lu; Bob Zhang; Lu Leng; Yi Zhang",
+        "journal": "IEEE Transactions on Instrumentation and Measurement",
+        "journal_abbr": "TIM",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://ieeexplore.ieee.org/document/10124928",
+        "bibtex_href": "yang2023co3net",
+        "code_href": "https://github.com/Zi-YuanYang/CO3Net"
+    },
+
+    {
+        "title": "Cross-Database Attack of Coding-based Palmprint Template",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Andrew Beng Jin Teoh; Bob Zhang; Yi Zhang",
+        "journal": "Knowledge-based Systems",
+        "journal_abbr": "KBS",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://www.sciencedirect.com/science/article/pii/S0950705123000606",
+        "bibtex_href": "yang2023cross"
+    },
+
+    {
         "title": "PET Image Denoising with Score-Based Diffusion Probabilistic Models",
         "authors": "Ziyuan Yang; Yingyu Chen; Huijie Huangfu; <b>Maosong Ran</b>; Hui Wang; Xiaoxiao Li; Yi Zhang",
         "journal": "IEEE Journal of Biomedical and Health Informatics",
-        "journal_abbr": "JBHI",
-        "type": "journal",
+        "journal_abbr": "MICCAI",
+        "type": "conference",
         "year": 2023,
         "pic_href": "./figs/papers/00008.png",
         "paper_href": "https://ieeexplore.ieee.org/abstract/document/10256094/",
