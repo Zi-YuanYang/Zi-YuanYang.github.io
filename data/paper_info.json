@@ -53,20 +53,43 @@
 
     {
         "title": "PET Image Denoising with Score-Based Diffusion Probabilistic Models",
-        "authors": "Ziyuan Yang; Yingyu Chen; Huijie Huangfu; <b>Maosong Ran</b>; Hui Wang; Xiaoxiao Li; Yi Zhang",
-        "journal": "IEEE Journal of Biomedical and Health Informatics",
+        "authors": "Chengyu Shen; <b>Ziyuan Yang</b>; Yi Zhang",
+        "journal": "International Conference on Medical Image Computing and Computer Assisted Intervention",
         "journal_abbr": "MICCAI",
         "type": "conference",
         "year": 2023,
         "pic_href": "./figs/papers/00008.png",
-        "paper_href": "https://ieeexplore.ieee.org/abstract/document/10256094/",
-        "bibtex_href": "yang2023dynamic",
-        "code_href": "https://github.com/Zi-YuanYang/DC-SFL"
+        "paper_href": "https://link.springer.com/chapter/10.1007/978-3-031-43907-0_26",
+        "bibtex_href": "shen2023PET"
+    },
+
+    {
+        "title": "Multi-order Texture Features for Palmprint Recognition",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
+        "journal": "Artificial Intelligence Review",
+        "journal_abbr": "AIRE",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s10462-022-10194-5",
+        "bibtex_href": "yang2023multi"
+    },
+
+    {
+        "title": "Two Novel Style-transfer Palmprint Reconstruction Attacks",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
+        "journal": "Applied Intelligence",
+        "journal_abbr": "APIN",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s10489-022-03862-0",
+        "bibtex_href": "yang2023two"
     },
 
     {
         "title": "A Robust Prototype-Free Retrieval Method for Automatic Check-Out",
-        "authors": "Huijie Huangfu; Ziyuan Yang; <b>Maosong Ran</b>; Weihua Zhang; Jingfeng Lu; Yi Zhang",
+        "authors": "Huijie Huangfu; <b>Ziyuan Yang</b>; Maosong Ran; Weihua Zhang; Jingfeng Lu; Yi Zhang",
         "journal": "IEEE Symposium on Computers and Communications",
         "journal_abbr": "ISCC",
         "year": 2023,
@@ -76,6 +99,7 @@
         "bibtex_href": "huangfu2023robust",
         "code_href": ""
     },
+
     {
         "title": "Dynamic Focus Mechanism-Based Dual-Domain Reconstruction Network for Accelerated MRI",
         "authors": "Zhongxian Wang; Zhiwen Wang; Zhongzhou Zhang; Ziyuan Yang; <b>Maosong Ran</b>; Hui Yu; Zhenyang Yu; Yi Zhang",
