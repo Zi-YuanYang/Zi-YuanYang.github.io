@@ -342,39 +342,20 @@ $(function() {
    $.ajaxSettings.async = true;
 
 
-   var $win = $(window);
-   var paperOffsetTop = $("#paper_chart").offset().top;
-   var paperOuterHeight = $("#paper_chart").outerHeight();
-
-   var citationOffsetTop = $("#citation_chart").offset().top;
-   var citationOuterHeight = $("#citation_chart").outerHeight();
-
-
-   var paper_appear = false
-   var citation_appear = false
-   var winHeight = $win.height();
-   $win.scroll(function () {
-      var winScrollTop = $win.scrollTop();
-      if (!(winScrollTop > paperOffsetTop + paperOuterHeight) && !(winScrollTop < paperOffsetTop - winHeight) ) {
-         if (!paper_appear) {
-            // plotPaperChart(years, paper_nums);
-            paper_appear = true;
-         }
+   $("#layout-menu > a").on("click", function(event) {
+      
+      var id = $(event.target).attr("href");
+      if (id != "#") {
+         var targetPosition = $(id).offset();
+         $('html,body').animate({scrollTop: targetPosition.top - 50}, 500);
       } else {
-         paper_appear = false;
+         $('html,body').animate({scrollTop: 0}, 500);
       }
-
-      if (!(winScrollTop > citationOffsetTop + citationOuterHeight) && !(winScrollTop < citationOffsetTop - winHeight) ) {
-         if (!citation_appear) {
-            // plotCitationChart();
-            citation_appear = true;
-         }
-         
-      } else {
-         citation_appear = false;
-      }
+      
+      return false;
+      
    });
-
+   
 });
 
 

@@ -1,6 +1,18 @@
 [
 
     {
+        "title": "SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction",
+        "authors": "Xiang Chen, Wenjun Xia, <b>Ziyuan Yang</b>; Hu Chen; Yan Liu; Jiliu Zhou; Zhe Wang; Yang Chen; Bihan Wen; Yi Zhang",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+        "journal_abbr": "TNNLS",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://ieeexplore.ieee.org/document/10271326",
+        "bibtex_href": "chen2023soul"
+    },
+
+    {
         "title": "Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks",
         "authors": "<b>Ziyuan Yang</b>; Yingyu Chen; Huijie Huangfu; Maosong Ran; Hui Wang; Xiaoxiao Li; Yi Zhang",
         "journal": "IEEE Journal of Biomedical and Health Informatics",
