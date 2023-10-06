@@ -113,28 +113,42 @@
     },
 
     {
-        "title": "Dynamic Focus Mechanism-Based Dual-Domain Reconstruction Network for Accelerated MRI",
-        "authors": "Zhongxian Wang; Zhiwen Wang; Zhongzhou Zhang; <b>Ziyuan Yang</b>; Maosong Ran; Hui Yu; Zhenyang Yu; Yi Zhang",
-        "journal": "IEEE 20th International Symposium on Biomedical Imaging",
+        "title": "EVIL: Evidential Inference Learning for Trustworthy Semi-supervised Medical Image Segmentation",
+        "authors": "Yingyu Chen; <b>Ziyuan Yang</b>; Chengyu Shen; Zhiwen Wang; Yang Qin; Yi Zhang",
+        "journal": "International Symposium on Biomedical Imaging",
         "journal_abbr": "ISBI",
         "year": 2023,
         "type": "conference",
         "pic_href": "./figs/papers/00006.png",
-        "paper_href": "./pdf/Dynamic_Focus_Mechanism-Based_Dual-Domain_Reconstruction_Network_for_Accelerated_MRI.pdf",
-        "bibtex_href": "wang2023dynamic",
+        "paper_href": "https://ieeexplore.ieee.org/document/10230589",
+        "bibtex_href": "chen2023evil",
         "code_href": ""
     },
+
     {
-        "title": "Md-recon-net: A parallel dual-domain convolutional neural network for compressed sensing mri",
-        "authors": "<b>Maosong Ran</b>; Wenjun Xia; Yongqiang Huang; Zexin Lu; Peng Bao; Yan Liu; Huaiqiang Sun; Jiliu Zhou; Yi Zhan",
-        "journal": "IEEE Transactions on Radiation and Plasma Medical Sciences",
-        "journal_abbr": "TRPMS",
-        "year": 2021,
+        "title": "SAA-NET: A Medical Image Segmentation Framework Based On Stream-Across Attention",
+        "authors": "Chengrui Gao; Junlong Cheng; <b>Ziyuan Yang</b>; Yingyu Chen; Fengjie Wang; Min Zhu",
+        "journal": "International Symposium on Biomedical Imaging",
+        "journal_abbr": "ISBI",
+        "year": 2023,
         "type": "conference",
-        "pic_href": "./figs/papers/00005.png",
-        "paper_href": "./pdf/MD-Recon-Net_A_Parallel_Dual-Domain_Convolutional_Neural_Network_for_Compressed_Sensing_MRI.pdf",
-        "bibtex_href": "ran2020md",
-        "code_href": "https://github.com/Deep-Imaging-Group/MD-Recon-Net"
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ieeexplore.ieee.org/abstract/document/10230778/authors#authors",
+        "bibtex_href": "gao2023saanet",
+        "code_href": ""
+    },  
+
+    {
+        "title": "Dynamic Focus Mechanism-Based Dual-Domain Reconstruction Network for Accelerated MRI",
+        "authors": "Zhongxian Wang; Zhiwen Wang; Zhongzhou Zhang; <b>Ziyuan Yang</b>; Maosong Ran; Hui Yu; Zhenyang Yu; Yi Zhang",
+        "journal": "International Symposium on Biomedical Imaging",
+        "journal_abbr": "ISBI",
+        "year": 2023,
+        "type": "conference",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ieeexplore.ieee.org/document/10230834",
+        "bibtex_href": "wang2023dynamic",
+        "code_href": ""
     },
 
     {
