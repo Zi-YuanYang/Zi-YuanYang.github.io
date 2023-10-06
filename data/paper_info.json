@@ -52,6 +52,18 @@
     },
 
     {
+        "title": "Multi-order Texture Features for Palmprint Recognition",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
+        "journal": "Artificial Intelligence Review",
+        "journal_abbr": "AIRE",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s10462-022-10194-5",
+        "bibtex_href": "yang2023multi"
+    },
+    
+    {
         "title": "Two Novel Style-transfer Palmprint Reconstruction Attacks",
         "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
         "journal": "Applied Intelligence",
@@ -111,7 +123,6 @@
         "bibtex_href": "wang2023blind"
     },
 
-
     {
         "title": "PET Image Denoising with Score-Based Diffusion Probabilistic Models",
         "authors": "Chengyu Shen; <b>Ziyuan Yang</b>; Yi Zhang",
@@ -122,18 +133,6 @@
         "pic_href": "./figs/papers/00008.png",
         "paper_href": "https://link.springer.com/chapter/10.1007/978-3-031-43907-0_26",
         "bibtex_href": "shen2023PET"
-    },
-
-    {
-        "title": "Multi-order Texture Features for Palmprint Recognition",
-        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Bob Zhang; Ming Li; Jun Chu",
-        "journal": "Artificial Intelligence Review",
-        "journal_abbr": "AIRE",
-        "type": "journal",
-        "year": 2023,
-        "pic_href": "./figs/papers/00008.png",
-        "paper_href": "https://link.springer.com/article/10.1007/s10462-022-10194-5",
-        "bibtex_href": "yang2023multi"
     },
 
     {
@@ -199,7 +198,6 @@
         "bibtex_href": "wang2023dynamic",
         "code_href": ""
     },
-
 
     {
         "title": "Residual encoder–decoder conditional generative adversarial network for pansharpening",
