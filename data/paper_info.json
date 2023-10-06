@@ -1,7 +1,8 @@
 [
+
     {
         "title": "Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks",
-        "authors": "Ziyuan Yang; Yingyu Chen; Huijie Huangfu; <b>Maosong Ran</b>; Hui Wang; Xiaoxiao Li; Yi Zhang",
+        "authors": "<b>Ziyuan Yang</b>; Yingyu Chen; Huijie Huangfu; Maosong Ran; Hui Wang; Xiaoxiao Li; Yi Zhang",
         "journal": "IEEE Journal of Biomedical and Health Informatics",
         "journal_abbr": "JBHI",
         "type": "journal",
@@ -10,6 +11,19 @@
         "paper_href": "https://ieeexplore.ieee.org/abstract/document/10256094/",
         "bibtex_href": "yang2023dynamic",
         "code_href": "https://github.com/Zi-YuanYang/DC-SFL"
+    },
+
+    {
+        "title": "Comprehensive Competition Mechanism in Palmprint Recognition",
+        "authors": "<b>Ziyuan Yang</b>; Huijie Huangfu; Lu Leng; Bob Zhang; Andrew Beng Jin Teoh; Yi Zhang",
+        "journal": "IEEE Transactions on Information Forensics and Security",
+        "journal_abbr": "TIFS",
+        "type": "journal",
+        "year": 2023,
+        "pic_href": "./figs/papers/00008.png",
+        "paper_href": "https://ieeexplore.ieee.org/document/10223233",
+        "bibtex_href": "yang2023ccnet",
+        "code_href": "https://github.com/Zi-YuanYang/CCNet"
     },
 
     {
