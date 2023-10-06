@@ -272,30 +272,57 @@ function paper_info(info, index) {
 }
 
 function create_publications(data) {
+   // var curent_node = "";
+   // var journal_pubs = `<font size="4"><b>Journal</b></font></br></br>
+   // <table class="imgtable">`;
+   // var conference_pubs = `<font size="4"><b>Conference</b></font></br></br>
+   // <table class="imgtable">`;
+   // var journal_num = 1;
+   // var conference_num = 1;
+   // for(var i=0; i < data.length; ++i) {
+   //    var item = data[i];
+   //    if (item["type"] == "journal") {
+   //       journal_pubs += paper_info(item, journal_num);
+   //       journal_num += 1;
+   //    } else {
+   //       conference_pubs += paper_info(item, conference_num);
+   //       conference_num += 1
+   //    }
+   // }
+
+   // journal_pubs += "</table>";
+   // conference_pubs += "</table>";
+   // var $newElement = $(journal_pubs);
+   // $("#publications").append($newElement);
+   // var $newElement = $(conference_pubs);
+   // $("#publications").append($newElement);
+
+   var pre_year = -1;
+
    var curent_node = "";
-   var journal_pubs = `<font size="4"><b>Journal</b></font></br></br>
-   <table class="imgtable">`;
-   var conference_pubs = `<font size="4"><b>Conference</b></font></br></br>
-   <table class="imgtable">`;
-   var journal_num = 1;
-   var conference_num = 1;
    for(var i=0; i < data.length; ++i) {
       var item = data[i];
-      if (item["type"] == "journal") {
-         journal_pubs += paper_info(item, journal_num);
-         journal_num += 1;
-      } else {
-         conference_pubs += paper_info(item, conference_num);
-         conference_num += 1
+      if (pre_year == -1 || item["year"] != pre_year) {
+         if (curent_node != "") {
+            curent_node += "</table>";
+            var $newElement = $(curent_node);
+            $("#publications").append($newElement);
+            curent_node = "";
+         }
+
+      curent_node += `<font size="4"><b>${item["year"]}</b></font></br></br>
+         <table class="imgtable">`
+         
       }
+      curent_node += paper_info(item);
+
+      pre_year = item["year"];
    }
 
-   journal_pubs += "</table>";
-   conference_pubs += "</table>";
-   var $newElement = $(journal_pubs);
+   curent_node += "</table>";
+   var $newElement = $(curent_node);
    $("#publications").append($newElement);
-   var $newElement = $(conference_pubs);
-   $("#publications").append($newElement);
+   curent_node = "";
 }
 
 
