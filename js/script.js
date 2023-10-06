@@ -341,7 +341,15 @@ $(function() {
    // });
    $.ajaxSettings.async = true;
 
-   
+
+   var $win = $(window);
+   var paperOffsetTop = $("#paper_chart").offset().top;
+   var paperOuterHeight = $("#paper_chart").outerHeight();
+
+   var citationOffsetTop = $("#citation_chart").offset().top;
+   var citationOuterHeight = $("#citation_chart").outerHeight();
+
+
    var paper_appear = false
    var citation_appear = false
    var winHeight = $win.height();
@@ -366,7 +374,6 @@ $(function() {
          citation_appear = false;
       }
    });
-
 
 });
 
