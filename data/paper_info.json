@@ -200,12 +200,25 @@
     },
 
     {
+        "title": "HyperFed: A Novel Hypernetwork-based Personalized Federated Learning Framework for Multi-source CT Reconstruction",
+        "authors": "<b>Ziyuan Yang</b>; Wenjun Xia; Yingyu Chen; Zhiwen Wang; Hui Yu; Zhongxian Wang; Yi Zhang",
+        "journal": "Conference and Workshop on Neural Information Processing Systems Workshop",
+        "journal_abbr": "NeurIPS Workshop",
+        "year": 2022,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/18.pdf",
+        "bibtex_href": "yang2022hyperfed",
+        "code_href": ""
+    },
+
+    {
         "title": "A Computer-aid Multi-task Light-weight Network for Feces Macroscopic Diagnosis",
         "authors": "<b>Ziyuan Yang</b>; Lu Leng; Ming Li; Jun Chu",
         "journal": "Multimedia Tools and Applications",
         "journal_abbr": "MTAP",
         "year": 2022,
-        "type": "conference",
+        "type": "journal",
         "pic_href": "./figs/papers/00006.png",
         "paper_href": "https://link.springer.com/article/10.1007/s11042-022-12565-0",
         "bibtex_href": "yang2022computer",
@@ -213,41 +226,78 @@
     },
 
     {
-        "title": "Residual encoder–decoder conditional generative adversarial network for pansharpening",
-        "authors": "Zhimin Shao; Zexin Lu; <b>Maosong Ran</b>; Leyuan Fang; Jiliu Zhou; Yi Zhang",
-        "journal": "IEEE Geoscience and Remote Sensing Letters",
-        "journal_abbr": "",
-        "year": 2020,
+        "title": "A Transformer-Based Iterative Reconstruction Model for Sparse-View CT Reconstruction",
+        "authors": "Wenjun Xia; <b>Ziyuan Yang</b>; Qizheng Zhou; Zexin Lu; Zhongxian Wang; Yi Zhang",
+        "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "journal_abbr": "MICCAI",
+        "year": 2022,
+        "type": "conference",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_75",
+        "bibtex_href": "xia2022transformer",
+        "code_href": ""
+    },
+
+    {
+        "title": "FCSCNN: Feature Centralized Siamese CNN-based Android Malware Identification",
+        "authors": "Ke Kong; Zhichao Zhang; <b>Ziyuan Yang</b>; Zhaoxin Zhang",
+        "journal": "Computers and Security",
+        "journal_abbr": "COSE",
+        "year": 2022,
         "type": "journal",
-        "pic_href": "./figs/papers/00004.png",
-        "paper_href": "./pdf/Residual_EncoderDecoder_Conditional_Generative_Adversarial_Network_for_Pansharpening.pdf",
-        "bibtex_href": "shao2019residual",
-        "code_href": "https://github.com/Deep-Imaging-Group/RED-cGAN"
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://www.sciencedirect.com/science/article/pii/S0167404821003382",
+        "bibtex_href": "kong2022fcscnn",
+        "code_href": ""
     },
 
     {
-        "title": "Denoising of 3D magnetic resonance images using a residual encoder–decoder Wasserstein generative adversarial network",
-        "authors": "<b>Maosong Ran</b>; Jinrong Hu; Yang Chen; Hu Chen; Huaiqiang Sun; Jiliu Zhou;Yi Zhang",
-        "journal": "Medical Image Analysis",
-        "journal_abbr": "MedIA",
-        "year": 2019,
-        "type": "conference",
-        "pic_href": "./figs/papers/00003.png",
-        "paper_href": "./pdf/Denoising of 3D magnetic resonance images using a residual encoder–decoder Wasserstein generative adversarial network.pdf",
-        "bibtex_href": "ran2019denoising",
-        "code_href": "https://github.com/Deep-Imaging-Group/RED-WGAN"
+        "title": "IDOL-Net: An Interactive Dual-Domain Parallel Network for CT Metal Artifact Reduction",
+        "authors": "Tao Wang; Zexin Lu; <b>Ziyuan Yang</b>; Wenjun Xia; Mingzheng Hou; Huaiqiang Sun; Yan Liu; Hu Chen; Jiliu Zhou; Yi Zhang",
+        "journal": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+        "journal_abbr": "TRPMS",
+        "year": 2022,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ieeexplore.ieee.org/abstract/document/9765584",
+        "bibtex_href": "wang2022idol",
+        "code_href": ""
     },
 
     {
-        "title": "Simultaneous denoising and super-resolution of optical coherence tomography images based on generative adversarial network",
-        "authors": "Yongqiang Huang, Zexin Lu, Zhimin Shao, <b>Maosong Ran</b>, Jiliu Zhou, Leyuan Fang, and Yi Zhang",
-        "journal": "Optics Express",
-        "year": 2019,
+        "title": "Channel Group-wise Drop Network with Global and Fine-grained-aware Representation Learning for Palm Recognition",
+        "authors": "Wu Rong; <b>Ziyuan Yang</b>; Lu Leng",
+        "journal": "International Joint Conference on Biometrics",
+        "journal_abbr": "IJCB",
+        "year": 2022,
         "type": "conference",
-        "pic_href": "./figs/papers/00002.png",
-        "paper_href": "./pdf/Simultaneous denoising and super-resolution of optical coherence tomography images based on generative adversarial network.pdf",
-        "bibtex_href": "huang2019simultaneous",
-        "code_href": "https://github.com/Deep-Imaging-Group/SDSR-OCT"
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ieeexplore.ieee.org/abstract/document/10007969",
+        "bibtex_href": "rong2022channel",
+        "code_href": ""
+    },
+
+    {
+        "title": "Multi-task Pre-training with Soft Biometrics for Transfer-learning Palmprint Recognition",
+        "authors": "Huanhuan Xu; Lu Leng; <b>Ziyuan Yang</b>; Andrew Beng Jin Teoh; Zhe Jin",
+        "journal": "Neural Processing Letters",
+        "year": 2022,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://link.springer.com/article/10.1007/s11063-022-10822-9",
+        "bibtex_href": "xu2022multi",
+        "code_href": ""
+    },
+    {
+        "title": "An Energy-Efficiency-Adaptive Clustering Formation Mechanism for the Wireless Sensor Networks",
+        "authors": "Deyu Lin; Linghe Kong; Chengkun Zhao; Jiayi Gao; Hao Ouyang; <b>Ziyuan Yang</b>; Zhiqiang Zhang",
+        "journal": "IET Communications",
+        "year": 2022,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12343",
+        "bibtex_href": "lin2022energy",
+        "code_href": ""
     }
 
 ]
