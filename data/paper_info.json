@@ -298,6 +298,31 @@
         "paper_href": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12343",
         "bibtex_href": "lin2022energy",
         "code_href": ""
+    },
+
+    {
+        "title": "Extreme Downsampling and Joint Feature for Coding-based Palmprint Recognition",
+        "authors": "<b>Ziyuan Yang</b>; Lu Leng; Weidong Min",
+        "journal": "IEEE Transactions on Instrumentation and Measurement",
+        "journal_abbr": "TIM",
+        "year": 2021,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ieeexplore.ieee.org/abstract/document/9260195",
+        "bibtex_href": "yang2021extreme",
+        "code_href": ""
+    },
+
+    {
+        "title": "Viewpoint Adaptation Learning with Cross-view Distance Metric for Robust Vehicle Re-Identification",
+        "authors": "Qi Wang; Weidogn Min; Qing Han; <b>Ziyuan Yang</b>; Xin Xiong; Meng Zhu; Haoyu Zhao",
+        "journal": "Information Sciences",
+        "year": 2021,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://www.sciencedirect.com/science/article/pii/S0020025521001559",
+        "bibtex_href": "wang2021viewpoint",
+        "code_href": ""
     }
 
 ]
