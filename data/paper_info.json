@@ -323,6 +323,33 @@
         "paper_href": "https://www.sciencedirect.com/science/article/pii/S0020025521001559",
         "bibtex_href": "wang2021viewpoint",
         "code_href": ""
+    },
+
+    {
+        "title": "SPACE: Finding Key-speaker in Complex Multi-person Scenes",
+        "authors": "Haoyu Zhao; Weidong Min; Jianfeng Xu; Qing Han; Wei Li; Qi Wang; <b>Ziyuan Yang</b>; Linghua Zhou",
+        "journal": "IEEE Transactions on Emerging Topics in Computing",
+        "journal_abbr": "TETC",
+        "year": 2021,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ieeexplore.ieee.org/abstract/document/9556626",
+        "bibtex_href": "zhao2021space",
+        "code_href": ""
+    },
+
+    {
+        "title": "Democratic Voting Downsampling for Coding-based Palmprint Recognition",
+        "authors": "Lu Leng; <b>Ziyuan Yang</b>; Weidong Min",
+        "journal": "IET Biometrics",
+        "journal_abbr": "IET Biom",
+        "year": 2020,
+        "type": "journal",
+        "pic_href": "./figs/papers/00006.png",
+        "paper_href": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-bmt.2020.0106",
+        "bibtex_href": "leng2020democratic",
+        "code_href": ""
     }
+
 
 ]
