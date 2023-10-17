@@ -100,6 +100,15 @@
     },
 
     {
+        "title": "Step by Step: Progressive Dual-Domain-Transfer CycleGAN for Unsupervised MRI Reconstruction",
+        "authors": "Bowen Li, Zhiwen Wang, <b>Ziyuan Yang</b>; Wenjun Xia; Yi Zhang",
+        "journal": "Neurocomputing",
+        "type": "journal",
+        "year": 2023,
+        "bibtex_href": "li2023step"
+    },
+
+    {
         "title": "SCA-Former: Transformer-Like Network based on Stream-Cross Attention for Medical Image Segmentation",
         "authors": "Chegnrui Gao; Junlong Cheng; <b>Ziyuan Yang</b>; Yingyu Chen; Min Zhu",
         "journal": "Physics in Medicine and Biology",
