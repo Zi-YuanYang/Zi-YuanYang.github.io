@@ -106,7 +106,8 @@
         "type": "journal",
         "year": 2023,
         "paper_href": "http://dx.doi.org/10.1016/j.neucom.2023.126934",
-        "bibtex_href": "li2023step"
+        "bibtex_href": "li2023step",
+        "code_href": "https://github.com/Coolwen1997/PDD-GAN"
     },
 
     {
