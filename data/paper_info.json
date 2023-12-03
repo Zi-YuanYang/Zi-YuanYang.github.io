@@ -88,8 +88,18 @@
     },
 
     {
+        "title": "Promoting fast MR imaging pipeline by full-stack AI",
+        "authors": "Zhiwen Wang; Bowen Li; Hui Yu; Zhongzhou Zhang; Maosong Ran; Wenjun Xia; <b>Ziyuan Yang</b>; Jingfeng Lu; Hu Chen; Jiliu Zhou; Hongming Shan; Yi Zhang",
+        "journal": "iScience",
+        "type": "journal",
+        "year": 2023,
+        "paper_href": "https://www.cell.com/iscience/fulltext/S2589-0042(23)02685-8",
+        "bibtex_href": "wang2023promot"
+    },  
+
+    {
         "title": "SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction",
-        "authors": "Xiang Chen, Wenjun Xia, <b>Ziyuan Yang</b>; Hu Chen; Yan Liu; Jiliu Zhou; Zhe Wang; Yang Chen; Bihan Wen; Yi Zhang",
+        "authors": "Xiang Chen; Wenjun Xia; <b>Ziyuan Yang</b>; Hu Chen; Yan Liu; Jiliu Zhou; Zhe Wang; Yang Chen; Bihan Wen; Yi Zhang",
         "journal": "IEEE Transactions on Neural Networks and Learning Systems",
         "journal_abbr": "TNNLS",
         "type": "journal",
@@ -101,7 +111,7 @@
 
     {
         "title": "Progressive Dual-Domain-Transfer CycleGAN for Unsupervised MRI Reconstruction",
-        "authors": "Bowen Li, Zhiwen Wang, <b>Ziyuan Yang</b>; Wenjun Xia; Yi Zhang",
+        "authors": "Bowen Li; Zhiwen Wang; <b>Ziyuan Yang</b>; Wenjun Xia; Yi Zhang",
         "journal": "Neurocomputing",
         "type": "journal",
         "year": 2023,
