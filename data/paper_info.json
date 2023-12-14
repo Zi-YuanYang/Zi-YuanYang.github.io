@@ -88,6 +88,18 @@
     },
 
     {
+        "title": "Scale-Aware Competition Network for Palmprint Recognition",
+        "authors": "Chengrui Gao; <b>Ziyuan Yang</b>; Min Zhu; Andrew Beng Jin Teoh",
+        "journal": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "journal_abbr": "ICASSP",
+        "year": 2024,
+        "type": "conference",
+        // "paper_href": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_75",
+        "bibtex_href": "gao2024sacnet",
+        "code_href": ""
+    },
+
+    {
         "title": "Promoting fast MR imaging pipeline by full-stack AI",
         "authors": "Zhiwen Wang; Bowen Li; Hui Yu; Zhongzhou Zhang; Maosong Ran; Wenjun Xia; <b>Ziyuan Yang</b>; Jingfeng Lu; Hu Chen; Jiliu Zhou; Hongming Shan; Yi Zhang",
         "journal": "iScience",
