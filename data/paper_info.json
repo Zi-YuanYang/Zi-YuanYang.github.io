@@ -1,6 +1,17 @@
 [
 
     {
+        "title": "Scale-Aware Competition Network for Palmprint Recognition",
+        "authors": "Chengrui Gao; <b>Ziyuan Yang</b>; Min Zhu; Andrew Beng Jin Teoh",
+        "journal": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "journal_abbr": "ICASSP",
+        "year": 2024,
+        "type": "conference",
+        "bibtex_href": "gao2024sacnet",
+        "code_href": ""
+    },
+    
+    {
         "title": "Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks",
         "authors": "<b>Ziyuan Yang</b>; Yingyu Chen; Huijie Huangfu; Maosong Ran; Hui Wang; Xiaoxiao Li; Yi Zhang",
         "journal": "IEEE Journal of Biomedical and Health Informatics",
@@ -85,17 +96,6 @@
         "pic_href": "./figs/papers/00008.png",
         "paper_href": "https://link.springer.com/article/10.1007/s11042-023-14574-z",
         "bibtex_href": "yang2023downsampling"
-    },
-
-    {
-        "title": "Scale-Aware Competition Network for Palmprint Recognition",
-        "authors": "Chengrui Gao; <b>Ziyuan Yang</b>; Min Zhu; Andrew Beng Jin Teoh",
-        "journal": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
-        "journal_abbr": "ICASSP",
-        "year": 2024,
-        "type": "conference",
-        "bibtex_href": "gao2024sacnet",
-        "code_href": ""
     },
 
     {
