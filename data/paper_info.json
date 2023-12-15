@@ -94,7 +94,6 @@
         "journal_abbr": "ICASSP",
         "year": 2024,
         "type": "conference",
-        // "paper_href": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_75",
         "bibtex_href": "gao2024sacnet",
         "code_href": ""
     },
