@@ -37,9 +37,10 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 # 📝 Publications 
 
 ## Journal Paper (ENG)
-
+- **(Ongoing/Submission)** Progress on Digital Thread In Engineering: A Bibliometric Analysis.
+- **(Ongoing/Submission)** Cognitive Thread Tool-chains Supporting Model-Versioning in Model-Based Systems Engineering.
 - **(Ongoing)** Design Ontology for Cognitive Thread Supporting Traceability Management in Model-based Systems Engineering.
-- **(Ongoing)** Cognitive Thread Tool-chains Supporting Model-Versioning in Model-Based Systems Engineering.
+
 
 ## Conference Paper (ENG)
 - [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, **2023 IEEE International Systems Conference (SysCon)**
@@ -48,16 +49,15 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, **2021 16th International Conference of System of Systems Engineering (SoSE)**
 
 ## Journal Paper (CHN)
+- **(Ongoing/First Revision)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
 - [面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT),兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新, **系统工程学报**,2023,38(03):289-303.DOI:10.13383/j.cnki.jse.2023.03.01..
 - [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02):146-160.DOI:10.13383/j.cnki.jse.2023.02.001..
 
-# 🎖 Honors and Awards 
-## Honors and Awards （in China）
+# 🎖 Honors and Awards （in China）
 - *2022.12* 《火星车概念建模和集成验证技术研究》第三届“启航杯”MBSE建模大赛冠军 
 - *2021.10* 《KARMA一一企业数字化研发体系开拓者》第七届中国国际“互联网”大学生创新创业大赛北京市一等奖
 - *2020.9*  G599《模型驱动的无人陆基平台机电系统架构设计方法与实现》获 全国第四届中国机械行业卓越工程师教育联盟“恒星杯”毕业设计大赛 工业工程类唯一入选作品
 
-## Honors and Awards （International）
 
 # 📖 Educations
 - *2020.06 - now *, Beijing Institute of Technology, Mechanical Engineering. Ph.D Student. 
