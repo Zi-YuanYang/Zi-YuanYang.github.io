@@ -1,4 +1,14 @@
 [
+    {
+        "title": "Bidirectional Conditions Diffusion Probabilistic Models for PET Denoising",
+        "authors": "Chengyu Shen; <b>Ziyuan Yang</b>; Yi Zhang",
+        "journal": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+        "journal_abbr": "TRPMS",
+        "year": 2024,
+        "type": "journal",
+        "bibtex_href": "shen2024bidi",
+        "code_href": ""
+    },
 
     {
         "title": "Scale-Aware Competition Network for Palmprint Recognition",
