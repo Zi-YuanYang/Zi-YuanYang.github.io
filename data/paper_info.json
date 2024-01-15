@@ -1,5 +1,16 @@
 [
     {
+        "title": "Evidence-based Uncertainty-Aware Semi-Supervised Medical Image Segmentation",
+        "authors": "Yingyu Chen; <b>Ziyuan Yang</b>; Chengyu Shen; Zhiwen Wang; Zhongzhou Zhang; Yang Qin; Xin Wei; Jingfeng Lu; Yan Liu; Yi Zhang",
+        "journal": "Computers in Biology and Medicine",
+        "journal_abbr": "CIBM",
+        "year": 2024,
+        "type": "journal",
+        "bibtex_href": "chen2024evil",
+        "code_href": ""
+    },
+
+    {
         "title": "Bidirectional Conditions Diffusion Probabilistic Models for PET Denoising",
         "authors": "Chengyu Shen; Changjun Tie; <b>Ziyuan Yang</b>; Na Zhang; Yi Zhang",
         "journal": "IEEE Transactions on Radiation and Plasma Medical Sciences",
