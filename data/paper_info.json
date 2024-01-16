@@ -1,4 +1,16 @@
 [
+
+    {
+        "title": "Enhanced Multitask Learning for Hash Code Generation of Palmprint",
+        "authors": "Lin Chen; Lu Leng; <b>Ziyuan Yang</b>; Andrew Beng Jin Teoh",
+        "journal": "International Journal of Neural Systems",
+        "journal_abbr": "IJNS",
+        "year": 2024,
+        "type": "journal",
+        "bibtex_href": "chen2024enhanced",
+        "code_href": ""
+    },
+
     {
         "title": "Evidence-based Uncertainty-Aware Semi-Supervised Medical Image Segmentation",
         "authors": "Yingyu Chen; <b>Ziyuan Yang</b>; Chengyu Shen; Zhiwen Wang; Zhongzhou Zhang; Yang Qin; Xin Wei; Jingfeng Lu; Yan Liu; Yi Zhang",
