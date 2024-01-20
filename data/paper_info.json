@@ -1,7 +1,7 @@
 [
 
     {
-        "title": "Enhanced Multitask Learning for Hash Code Generation of Palmprint",
+        "title": "Enhanced Multitask Learning for Hash Code Generation of Palmprint Biometrics",
         "authors": "Lin Chen; Lu Leng; <b>Ziyuan Yang</b>; Andrew Beng Jin Teoh",
         "journal": "International Journal of Neural Systems",
         "journal_abbr": "IJNS",
@@ -29,6 +29,7 @@
         "journal_abbr": "TRPMS",
         "year": 2024,
         "type": "journal",
+        "paper_href": "https://ieeexplore.ieee.org/document/10401984",
         "bibtex_href": "shen2024bidi",
         "code_href": ""
     },
@@ -178,7 +179,7 @@
 
     {
         "title": "SCA-Former: Transformer-Like Network based on Stream-Cross Attention for Medical Image Segmentation",
-        "authors": "Chegnrui Gao; Junlong Cheng; <b>Ziyuan Yang</b>; Yingyu Chen; Min Zhu",
+        "authors": "Chengrui Gao; Junlong Cheng; <b>Ziyuan Yang</b>; Yingyu Chen; Min Zhu",
         "journal": "Physics in Medicine and Biology",
         "journal_abbr": "PMB",
         "type": "journal",
