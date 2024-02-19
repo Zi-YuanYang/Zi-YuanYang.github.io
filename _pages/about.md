@@ -37,9 +37,9 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 # 📝 Publications 
 
 ## Journal Paper (ENG)
-- **(Ongoing/Submission)** Progress on Digital Thread In Engineering: A Bibliometric Analysis.
-- **(Ongoing/Submission)** Cognitive Thread Tool-chains Supporting Model-Versioning in Model-Based Systems Engineering.
-- **(Ongoing)** Design Ontology for Cognitive Thread Supporting Traceability Management in Model-based Systems Engineering.
+- **(Ongoing/Under Review)** Progress on Digital Thread In Engineering: A Bibliometric Analysis.
+- **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering.
+- **(Ongoing)** Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering.
 
 
 ## Conference Paper (ENG)
@@ -49,7 +49,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, **2021 16th International Conference of System of Systems Engineering (SoSE)**
 
 ## Journal Paper (CHN)
-- **(Ongoing/First Revision)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
+- **(Ongoing/Under Review)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
 - [面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT),兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新, **系统工程学报**,2023,38(03):289-303.DOI:10.13383/j.cnki.jse.2023.03.01..
 - [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02):146-160.DOI:10.13383/j.cnki.jse.2023.02.001..
 
