@@ -1,4 +1,14 @@
 [
+    {
+        "title": "Comprehensive Criterion-Guided Variable Memory Bank for Semi-Supervised Object Detection",
+        "authors": "Yaokun Yang; <b>Ziyuan Yang</b>; Peng Wang; Yi Zhang",
+        "journal": "IEEE International Joint Conference on Neural Networks",
+        "journal_abbr": "IJCNN",
+        "year": 2024,
+        "type": "conference",
+        "bibtex_href": "yang2024ijcnn",
+        "code_href": ""
+    },
 
     {
         "title": "Enhanced Multitask Learning for Hash Code Generation of Palmprint Biometrics",
