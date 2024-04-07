@@ -1,7 +1,31 @@
 [
+
+    {
+        "title": "Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification",
+        "authors": "<b>Ziyuan Yang</b>; Andrew Beng Jin Teoh; Bob Zhang; Lu Leng; Yi Zhang",
+        "journal": "International Journal of Computer Vision",
+        "journal_abbr": "IJCV",
+        "year": 2024,
+        "type": "journal",
+        "bibtex_href": "yang2024physics",
+        "code_href": ""
+    },
+
+
     {
         "title": "Comprehensive Criterion-Guided Variable Memory Bank for Semi-Supervised Object Detection",
         "authors": "Yaokun Yang; <b>Ziyuan Yang</b>; Peng Wang; Yi Zhang",
+        "journal": "IEEE International Joint Conference on Neural Networks",
+        "journal_abbr": "IJCNN",
+        "year": 2024,
+        "type": "conference",
+        "bibtex_href": "yang2024ijcnn",
+        "code_href": ""
+    },
+
+    {
+        "title": "Comprehensive Criterion-Guided Variable Memory Bank for Semi-Supervised Object Detection",
+        "authors": "Yaokun Yang; Yi Zhang; Peng Wang; <b>Ziyuan Yang</b>*; ",
         "journal": "IEEE International Joint Conference on Neural Networks",
         "journal_abbr": "IJCNN",
         "year": 2024,
