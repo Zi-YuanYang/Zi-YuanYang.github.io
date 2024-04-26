@@ -31,27 +31,27 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 
 # 🔥 News & Updates
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_.
 
 # 📝 Publications 
 
-## Journal Paper (ENG)
-- **(Ongoing/Under Review)** Progress on Digital Thread In Engineering: A Bibliometric Analysis.
-- **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering.
-- **(Ongoing)** Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering.
+## Journal Paper 
 
-
-## Conference Paper (ENG)
+- **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitrios Kyritsis. (2024). Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering. Journal of Industrial Information Integration.**(SCI, _IF_: 15.7)**
+- Traceability Management Approach for Complex System Development based on MBSE, Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang, Journal of System Engineering,2023,38(03): 289-303. | [面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT),兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新, **系统工程学报**,2023,38(03):289-303.DOI:10.13383/j.cnki.jse.2023.03.01.
+- System Engineering Modeling Methodology based on Multi-architectural Modeling Language, Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen, Journal of System Engineering, 2023,38(02): 146-160. | [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02):146-160.DOI:10.13383/j.cnki.jse.2023.02.001.
+- **(Ongoing/Under Review)** Digital Thread In Engineering: A Bibliometric Analysis. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, and Mengru Dong.
+- **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
+- **(Ongoing/Under Review)** Domain-Specific-Modeling-based Multi-Architecture Design Method for the Landing Gear System, **Shouxuan Wu**, Guoxin Wang, Zan Liang,
+  Tao Zhang, Zhenqiang Qi, Yihui Gong, Haoxuan Zhang, Zhen Zhang. | 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
+- 
+## Conference Paper 
 - [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, **2023 IEEE International Systems Conference (SysCon)**
 - [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959),Jinzhi Lu, Guoxin Wang, Yan Yan, David Cameron, Feng Lei, Yangyang Zhang, Xijin Tang, Jian Wang, Junjie Tang, Jian Tang, Huisheng Zhang, Michel Reniers, Martin Törngren, Junda Ma, Yves Keraron, **Shouxuan Wu**, Dimitris Kiritsis, **INCOSE International Symposium 2022**
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , **World Conference on Information Systems and Technologies 2021**
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, **2021 16th International Conference of System of Systems Engineering (SoSE)**
 
-## Journal Paper (CHN)
-- **(Ongoing/Under Review)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
-- [面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT),兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新, **系统工程学报**,2023,38(03):289-303.DOI:10.13383/j.cnki.jse.2023.03.01..
-- [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02):146-160.DOI:10.13383/j.cnki.jse.2023.02.001..
+
 
 # 🎖 Honors and Awards （in China）
 - *2022.12* 《火星车概念建模和集成验证技术研究》第三届“启航杯”MBSE建模大赛冠军 
@@ -72,7 +72,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source MBSE Project</div><img src='images/MarRoverMBSE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mars Rover MBSE modeling](http://ikarma.chinambse.com/usecase2?id=301)
+[Mars Rover MBSE modeling](http://ikarma.chinambse.com/usecase/301)
 
 **Shouxuan Wu**, Jiawei Li, Rui Chen, Zhiqing Liu, Mengru Dong
 
