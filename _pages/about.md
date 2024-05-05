@@ -30,7 +30,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
-- *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_.
+- *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_. It is a top journal (JCR 2.692, Q1) in Engineering domain with an impact factor of 15.7 in 2024. 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
