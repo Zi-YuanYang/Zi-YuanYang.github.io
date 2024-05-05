@@ -24,7 +24,7 @@ My research interest includes Model-based Systems Engineering tool-chain design,
 - Concept & Technology of Cognitive Digital thread 
 - Ontology Design / Formalization for Model-based Systems Engineering tool-chain
 - Model-based Systems Engineering tool-chain design automation
-- Service-oriented Data Inter-operation & Tool integration
+- Service-oriented Data Inter-operation & Tool integration 
 
 My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
