@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shouxuan Wu"
-description              : "My research interest includes Model-based Systems Engineering tool-chain design and service-oriented data interoperation. "
+description              :
 repository               : 
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shouxuan Wu"
   avatar           : "images/wsx.jpg"
-  bio              : "Ph.d Student in Beijing Institute of Technology"
+  bio              :
   location         : "Beijing, China"
   employer         :
   pubmed           : 
