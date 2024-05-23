@@ -8,7 +8,19 @@
         "year": 2024,
         "type": "journal",
         "bibtex_href": "yang2024physics",
+        "paper_href": "https://link.springer.com/article/10.1007/s11263-024-02077-9",
         "code_href": "https://github.com/Zi-YuanYang/PSFed-Palm/"
+    },
+
+    {
+        "title": "Multiple Organ Segmentation Framework for Brain Metastasis Radiotherapy",
+        "authors": "Hui Yu; <b>Ziyuan Yang</b>; Zhongzhou Zhang; Tao Wang; Maosong Ran; Zhiwen Wang; Lunxin Liu; Yang Liu; Yi Zhang",
+        "journal": "Computers in Biology and Medicine",
+        "journal_abbr": "CIBM",
+        "year": 2024,
+        "type": "journal",
+        "bibtex_href": "yu2024cibm",
+        "paper_href": "https://www.sciencedirect.com/science/article/abs/pii/S0010482524007224"
     },
 
     {
@@ -29,6 +41,7 @@
         "journal_abbr": "IJNS",
         "year": 2024,
         "type": "journal",
+        "paper_href": "https://europepmc.org/article/med/38414422",
         "bibtex_href": "chen2024enhanced",
         "code_href": ""
     },
@@ -40,6 +53,7 @@
         "journal_abbr": "CIBM",
         "year": 2024,
         "type": "journal",
+        "paper_href": "https://www.sciencedirect.com/science/article/abs/pii/S001048252400088X",
         "bibtex_href": "chen2024evil",
         "code_href": ""
     },
