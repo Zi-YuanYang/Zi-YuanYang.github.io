@@ -62,9 +62,9 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 <span class='anchor' id='honors'></span>
 
 # 🎖 Honors and Awards （in China）
-- *2024.7*  National construction of high-level university public graduate project scholarship, China Scholarship Council
-- *2022.12* 《火星车概念建模和集成验证技术研究》第三届“启航杯”MBSE建模大赛冠军 
-- *2021.10* 《KARMA一一企业数字化研发体系开拓者》第七届中国国际“互联网”大学生创新创业大赛北京市一等奖
+- *2024.7*  国家建设高水平大学公派研究生项目 国家留学基金委
+- *2022.12* 《火星车概念建模和集成验证技术研究》 第三届“启航杯”MBSE建模大赛冠军 
+- *2021.10* 《KARMA一一企业数字化研发体系开拓者》 第七届中国国际“互联网”大学生创新创业大赛北京市一等奖
 - *2020.9*  G599《模型驱动的无人陆基平台机电系统架构设计方法与实现》获 全国第四届中国机械行业卓越工程师教育联盟“恒星杯”毕业设计大赛 工业工程类唯一入选作品
 
 
