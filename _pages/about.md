@@ -30,14 +30,20 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
-- *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_. It is a top journal (JCR 2.692, Q1) in Engineering domain with an impact factor of 15.7 in 2024. 
+- *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. (Co-Supervised with Prof. Arild Waaler and Prof. Dimitrios Kyritsis))
+- *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_. It is a top journal (JCR Q1, Engineering/Industrial) with an impact factor of 15.7 in 2024.
+
+<span class='anchor' id='education'></span>
+# 📖 Educations
+- *2020.06 - now *, <img src='images/bit.png' style="width: 4em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student.
+- *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 4em;"> Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 ## Journal Paper 
 
-- **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitrios Kyritsis. (2024). Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering. **Journal of Industrial Information Integration.(SCI, _IF_: 15.7)**
+-  Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitrios Kyritsis. (2024). **Journal of Industrial Information Integration.(SCI, _IF_: 15.7)**
 - Traceability Management Approach for Complex System Development based on MBSE, Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang, Journal of System Engineering,2023,38(03): 289-303. [面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT),兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新, **系统工程学报**,2023,38(03):289-303.DOI:10.13383/j.cnki.jse.2023.03.01.
 - System Engineering Modeling Methodology based on Multi-architectural Modeling Language, Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen, Journal of System Engineering, 2023,38(02): 146-160. [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02):146-160.DOI:10.13383/j.cnki.jse.2023.02.001.
 - **(Ongoing/Under Review)** Digital Thread In Engineering: A Bibliometric Analysis. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, and Mengru Dong.
@@ -55,15 +61,14 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 <span class='anchor' id='honors'></span>
 
 # 🎖 Honors and Awards （in China）
+- *2024.7*  National construction of high-level university public graduate project scholarship, China Scholarship Council
 - *2022.12* 《火星车概念建模和集成验证技术研究》第三届“启航杯”MBSE建模大赛冠军 
 - *2021.10* 《KARMA一一企业数字化研发体系开拓者》第七届中国国际“互联网”大学生创新创业大赛北京市一等奖
 - *2020.9*  G599《模型驱动的无人陆基平台机电系统架构设计方法与实现》获 全国第四届中国机械行业卓越工程师教育联盟“恒星杯”毕业设计大赛 工业工程类唯一入选作品
 
-<span class='anchor' id='education'></span>
 
-# 📖 Educations
-- *2020.06 - now *, Beijing Institute of Technology, Mechanical Engineering. Ph.D Student. 
-- *2016.09 - 2020.06*, Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
+
+
 
 <span class='anchor' id='presentation'></span>
 
