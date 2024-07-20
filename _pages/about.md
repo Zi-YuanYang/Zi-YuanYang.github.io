@@ -16,15 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Here is Shouxuan Wu (吴绶玄).
 
-I am a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology. I am also member of Chinese Association of Mechanical Engineering, System Engineering Society of China, and Systems Engineering WG of Industrial Ontologies Foundry (IOF). 
+# About Me
 
-My research interest includes Model-based Systems Engineering tool-chain design, and in particular with:
+I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar at the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China. 
+
+My research interests are Cognitive Digital Thread and Model-based Systems Engineering tool-chain design, and in particular with:
 - Concept & Technology of Cognitive Digital thread 
 - Ontology Design / Formalization for Model-based Systems Engineering tool-chain
 - Model-based Systems Engineering tool-chain design automation
-- Service-oriented Data Inter-operation & Tool integration 
+- Service-oriented tool interoperation and integration 
 
 My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
