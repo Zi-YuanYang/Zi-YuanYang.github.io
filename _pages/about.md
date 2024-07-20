@@ -35,8 +35,8 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 <span class='anchor' id='education'></span>
 # 📖 Educations
-- *2020.06 - now *, <img src='images/bit.png' style="width: 4em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student.
-- *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 4em;"> Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
+- *2020.06 - now *, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student.
+- *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
