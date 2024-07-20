@@ -30,11 +30,12 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
-- *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. (Co-Supervised with Prof. Arild Waaler and Prof. Dimitrios Kyritsis))
+- *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. (Co-Supervisor: Prof. Arild Waaler and Prof. Dimitrios Kyritsis)
 - *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Digital Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_. It is a top journal (JCR Q1, Engineering/Industrial) with an impact factor of 15.7 in 2024.
 
 <span class='anchor' id='education'></span>
 # 📖 Educations
+- *2024.07 -  *, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Ph.D. Student.
 - *2020.06 - now *, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student.
 - *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
 
