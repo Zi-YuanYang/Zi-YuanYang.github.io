@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar at the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China. 
+I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar at the [SIRIUS research center](https://sirius-labs.no/) in the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China. 
 
 My research interests are Cognitive Digital Thread and Model-based Systems Engineering tool-chain design, and in particular with:
 - Concept & Technology of Cognitive Digital thread 
@@ -54,7 +54,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
   Tao Zhang, Zhenqiang Qi, Yihui Gong, Haoxuan Zhang, Zhen Zhang. | 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
 
 ## Conference Paper
-- **(To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, Shouxuan Wu. **2024 15th Complex Systems Design & Management (CSD&M) conference**
+- **(To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. **2024 15th Complex Systems Design & Management (CSD&M) conference**
 - [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, **2023 IEEE International Systems Conference (SysCon)**
 - [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959),Jinzhi Lu, Guoxin Wang, Yan Yan, David Cameron, Feng Lei, Yangyang Zhang, Xijin Tang, Jian Wang, Junjie Tang, Jian Tang, Huisheng Zhang, Michel Reniers, Martin Törngren, Junda Ma, Yves Keraron, **Shouxuan Wu**, Dimitris Kiritsis, **INCOSE International Symposium 2022**
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , **World Conference on Information Systems and Technologies 2021**
