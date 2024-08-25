@@ -4,7 +4,7 @@
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
-# 🐑 About Me
+<!-- # 🐑 About Me
 
 I am now a final-year Ph.D. student at Sichuan University (四川大学), advised by [Yi Zhang(张意)](http://deepimaging.group/).  I'm also a visiting student at A*Star, advised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/). I have published over 40 papers <a href='https://scholar.google.com/citations?user=2vZsJskAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZi-YuanYang%2Fzi-yuanyang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
  at the top journals/conferences such as IJCV, IEEE TIFS / TNNLS / TIM / TCSVT / TRPMS / TETC, IEEE JBHI/JSTSP, MICCAI, etc. Besides, I severed as a reviewer for several top journal/conferences, including IEEE TIFS/TMI, AIRE, AIME, EMNLP, MICCAI,etc.
@@ -16,7 +16,7 @@ My research interests includes:
 - Federated Learning
 - AI in Healthcare
 - Security and Privacy Analysis
-- Dataset Distillation
+- Dataset Distillation -->
 
 <!-- 
 I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
