@@ -18,6 +18,9 @@ main:
   - title: "Service"
     url: "/#service"
 
+
+  # - title: "Acknowledgement"
+  #   url: "/#acknowledgement"
   # - title: "Presentations"
   #   url: "/#presentation"
 
