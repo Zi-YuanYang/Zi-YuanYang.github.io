@@ -27,7 +27,7 @@ My research interests are Cognitive Digital Thread and Model-based Systems Engin
 - Model-based Systems Engineering tool-chain design automation
 - Service-oriented tool interoperation and integration 
 
-My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My google scholar links: <a href='https://scholar.google.com/citations?user=2vZsJskAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZi-YuanYang%2FZi-YuanYang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
