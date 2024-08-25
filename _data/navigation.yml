@@ -3,10 +3,10 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News & Updates"
+  - title: "News"
     url: "/#news"
 
-  - title: "Publications"
+  - title: "Selected Publications"
     url: "/#publications"
 
   - title: "Honors and Awards"
@@ -15,9 +15,12 @@ main:
   - title: "Educations"
     url: "/#education"
 
-  - title: "Presentations"
-    url: "/#presentation"
+  - title: "Service"
+    url: "/#service"
 
-  - title: "Projects"
-    url: "/#projects"
+  # - title: "Presentations"
+  #   url: "/#presentation"
+
+  # - title: "Projects"
+  #   url: "/#projects"
 

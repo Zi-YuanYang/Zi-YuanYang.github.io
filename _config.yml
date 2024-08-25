@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shouxuan Wu"
+title                    : "Ziyuan Yang"
 description              : ""
 repository               : 
 google_scholar_stats_use_cdn : true
@@ -14,22 +14,17 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-# SEO Related
-google_site_verification :  "google-site-verification=vaA7fQLCX4jn8w15cgMl0U-d--QNK753nu93yicZc7g"
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
 # Site Author
 author:
-  name             : "Shouxuan Wu"
-  avatar           : "images/wsx.jpg"
-  bio              : ""
-  location         : "Beijing, China"
+  name             : "Ziyuan Yang"
+  avatar           : "images/YYZZYY3.jpg"
+  bio              : "Sichuan University | A*Star"
+  location         : "China | Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=linMyIYAAAAJ"
-  email            : "shouxuanwu.bit@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Shouxuan-Wu"
+  googlescholar    : "https://scholar.google.com/citations?user=2vZsJskAAAAJ"
+  email            : "cziyuanyang@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Ziyuan-Yang/"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +32,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Zi-YuanYang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0009-4546-622X"
+  dblp             : "https://dblp.org/pid/160/1058-1.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0000-0002-0275-4098"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
