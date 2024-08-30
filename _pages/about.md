@@ -37,5 +37,5 @@ redirect_from:
 
 # Acknowledgements
 I would thank all my collaborators and advisors, they helped me a lot.
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=345&t=tt&d=wezK_VMGs_K-oi1KTL4B-DFRRuq_XpZcmidpdoc9WK0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script> -->
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wezK_VMGs_K-oi1KTL4B-DFRRuq_XpZcmidpdoc9WK0"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=345&t=tt&d=wezK_VMGs_K-oi1KTL4B-DFRRuq_XpZcmidpdoc9WK0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wezK_VMGs_K-oi1KTL4B-DFRRuq_XpZcmidpdoc9WK0"></script> -->
