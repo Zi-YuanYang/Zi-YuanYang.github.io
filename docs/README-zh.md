@@ -14,7 +14,6 @@ AcadHomepage
 
 <p align="center">一个a现代、响应式的个人学术主页</p>
 
-
 <p align="center">
     <br>
     <img src="./screenshot.png" width="100%"/>
