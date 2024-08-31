@@ -10,7 +10,7 @@
 - *2015.10* National Scholarship (Undergraduate) (Top 1%) -->
 - IEEE Transactions on Medical Imaging Distinguished Reviewer
 - Scholarship by China Scholarship Council
-- Excellent Master's Dissertation of Jiangxi Province
+- Excellent Provincial-Level Master's Thesis
 - 2023 National Scholarship
 - 2023 Outstanding Graduate Student
 - Rank #2 in IJCB 2023 Competition (SynFacePAD-2023)
