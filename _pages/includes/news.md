@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.09*: 🎉 One paper is accepted by TIFS!
 - *2024.09*: 🎉 One paper is accepted by TIM! Congrats to Aohua!
 - *2024.07*: 🎉 One paper is accepted by TCSVT! Congrats to Zhiwen!
 - *2024.06*: 🎉 One paper is accepted by MICCAI!

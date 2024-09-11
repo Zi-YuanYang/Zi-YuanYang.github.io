@@ -20,6 +20,8 @@ My full paper list can be found at my [Google Scholar](https://scholar.google.co
  **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
 
 #### 🔒 Security and Privacy Analysis
+- ``TIFS`` A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage. \\
+ **Ziyuan Yang**, Ming Kang, Andrew Beng Jin Teoh, et al. **IEEE Transactions on Information Forensics and Security**, 2024. (Not Avaliable)
 - ``MICCAI`` Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System. \\
  **Ziyuan Yang**, Yingyu Chen, Mengyu Sun, et al. **International Conference on Medical Image Computing and Computer Assisted Intervention**, 2024. (Not Avaliable)
 <!-- - ``MICCAI`` [Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000606), **Ziyuan Yang**, Lu Leng, Andrew Beng Jin Teoh, et al. **Knowledge-Based Systems**, 2023 -->
