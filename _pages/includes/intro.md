@@ -15,7 +15,7 @@ My research interests includes:
 - Biometrics
 - Federated Learning
 - AI in Healthcare
-- Security and Privacy Analysis
+- AI Security
 - Dataset Distillation 
 
 
