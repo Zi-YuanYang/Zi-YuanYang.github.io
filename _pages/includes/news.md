@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.09*: 🎉 One paper is accepted by TRPMS! Congrats to Zexin!
 - *2024.09*: 🎉 One paper is accepted by CCBR! Congrats to Chengrui!
 - *2024.09*: 🎉 One paper is accepted by TIFS!
 - *2024.09*: 🎉 One paper is accepted by TIM! Congrats to Aohua!
