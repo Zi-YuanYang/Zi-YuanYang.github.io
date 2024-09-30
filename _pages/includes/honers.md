@@ -11,11 +11,12 @@
 - IEEE Transactions on Medical Imaging Distinguished Reviewer
 - Scholarship by China Scholarship Council
 - Excellent Provincial-Level Master's Thesis
+- Provincial Outstanding PhD Graduates
+- Outstanding PhD Graduates of Sichuan University
 - 2023 National Scholarship
-- 2023 Outstanding Graduate Student
+- 2023, 2024 Outstanding Graduate Student
 - Rank #2 in IJCB 2023 Competition (SynFacePAD-2023)
 - 2023-2025 First-Class Academic Scholarship
-- 2021 Provincial Scholarship
-- 2020 Provincial Scholarship
+- 2020, 2021 Provincial Scholarship
 - 2020-2021 Special-Class Academic Scholarship
 <!-- - 2018-2020 First-Class Academic Scholarship -->
