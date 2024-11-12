@@ -10,10 +10,10 @@
 - *2015.10* National Scholarship (Undergraduate) (Top 1%) -->
 - IEEE Transactions on Medical Imaging Distinguished Reviewer
 - Scholarship by China Scholarship Council
-- Excellent Provincial-Level Master's Thesis
+- 2023, 2024 National Scholarship
 - Provincial Outstanding PhD Graduates
+- Outstanding Provincial Master's Thesis
 - Outstanding PhD Graduates of Sichuan University
-- 2023 National Scholarship
 - 2023, 2024 Outstanding Graduate Student
 - Rank #2 in IJCB 2023 Competition (SynFacePAD-2023)
 - 2023-2025 First-Class Academic Scholarship
