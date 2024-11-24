@@ -28,7 +28,7 @@ My full paper list can be found at my [Google Scholar](https://scholar.google.co
 - ``KBS`` [Cross-database Attack of Coding-based Palmprint Template](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000606). \\
  **Ziyuan Yang**, Lu Leng, Andrew Beng Jin Teoh, et al. **Knowledge-Based Systems**, 2023
 
-#### 🏥 Ai in Healthcare
+#### 🏥 AI in Healthcare
 - ``TCSVT`` [Generalizable MRI Motion Correction via Compressed Sensing Equivariant Imaging Prior](https://ieeexplore.ieee.org/abstract/document/10606502/). \\
 Zhiwen Wang, Maosong Ran, **Ziyuan Yang**, et al. **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. \| [![Code](https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github)](https://github.com/wangzhiwen-scu/EIP4MoCo)
 - ``TNNLS`` [SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction](https://ieeexplore.ieee.org/document/10271326). \\
