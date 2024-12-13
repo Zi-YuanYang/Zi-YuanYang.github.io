@@ -12,14 +12,14 @@ I am now a final-year Ph.D. student at Sichuan University (四川大学), advise
 <!-- I am now a final-year Ph.D. student at Sichuan University (四川大学), advised by [Yi Zhang(张意)](http://deepimaging.group/).  I'm also a visiting student at A*Star, Singapore. I have published over 40 papers <a href='https://scholar.google.com/citations?user=2vZsJskAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZi-YuanYang%2Fzi-yuanyang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
  <!-- at the top journals/conferences such as IJCV, IEEE TIFS / TNNLS / TIM / TCSVT / TRPMS / TETC, IEEE JBHI/JSTSP, MICCAI, etc. Besides, I severed as a reviewer for several top journals/conferences, including IEEE TIFS / TMI / SPL, AIRE, AIME, EMNLP, MICCAI,etc. -->
 
-I am currently seeking **postdoctoral** or **research fellow** opportunities. If you have any advice or are interested in exploring **academic collaborations**, please feel free to contact me at [cziyuanyang@gmail.com](mailto:cziyuanyang@gmail.com).  I look forward to your insights and suggestions.
+If you have any advice or are interested in exploring **academic collaborations**, please feel free to contact me at [cziyuanyang@gmail.com](mailto:cziyuanyang@gmail.com). I look forward to your insights and suggestions.
 
 My research interests includes:
 - Biometrics
 - Federated Learning
 - AI in Healthcare
 - AI Security
-- Dataset Distillation 
+- AI Efficiency
 
 
 <!-- 
