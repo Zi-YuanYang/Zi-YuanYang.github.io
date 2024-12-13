@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.09*: 🎉 Served as Guest Editor for CMC - Computers, Materials & Continua
+- *2024.11*: 🎉 Served as Guest Editor for CMC - Computers, Materials & Continua
 - *2024.09*: 🎉 One paper is accepted by TRPMS! Congrats to Zexin!
 - *2024.09*: 🎉 One paper is accepted by CCBR! Congrats to Chengrui!
 - *2024.09*: 🎉 One paper is accepted by TIFS!
