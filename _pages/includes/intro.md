@@ -14,7 +14,7 @@ in top-tier journals and conferences, including IJCV, IEEE TIFS, TNNLS, TIM, TCS
 
 If you have any advice or are interested in exploring **academic collaborations**, please feel free to contact me at [cziyuanyang@gmail.com](mailto:cziyuanyang@gmail.com). I welcome your insights and look forward to potential collaborations.
 
-My research interests includes:
+My research interests encompass the following areas:
 - Biometrics
 - Federated Learning
 - AI in Healthcare
