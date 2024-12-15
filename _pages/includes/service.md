@@ -6,4 +6,4 @@ Guest Editor for [CMC - Computers, Materials & Continua](https://www.techscience
 IEEE Transactions on Information Forensics and Security, IEEE Transactions on Medical Imaging, IEEE Signal Processing Letters, Artificial Intelligence in Medicine, Artificial Intelligence Review, Journal of Real-Time Image Processing, IET Computer Vision/Singal Processing/Biometrics, etc.
 
 ## Conference Reviewer
-MICCAI, EMNLP, IJCNN, ISBI, WCCI, etc.
+CVPR, MICCAI, EMNLP, IJCNN, ISBI, WCCI, etc.
