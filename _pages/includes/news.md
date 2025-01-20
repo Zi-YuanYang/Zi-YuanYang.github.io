@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: 🎉 One paper is accepted by WWW! Congrats to Yongqiang!
 - *2024.12*: 🎉 Two papers are accepted by ICASSP! Congrats to Yingyu and Mengyu!
 - *2024.11*: 🎉 Served as Guest Editor for CMC - Computers, Materials & Continua
 - *2024.09*: 🎉 One paper is accepted by T-RPMS! Congrats to Zexin!
