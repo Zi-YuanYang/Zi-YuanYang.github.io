@@ -13,7 +13,7 @@ My full paper list can be found at my [Google Scholar](https://scholar.google.co
 
 #### ☁️ Federated Learning
 - ``CVPR`` [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](https://www.arxiv.org/abs/2503.00908). \\
- **Ziyuan Yang**,  Yingyu Chen, Zhiwen Wang, et al. **IEEE / CVF Computer Vision and Pattern Recognition Conference**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/SCAN-PhysFed?style=social)](https://github.com/Zi-YuanYang/SCAN-PhysFed)
+ **Ziyuan Yang**,  Yingyu Chen, Zhiwen Wang, et al. **IEEE / CVF Computer Vision and Pattern Recognition Conference**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/SCAN-PhysFed?style=social)](https://github.com/Zi-YuanYang/SCAN-PhysFed)
 - ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9). \\
  **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
 - ``TNNLS`` [Hypernetwork-based Physics-Driven Personalized Federated Learning for CT Imaging](https://ieeexplore.ieee.org/document/10361833). \\
