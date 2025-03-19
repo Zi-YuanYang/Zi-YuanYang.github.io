@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.02*: 🎉 One paper is accepted by Pattern Recognition! Congrats to Congcong!
 - *2025.02*: 🎉 One paper is accepted by CVPR!
 - *2025.01*: 🎉 One paper is accepted by WWW! Congrats to Yongqiang!
 - *2024.12*: 🎉 Two papers are accepted by ICASSP! Congrats to Yingyu and Mengyu!
