@@ -22,11 +22,13 @@ My full paper list can be found at my [Google Scholar](https://scholar.google.co
  **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
 
 #### 🔒 Security and Privacy Analysis
+- ``TAI`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118). \\
+ **Ziyuan Yang**, Huijie Huangfu, Maosong Ran, et al. **IEEE Transactions on Artificial Intelligence**, 2025.
+ <!-- \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DCPV?style=social)](https://github.com/Zi-YuanYang/DCPV) -->
 - ``TIFS`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118). \\
  **Ziyuan Yang**, Ming Kang, Andrew Beng Jin Teoh, et al. **IEEE Transactions on Information Forensics and Security**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DCPV?style=social)](https://github.com/Zi-YuanYang/DCPV)
 - ``MICCAI`` [Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_38) \\
  **Ziyuan Yang**, Yingyu Chen, Mengyu Sun, et al. **International Conference on Medical Image Computing and Computer Assisted Intervention**, 2024.
-<!-- - ``MICCAI`` [Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000606), **Ziyuan Yang**, Lu Leng, Andrew Beng Jin Teoh, et al. **Knowledge-Based Systems**, 2023 -->
 - ``KBS`` [Cross-database Attack of Coding-based Palmprint Template](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000606). \\
  **Ziyuan Yang**, Lu Leng, Andrew Beng Jin Teoh, et al. **Knowledge-Based Systems**, 2023
 

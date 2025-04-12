@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.03*: 🎉 One paper is accepted by T-AI!
 - *2025.02*: 🎉 One paper is accepted by Pattern Recognition! Congrats to Congcong! 
 - *2025.02*: 🎉 One paper is accepted by CVPR!
 - *2025.01*: 🎉 One paper is accepted by WWW! Congrats to Yongqiang!
