@@ -5,10 +5,10 @@
 - *2014.09 - 2018.06*, B.E., School of Software, Nanchang Hangkong University, Nanchang.
 
 # 📂 Experience
-- *2024.05 - Present*, Visiting Ph.D., Centre for Frontier AI Research (CFAR), A*STAR, Singapore.
+- *2024.05 - 2025.03*, Research Intern, Centre for Frontier AI Research (CFAR), A*STAR, Singapore.
 
-# 💻 Project
-- LLM-Guided Low-Dose CT Reconstruction, $500,000 (RMB), PI.
+# 💻 Funding
+- LLM-Guided Low-Dose CT Reconstruction, Tianfu Jiangxi Lab, $500,000 (RMB), PI.
 
 # 💬 Talks
 - "Privacy and Security in Medical Imaging" – Presented at Nanyang Technological University, hosted by Prof. Yeo's research group.
