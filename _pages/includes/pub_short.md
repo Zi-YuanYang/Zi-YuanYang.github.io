@@ -1,43 +1,43 @@
 
 # 💻 Selected Publications
 
-My full paper list can be found at my [Google Scholar](https://scholar.google.com/citations?user=2vZsJskAAAAJ).
+Please find my full paper list at my [Google Scholar](https://scholar.google.com/citations?user=2vZsJskAAAAJ).
 
 #### 👶🏻 Biometrics
-- ``**TIFS**`` [Comprehensive Competition Mechanism in Palmprint Recognition](https://ieeexplore.ieee.org/document/10223233) \\
+- ``TIFS`` [Comprehensive Competition Mechanism in Palmprint Recognition](https://ieeexplore.ieee.org/document/10223233) \\
  **Ziyuan Yang**, Huijie Huangfu, Lu Leng et al. **IEEE Transactions on Information Forensics and Security**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CCNet?style=social)](https://github.com/Zi-YuanYang/CCNet)
-- ``**TIM**`` [CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition](https://ieeexplore.ieee.org/document/10124928) \\
+- ``TIM`` [CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition](https://ieeexplore.ieee.org/document/10124928) \\
  **Ziyuan Yang**, Wenjun Xia, Yifan Qiao et al. **IEEE Transactions on Instrumentation and Measurement**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CO3Net?style=social)](https://github.com/Zi-YuanYang/CO3Net)
-- ``**AIRE**`` [Multi-order Texture Features for Palmprint Recognition](https://link.springer.com/article/10.1007/s10462-022-10194-5). \\
+- ``AIRE`` [Multi-order Texture Features for Palmprint Recognition](https://link.springer.com/article/10.1007/s10462-022-10194-5) \\
 **Ziyuan Yang**, Lu Leng Bob Zhang et al. **Artificial Intelligence Review**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/MTCC-2TCC?style=social)](https://github.com/Zi-YuanYang/MTCC-2TCC)
 
 #### ☁️ Federated Learning
-- ``**CVPR**`` [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](https://www.arxiv.org/abs/2503.00908) \\
+- ``CVPR`` [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](https://www.arxiv.org/abs/2503.00908) \\
  **Ziyuan Yang**,  Yingyu Chen, Zhiwen Wang, et al. **IEEE / CVF Computer Vision and Pattern Recognition Conference**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/SCAN-PhysFed?style=social)](https://github.com/Zi-YuanYang/SCAN-PhysFed)
-- ``**IJCV**`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
+- ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
  **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
-- ``**TNNLS**`` [Hypernetwork-based Physics-Driven Personalized Federated Learning for CT Imaging](https://ieeexplore.ieee.org/document/10361833) \\
+- ``TNNLS`` [Hypernetwork-based Physics-Driven Personalized Federated Learning for CT Imaging](https://ieeexplore.ieee.org/document/10361833) \\
  **Ziyuan Yang**, Wenjun Xia, Yingyu Chen, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/HyperFed?style=social)](https://github.com/Zi-YuanYang/HyperFed)
- - ``**JBHI**`` [Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks](https://ieeexplore.ieee.org/document/10256094) \\
+ - ``JBHI`` [Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks](https://ieeexplore.ieee.org/document/10256094) \\
  **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
 
 #### 🔒 Security and Privacy Analysis
-- ``**TAI**`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118) \\
+- ``TAI`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118) \\
  **Ziyuan Yang**, Huijie Huangfu, Maosong Ran, et al. **IEEE Transactions on Artificial Intelligence**, 2025.
  \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/Encrypt_LDCT_Recon?style=social)](https://github.com/Zi-YuanYang/Encrypt_LDCT_Recon)
-- ``**TIFS**`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118) \\
+- ``TIFS`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118) \\
  **Ziyuan Yang**, Ming Kang, Andrew Beng Jin Teoh, et al. **IEEE Transactions on Information Forensics and Security**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DCPV?style=social)](https://github.com/Zi-YuanYang/DCPV)
-- ``**MICCAI**`` [Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_38) \\
+- ``MICCAI`` [Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_38) \\
  **Ziyuan Yang**, Yingyu Chen, Mengyu Sun, et al. **International Conference on Medical Image Computing and Computer Assisted Intervention**, 2024.
-- ``**KBS**`` [Cross-database Attack of Coding-based Palmprint Template](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000606) \\
+- ``KBS`` [Cross-database Attack of Coding-based Palmprint Template](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000606) \\
  **Ziyuan Yang**, Lu Leng, Andrew Beng Jin Teoh, et al. **Knowledge-Based Systems**, 2023
 
 #### 🏥 AI in Healthcare
-- ``**TCSVT**`` [Generalizable MRI Motion Correction via Compressed Sensing Equivariant Imaging Prior](https://ieeexplore.ieee.org/abstract/document/10606502/). \\
+- ``TCSVT`` [Generalizable MRI Motion Correction via Compressed Sensing Equivariant Imaging Prior](https://ieeexplore.ieee.org/abstract/document/10606502/) \\
 Zhiwen Wang, Maosong Ran, **Ziyuan Yang**, et al. **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. \| [![Code](https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github)](https://github.com/wangzhiwen-scu/EIP4MoCo)
-- ``**TNNLS**`` [SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction](https://ieeexplore.ieee.org/document/10271326). \\
+- ``TNNLS`` [SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction](https://ieeexplore.ieee.org/document/10271326) \\
  Xiang Chen, Wenjun Xia, **Ziyuan Yang**, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2023.
-- ``**TRPMS**`` [RegFormer: A Local-Nonlocal Regularization-Based Model for Sparse-View CT Reconstruction](https://ieeexplore.ieee.org/document/10138692). \\
+- ``TRPMS`` [RegFormer: A Local-Nonlocal Regularization-Based Model for Sparse-View CT Reconstruction](https://ieeexplore.ieee.org/document/10138692) \\
 Wenjun Xia, **Ziyuan Yang**, Zexin Lu, et al. **IEEE Transactions on Radiation and Plasma Medical Sciences**, 2023.
 \| [![Code](https://img.shields.io/github/stars/Deep-Imaging-Group/RegFormer?style=social)](https://github.com/Deep-Imaging-Group/RegFormer)
 
