@@ -22,7 +22,7 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
  **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
 
 #### 🔒 Security and Privacy Analysis
-- ``TAI`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118) \\
+- ``TAI`` [A Novel Privacy-Enhancing Framework for Low-Dose CT Denoising](https://ieeexplore.ieee.org/document/10966210) \\
  **Ziyuan Yang**, Huijie Huangfu, Maosong Ran, et al. **IEEE Transactions on Artificial Intelligence**, 2025.
  \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/Encrypt_LDCT_Recon?style=social)](https://github.com/Zi-YuanYang/Encrypt_LDCT_Recon)
 - ``TIFS`` [A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage](https://ieeexplore.ieee.org/document/10681118) \\
