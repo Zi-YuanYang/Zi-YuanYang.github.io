@@ -34,7 +34,9 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
 
 #### 🏥 AI in Healthcare
 - ``TCSVT`` [Generalizable MRI Motion Correction via Compressed Sensing Equivariant Imaging Prior](https://ieeexplore.ieee.org/abstract/document/10606502/) \\
-Zhiwen Wang, Maosong Ran, **Ziyuan Yang**, et al. **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. \| [![Code](https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github)](https://github.com/wangzhiwen-scu/EIP4MoCo)
+Zhiwen Wang, Maosong Ran, **Ziyuan Yang**, et al. **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. 
+ \| [![Code](https://img.shields.io/github/stars/wangzhiwen-scu/EIP4MoCo?style=social)](https://github.com/wangzhiwen-scu/EIP4MoCo)
+<!-- \| [![Code](https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github)](https://github.com/wangzhiwen-scu/EIP4MoCo) -->
 - ``TNNLS`` [SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction](https://ieeexplore.ieee.org/document/10271326) \\
  Xiang Chen, Wenjun Xia, **Ziyuan Yang**, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2023.
 - ``TRPMS`` [RegFormer: A Local-Nonlocal Regularization-Based Model for Sparse-View CT Reconstruction](https://ieeexplore.ieee.org/document/10138692) \\
