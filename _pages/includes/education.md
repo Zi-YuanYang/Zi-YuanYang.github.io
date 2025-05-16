@@ -11,7 +11,8 @@
 - LLM-Guided Low-Dose CT Reconstruction, Tianfu Jiangxi Lab, $500,000 (RMB), PI.
 
 # 💬 Talks
-- "Privacy and Security in Medical Imaging" – Presented at Nanyang Technological University, hosted by Prof. Yeo's research group.
+- *2025.06* "Patient-Level Anatomy-Driven and Scanning-Level Physics-Driven Low-Dose CT Reconstruction" – Presented at BME 2025, Suzhou.
+- *2024.11* "Privacy and Security in Medical Imaging" – Presented at Nanyang Technological University, hosted by Prof. Yeo's research group.
 
 <!-- # 💬 Invited Talks
 - *xxxx.xx*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
