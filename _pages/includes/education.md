@@ -1,10 +1,11 @@
 
 # 📖 Education
-- *2021.09 - Present*, Ph.D., College of Computer Science, Sichuan Univeristy, Chengdu.
+- *2021.09 - 2025.06*, Ph.D., College of Computer Science, Sichuan Univeristy, Chengdu.
 - *2018.09 - 2021.06*, M.E., School of Information Engineering, Nanchang University, Nanchang.
 - *2014.09 - 2018.06*, B.E., School of Software, Nanchang Hangkong University, Nanchang.
 
 # 📂 Experience
+<!-- - *2025.05 - 2025.03*, Research Intern, Centre for Frontier AI Research (CFAR), A*STAR, Singapore. -->
 - *2024.05 - 2025.03*, Research Intern, Centre for Frontier AI Research (CFAR), A*STAR, Singapore.
 
 # 💻 Funding
