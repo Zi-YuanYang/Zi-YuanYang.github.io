@@ -12,7 +12,8 @@
 - LLM-Guided Low-Dose CT Reconstruction, Tianfu Jiangxi Lab, $500,000 (RMB), PI.
 
 # 💬 Talks
-- *2025.06* "Patient-Level Anatomy-Driven and Scanning-Level Physics-Driven Low-Dose CT Reconstruction" – Presented at BME 2025, Suzhou.
+- *2025.07* "LLM-Guided Physics-Driven Low-Dose CT Reconstruction" – Presented at MICS 2025, Cixi, Zhejiang.
+- *2025.06* "Patient-Level Anatomy-Driven and Scanning-Level Physics-Driven Low-Dose CT Reconstruction" – Presented at BME 2025, Suzhou, Jiangsu.
 - *2024.11* "Privacy and Security in Medical Imaging" – Presented at Nanyang Technological University, hosted by Prof. Yeo's research group.
 
 <!-- # 💬 Invited Talks
