@@ -4,6 +4,8 @@
 Please find my full paper list at my [Google Scholar](https://scholar.google.com/citations?user=2vZsJskAAAAJ).
 
 #### 👶🏻 Biometrics
+- ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
+ **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
 - ``TIFS`` [Comprehensive Competition Mechanism in Palmprint Recognition](https://ieeexplore.ieee.org/document/10223233) \\
  **Ziyuan Yang**, Huijie Huangfu, Lu Leng et al. **IEEE Transactions on Information Forensics and Security**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CCNet?style=social)](https://github.com/Zi-YuanYang/CCNet)
 - ``TIM`` [CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition](https://ieeexplore.ieee.org/document/10124928) \\
@@ -14,10 +16,12 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
 #### ☁️ Federated Learning
 - ``CVPR`` [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.html) \\
  **Ziyuan Yang**,  Yingyu Chen, Zhiwen Wang, et al. **IEEE / CVF Computer Vision and Pattern Recognition Conference**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/SCAN-PhysFed?style=social)](https://github.com/Zi-YuanYang/SCAN-PhysFed)
-- ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
- **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
+ ``PR`` [Enhancing Federated Learning through Exploring Filter-Aware Relationships and Personalizing Local Structures](https://arxiv.org/abs/2311.12049) \\
+ **Ziyuan Yang**, Zerui Shao, Huijie Huangfu, et al. **Pattern Recognition**, 2025. 
+ <!-- \| -->
+  <!-- [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm) -->
 - ``TNNLS`` [Hypernetwork-based Physics-Driven Personalized Federated Learning for CT Imaging](https://ieeexplore.ieee.org/document/10361833) \\
- **Ziyuan Yang**, Wenjun Xia, Yingyu Chen, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/HyperFed?style=social)](https://github.com/Zi-YuanYang/HyperFed)
+ **Ziyuan Yang**, Wenjun Xia, Yingyu Chen, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/HyperFed?style=social)](https://github.com/Zi-YuanYang/HyperFed) 🔥**ESI Highly Cited Paper**
  - ``JBHI`` [Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks](https://ieeexplore.ieee.org/document/10256094) \\
  **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
 

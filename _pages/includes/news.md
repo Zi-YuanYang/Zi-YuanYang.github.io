@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.08*: 🎉 One paper is accepted by PR!
 - *2025.05*: 🎉 One paper is accepted by IEEE IOT-J! Congrats to Chengrui!
 - *2025.04*: 🎉 One paper is accepted by T-ETCI! Congrats to Hui!
 - *2025.03*: 🎉 One paper is accepted by T-AI!
