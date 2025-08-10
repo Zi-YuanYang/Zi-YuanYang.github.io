@@ -16,7 +16,7 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
 #### ☁️ Federated Learning
 - ``CVPR`` [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.html) \\
  **Ziyuan Yang**,  Yingyu Chen, Zhiwen Wang, et al. **IEEE / CVF Computer Vision and Pattern Recognition Conference**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/SCAN-PhysFed?style=social)](https://github.com/Zi-YuanYang/SCAN-PhysFed)
- ``PR`` [Enhancing Federated Learning through Exploring Filter-Aware Relationships and Personalizing Local Structures](https://arxiv.org/abs/2311.12049) \\
+ - ``PR`` [Enhancing Federated Learning through Exploring Filter-Aware Relationships and Personalizing Local Structures](https://arxiv.org/abs/2311.12049) \\
  **Ziyuan Yang**, Zerui Shao, Huijie Huangfu, et al. **Pattern Recognition**, 2025. 
  <!-- \| -->
   <!-- [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm) -->
