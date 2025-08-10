@@ -21,7 +21,8 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
  <!-- \| -->
   <!-- [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm) -->
 - ``TNNLS`` [Hypernetwork-based Physics-Driven Personalized Federated Learning for CT Imaging](https://ieeexplore.ieee.org/document/10361833) \\
- **Ziyuan Yang**, Wenjun Xia, Yingyu Chen, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/HyperFed?style=social)](https://github.com/Zi-YuanYang/HyperFed) 🔥**ESI Highly Cited Paper**
+🔥**ESI Highly Cited Paper** \\
+ **Ziyuan Yang**, Wenjun Xia, Yingyu Chen, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/HyperFed?style=social)](https://github.com/Zi-YuanYang/HyperFed) 
  - ``JBHI`` [Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks](https://ieeexplore.ieee.org/document/10256094) \\
  **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
 
