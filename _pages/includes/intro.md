@@ -15,10 +15,10 @@ in top-tier journals and conferences, including IJCV, IEEE T-IFS, IEEE T-NNLS, I
 If you have any advice or are interested in exploring **academic collaborations**, please feel free to contact me at [cziyuanyang@gmail.com](mailto:cziyuanyang@gmail.com). I welcome your insights and look forward to potential collaborations.
 
 My research interests encompass the following areas:
+- AI Security
+- AI in Healthcare
 - Biometrics
 - Federated Learning
-- AI in Healthcare
-- AI Security
 - AI Efficiency
 
 
