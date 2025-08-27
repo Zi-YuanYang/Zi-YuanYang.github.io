@@ -12,6 +12,7 @@
 - Scholarship by China Scholarship Council
 - 2023, 2024 National Scholarship
 - Provincial Outstanding PhD Graduates
+- Sichuan Provincial Outstanding Doctoral Thesis on Cyberspace Security
 - Outstanding Provincial Master's Thesis
 - Outstanding PhD Graduates of Sichuan University
 - 2023, 2024 Outstanding Graduate Student
