@@ -6,6 +6,7 @@
 
 # 📂 Experience
 <!-- - *2025.05 - 2025.03*, Research Intern, Centre for Frontier AI Research (CFAR), A*STAR, Singapore. -->
+- *2025.09 - Present*, Postdoc, Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), Hong Kong.
 - *2024.05 - 2025.03*, Research Intern, Centre for Frontier AI Research (CFAR), A*STAR, Singapore.
 
 # 💻 Funding
