@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.09*: 🎉 One paper is accepted by IEEE SPL!
 - *2025.09*: 🎉 One paper is accepted by T-IFS! Congrats to Yunlong!
 - *2025.08*: 🎉 One paper is accepted by PR!
 - *2025.05*: 🎉 One paper is accepted by IEEE IOT-J! Congrats to Chengrui!
