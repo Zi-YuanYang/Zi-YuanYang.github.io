@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.10*: 🎉 One paper is accepted by BIBM! Congrats to Yingyu!
 - *2025.09*: 🎉 One paper is accepted by IEEE T-CSVT! Congrats to Lixin!
 - *2025.09*: 🎉 One paper is accepted by IEEE SPL!
 - *2025.09*: 🎉 One paper is accepted by T-IFS! Congrats to Yunlong!
@@ -11,7 +12,7 @@
 - *2025.01*: 🎉 One paper is accepted by WWW! Congrats to Yongqiang!
 - *2024.12*: 🎉 Two papers are accepted by ICASSP! Congrats to Yingyu and Mengyu!
 - *2024.11*: 🎉 Served as Guest Editor for CMC - Computers, Materials & Continua
-- *2024.09*: 🎉 One paper is accepted by T-RPMS! Congrats to Zexin!
+<!-- - *2024.09*: 🎉 One paper is accepted by T-RPMS! Congrats to Zexin! -->
 <!-- - *2024.09*: 🎉 One paper is accepted by CCBR! Congrats to Chengrui! -->
 <!-- - *2024.09*: 🎉 One paper is accepted by T-IFS! -->
 
