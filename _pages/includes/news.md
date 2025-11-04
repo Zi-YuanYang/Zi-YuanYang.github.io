@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.11*: 🎉 One paper is accepted by IEEE JSTSP! Congrats to Maosong!
 - *2025.10*: 🎉 One paper is accepted by BIBM! Congrats to Yingyu!
 - *2025.09*: 🎉 One paper is accepted by IEEE T-CSVT! Congrats to Lixin!
 - *2025.09*: 🎉 One paper is accepted by IEEE SPL!
