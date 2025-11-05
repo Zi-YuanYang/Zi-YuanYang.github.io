@@ -7,11 +7,11 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
 - ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
  **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
 - ``TIFS`` [Comprehensive Competition Mechanism in Palmprint Recognition](https://ieeexplore.ieee.org/document/10223233) \\
- **Ziyuan Yang**, Huijie Huangfu, Lu Leng et al. **IEEE Transactions on Information Forensics and Security**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CCNet?style=social)](https://github.com/Zi-YuanYang/CCNet)
+ **Ziyuan Yang**, Huijie Huangfu, Lu Leng, et al. **IEEE Transactions on Information Forensics and Security**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CCNet?style=social)](https://github.com/Zi-YuanYang/CCNet)
 - ``TIM`` [CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition](https://ieeexplore.ieee.org/document/10124928) \\
- **Ziyuan Yang**, Wenjun Xia, Yifan Qiao et al. **IEEE Transactions on Instrumentation and Measurement**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CO3Net?style=social)](https://github.com/Zi-YuanYang/CO3Net)
+ **Ziyuan Yang**, Wenjun Xia, Yifan Qiao, et al. **IEEE Transactions on Instrumentation and Measurement**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CO3Net?style=social)](https://github.com/Zi-YuanYang/CO3Net)
 - ``AIRE`` [Multi-order Texture Features for Palmprint Recognition](https://link.springer.com/article/10.1007/s10462-022-10194-5) \\
-**Ziyuan Yang**, Lu Leng Bob Zhang et al. **Artificial Intelligence Review**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/MTCC-2TCC?style=social)](https://github.com/Zi-YuanYang/MTCC-2TCC)
+**Ziyuan Yang**, Lu Leng, Bob Zhang, et al. **Artificial Intelligence Review**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/MTCC-2TCC?style=social)](https://github.com/Zi-YuanYang/MTCC-2TCC)
 
 #### ☁️ Federated Learning
 - ``CVPR`` [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.html) \\
@@ -24,7 +24,7 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
 🔥**ESI Highly Cited Paper** \\
  **Ziyuan Yang**, Wenjun Xia, Yingyu Chen, et al. **IEEE Transactions on Neural Networks and Learning Systems**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/HyperFed?style=social)](https://github.com/Zi-YuanYang/HyperFed) 
  - ``JBHI`` [Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks](https://ieeexplore.ieee.org/document/10256094) \\
- **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
+ **Ziyuan Yang**, Yingyu Chen, Huijie Huangfu, et al. **IEEE Journal of Biomedical and Health Informatics**, 2023.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/DC-SFL?style=social)](https://github.com/Zi-YuanYang/DC-SFL)
 
 #### 🔒 Security and Privacy Analysis
 - ``TAI`` [A Novel Privacy-Enhancing Framework for Low-Dose CT Denoising](https://ieeexplore.ieee.org/document/10966210) \\
