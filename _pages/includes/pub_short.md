@@ -29,7 +29,7 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
 #### 🔒 Security and Privacy Analysis
 - ``AAAI`` [Poisoned Distillation: Injecting Backdoors into Distilled Datasets Without Raw Data Access](https://arxiv.org/abs/2502.04229) \\
  **Ziyuan Yang**, Ming Yan, Yi Zhang, Joey Tianyi Zhou. **AAAI Conference on Artificial Intelligence**, 2026.
- <!-- \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/Encrypt_LDCT_Recon?style=social)](https://github.com/Zi-YuanYang/Encrypt_LDCT_Recon) -->
+ \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/Poisoned_DD?style=social)](https://github.com/Zi-YuanYang/Poisoned_DD)
 - ``TAI`` [A Novel Privacy-Enhancing Framework for Low-Dose CT Denoising](https://ieeexplore.ieee.org/document/10966210) \\
  **Ziyuan Yang**, Huijie Huangfu, Maosong Ran, et al. **IEEE Transactions on Artificial Intelligence**, 2025.
  \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/Encrypt_LDCT_Recon?style=social)](https://github.com/Zi-YuanYang/Encrypt_LDCT_Recon)
