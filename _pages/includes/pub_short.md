@@ -1,9 +1,8 @@
 
 # 💻 Selected Publications
 
+**#: Co-First Author  *: Corresponding Author**
 Please find my full paper list at my [Google Scholar](https://scholar.google.com/citations?user=2vZsJskAAAAJ).
-
-#: Co-First Author  *: Corresponding Author
 
 #### 👶🏻 Biometrics
 - ``TSMCS`` [Deep Learning in Palmprint Recognition: A Comprehensive Survey](https://arxiv.org/abs/2501.01166) \\
