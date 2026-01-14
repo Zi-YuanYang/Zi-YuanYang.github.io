@@ -5,18 +5,6 @@
 
 Please find my full paper list at my [Google Scholar](https://scholar.google.com/citations?user=2vZsJskAAAAJ).
 
-#### 👶🏻 Biometrics
-- ``TSMCS`` [Deep Learning in Palmprint Recognition: A Comprehensive Survey](https://arxiv.org/abs/2501.01166) \\
- Chengrui Gao, **Ziyuan Yang<sup>*</sup>**, Wei Jia, et al. **IEEE Transactions on Systems, Man and Cybernetics: Systems**, 2026.
-- ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
- **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
-- ``TIFS`` [Comprehensive Competition Mechanism in Palmprint Recognition](https://ieeexplore.ieee.org/document/10223233) \\
- **Ziyuan Yang**, Huijie Huangfu, Lu Leng, et al. **IEEE Transactions on Information Forensics and Security**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CCNet?style=social)](https://github.com/Zi-YuanYang/CCNet)
-- ``TIM`` [CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition](https://ieeexplore.ieee.org/document/10124928) \\
- **Ziyuan Yang**, Wenjun Xia, Yifan Qiao, et al. **IEEE Transactions on Instrumentation and Measurement**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CO3Net?style=social)](https://github.com/Zi-YuanYang/CO3Net)
-- ``AIRE`` [Multi-order Texture Features for Palmprint Recognition](https://link.springer.com/article/10.1007/s10462-022-10194-5) \\
-**Ziyuan Yang**, Lu Leng, Bob Zhang, et al. **Artificial Intelligence Review**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/MTCC-2TCC?style=social)](https://github.com/Zi-YuanYang/MTCC-2TCC)
-
 #### ☁️ Federated Learning
 - ``CVPR`` [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.html) \\
  **Ziyuan Yang**,  Yingyu Chen, Zhiwen Wang, et al. **IEEE / CVF Computer Vision and Pattern Recognition Conference**, 2025.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/SCAN-PhysFed?style=social)](https://github.com/Zi-YuanYang/SCAN-PhysFed)
@@ -43,6 +31,18 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
  **Ziyuan Yang**, Yingyu Chen, Mengyu Sun, et al. **International Conference on Medical Image Computing and Computer Assisted Intervention**, 2024.
 - ``KBS`` [Cross-database Attack of Coding-based Palmprint Template](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000606) \\
  **Ziyuan Yang**, Lu Leng, Andrew Beng Jin Teoh, et al. **Knowledge-Based Systems**, 2023
+
+#### 👶🏻 Biometrics
+- ``TSMCS`` [Deep Learning in Palmprint Recognition: A Comprehensive Survey](https://arxiv.org/abs/2501.01166) \\
+ Chengrui Gao, **Ziyuan Yang<sup>*</sup>**, Wei Jia, et al. **IEEE Transactions on Systems, Man and Cybernetics: Systems**, 2026.
+- ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
+ **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
+- ``TIFS`` [Comprehensive Competition Mechanism in Palmprint Recognition](https://ieeexplore.ieee.org/document/10223233) \\
+ **Ziyuan Yang**, Huijie Huangfu, Lu Leng, et al. **IEEE Transactions on Information Forensics and Security**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CCNet?style=social)](https://github.com/Zi-YuanYang/CCNet)
+- ``TIM`` [CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition](https://ieeexplore.ieee.org/document/10124928) \\
+ **Ziyuan Yang**, Wenjun Xia, Yifan Qiao, et al. **IEEE Transactions on Instrumentation and Measurement**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/CO3Net?style=social)](https://github.com/Zi-YuanYang/CO3Net)
+- ``AIRE`` [Multi-order Texture Features for Palmprint Recognition](https://link.springer.com/article/10.1007/s10462-022-10194-5) \\
+**Ziyuan Yang**, Lu Leng, Bob Zhang, et al. **Artificial Intelligence Review**, 2023. \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/MTCC-2TCC?style=social)](https://github.com/Zi-YuanYang/MTCC-2TCC)
 
 #### 🏥 AI in Healthcare
 - ``TCSVT`` [Generalizable MRI Motion Correction via Compressed Sensing Equivariant Imaging Prior](https://ieeexplore.ieee.org/abstract/document/10606502/) \\
