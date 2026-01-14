@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: 🎉 One paper is accepted by IEEE TBME! Congrats to Yingyu!
 - *2025.12*: 🎉 A survey is accepted by IEEE TSMCS! Congrats to Chengrui!
 - *2025.11*: 🎉 One paper is accepted by AAAI!
 - *2025.11*: 🎉 One paper is accepted by IEEE JSTSP! Congrats to Maosong!
