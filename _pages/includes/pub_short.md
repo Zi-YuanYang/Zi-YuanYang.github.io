@@ -20,7 +20,7 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
 
 #### 🔒 Security and Privacy Analysis
 - ``ICLR`` [Zero-Sacrifice Persistent-Robustness Adversarial Defense for Pre-Trained Encoders](https://zi-yuanyang.github.io/) \\
- Zhuxin Lei, **Ziyuan Yang<sup>*</sup>**, Yi Zhang<sup>*</sup>,. **International Conference on Learning Representations (ICLR)**, 2026.
+ Zhuxin Lei, **Ziyuan Yang<sup>*</sup>**, Yi Zhang<sup>*</sup>. **International Conference on Learning Representations (ICLR)**, 2026.
 - ``AAAI`` [Poisoned Distillation: Injecting Backdoors into Distilled Datasets Without Raw Data Access](https://arxiv.org/abs/2502.04229) \\
  **Ziyuan Yang**, Ming Yan, Yi Zhang, Joey Tianyi Zhou. **AAAI Conference on Artificial Intelligence**, 2026.
  \| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/Poisoned_DD?style=social)](https://github.com/Zi-YuanYang/Poisoned_DD)
