@@ -35,7 +35,7 @@ Please find my full paper list at my [Google Scholar](https://scholar.google.com
  **Ziyuan Yang**, Lu Leng, Andrew Beng Jin Teoh, et al. **Knowledge-Based Systems**, 2023 -->
 
 #### 👶🏻 Biometrics
-- ``TSMCS`` [Deep Learning in Palmprint Recognition: A Comprehensive Survey](https://arxiv.org/abs/2501.01166) \\
+- ``TSMCS`` [Deep Learning in Palmprint Recognition: A Comprehensive Survey](https://ieeexplore.ieee.org/document/11353238) \\
  Chengrui Gao, **Ziyuan Yang<sup>*</sup>**, Wei Jia, et al. **IEEE Transactions on Systems, Man and Cybernetics: Systems**, 2026.
 - ``IJCV`` [Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification](https://link.springer.com/article/10.1007/s11263-024-02077-9) \\
  **Ziyuan Yang**, Andrew Beng Jin Teoh, Bob Zhang, et al. **International Jouranl of Computer Vision**, 2024.\| [![Code](https://img.shields.io/github/stars/Zi-YuanYang/PSFed-Palm?style=social)](https://github.com/Zi-YuanYang/PSFed-Palm)
