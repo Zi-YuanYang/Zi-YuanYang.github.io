@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: 🎉 One paper is accepted by PMB! Congrats to Lang and Yingyu!
 - *2025.01*: 🎉 One paper is accepted by ICLR! Congrats to Zhuxin!
 - *2025.01*: 🎉 One paper is accepted by IEEE TBME! Congrats to Yingyu!
 - *2025.12*: 🎉 A survey is accepted by IEEE TSMCS! Congrats to Chengrui!
@@ -13,7 +14,7 @@
 - *2025.04*: 🎉 One paper is accepted by T-ETCI! Congrats to Hui!
 - *2025.03*: 🎉 One paper is accepted by T-AI!
 - *2025.02*: 🎉 One paper is accepted by Pattern Recognition! Congrats to Congcong! 
-- *2025.02*: 🎉 One paper is accepted by CVPR!
+<!-- - *2025.02*: 🎉 One paper is accepted by CVPR! -->
 <!-- - *2025.01*: 🎉 One paper is accepted by WWW! Congrats to Yongqiang! -->
 <!-- - *2024.12*: 🎉 Two papers are accepted by ICASSP! Congrats to Yingyu and Mengyu! -->
 <!-- - *2024.11*: 🎉 Served as Guest Editor for CMC - Computers, Materials & Continua -->
