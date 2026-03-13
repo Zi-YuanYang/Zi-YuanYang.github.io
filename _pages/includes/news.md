@@ -1,8 +1,9 @@
 # 🔥 News
-- *2025.03*: 🎉 One paper is accepted by T-IFS!
-- *2025.01*: 🎉 One paper is accepted by PMB! Congrats to Lang and Yingyu!
-- *2025.01*: 🎉 One paper is accepted by ICLR! Congrats to Zhuxin!
-- *2025.01*: 🎉 One paper is accepted by IEEE TBME! Congrats to Yingyu!
+- *2026.03*: 🎉 One paper is accepted by T-IFS! Congrats to Yunlong!
+- *2026.03*: 🎉 One paper is accepted by T-IFS!
+- *2026.01*: 🎉 One paper is accepted by PMB! Congrats to Lang and Yingyu!
+- *2026.01*: 🎉 One paper is accepted by ICLR! Congrats to Zhuxin!
+- *2026.01*: 🎉 One paper is accepted by IEEE TBME! Congrats to Yingyu!
 - *2025.12*: 🎉 A survey is accepted by IEEE TSMCS! Congrats to Chengrui!
 - *2025.11*: 🎉 One paper is accepted by AAAI!
 - *2025.11*: 🎉 One paper is accepted by IEEE JSTSP! Congrats to Maosong!
@@ -11,7 +12,7 @@
 - *2025.09*: 🎉 One paper is accepted by IEEE SPL!
 - *2025.09*: 🎉 One paper is accepted by T-IFS! Congrats to Yunlong!
 - *2025.08*: 🎉 One paper is accepted by PR!
-- *2025.05*: 🎉 One paper is accepted by IEEE IOT-J! Congrats to Chengrui!
+<!-- - *2025.05*: 🎉 One paper is accepted by IEEE IOT-J! Congrats to Chengrui! -->
 <!-- - *2025.04*: 🎉 One paper is accepted by T-ETCI! Congrats to Hui!
 - *2025.03*: 🎉 One paper is accepted by T-AI!
 - *2025.02*: 🎉 One paper is accepted by Pattern Recognition! Congrats to Congcong!  -->
