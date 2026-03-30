@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: 🎉 One paper is accepted by IEEE SPL! Congrats to Yixin!
 - *2026.03*: 🎉 One paper is accepted by T-IFS! Congrats to Yunlong!
 - *2026.03*: 🎉 One paper is accepted by T-IFS!
 - *2026.01*: 🎉 One paper is accepted by PMB! Congrats to Lang and Yingyu!
