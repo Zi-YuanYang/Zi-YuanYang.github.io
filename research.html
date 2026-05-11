@@ -1,0 +1,199 @@
+---
+layout: default
+title : Research
+navbar_title: Research
+body_attr: >-
+  data-spy="scroll" data-target="#navbar-year" data-offset="100"
+---
+
+<!-- BADGE STYLE -->
+<style>
+  .tag-filter {
+    display: inline-block;
+    padding: 0.35em 0.75em;
+    font-size: 0.75rem;
+    font-weight: 400;
+    border-radius: 999px;
+    margin-right: 0.5em;
+    margin-bottom: 0.65em;
+    cursor: pointer;
+    background-color: #e9ecef;
+    color: #495057;
+    transition: all 0.2s;
+  }
+
+  .tag-filter.active {
+    background-color: #343a40;
+    color: #fff;
+  }
+
+  .filter-tab {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5em 1em;
+    margin-right: 0.5em;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.05);
+    border: 2px solid transparent;
+    opacity: 0.85;
+  }
+
+  .filter-tab:hover {
+    opacity: 1;
+    transform: scale(1.03);
+  }
+
+  .filter-tab.active {
+    color: #fff !important;
+    border-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    opacity: 1;
+  }
+
+  .filter-tab[data-type="all"] {
+    background-color: #343a40;
+    color: white;
+  }
+
+  .filter-tab[data-type="publication"] {
+    background-color: #007bff;
+    color: white;
+  }
+
+  .filter-tab[data-type="project"] {
+    background-color: #28a745;
+    color: white;
+  }
+  .filter-tab.active i {
+    filter: brightness(1.3);
+  }
+</style>
+
+<div class="row justify-content-center">
+  <div class="col-12 col-xl-3 mt-3">
+    <div style="position: sticky; top: 96px;">
+      <!-- FILTER TABS -->
+      <!-- <div class="mb-1 d-flex flex-wrap align-items-center">
+        <div class="filter-type d-flex flex-wrap align-items-center mb-3">
+          <span class="filter-tab active" data-type="all" onclick="selectType(this, 'all')">
+            <i class="fas fa-stream mr-1"></i> All
+          </span>
+          <span class="filter-tab" data-type="publication" onclick="selectType(this, 'publication')">
+            <i class="fas fa-book-open mr-1"></i> Publications
+          </span>
+          <span class="filter-tab" data-type="project" onclick="selectType(this, 'project')">
+            <i class="fas fa-lightbulb mr-1"></i> Projects
+          </span>
+        </div>
+      </div> -->
+
+      <!-- TAG MULTI-FILTER -->
+      <div class="mb-3 d-flex flex-wrap align-items-center">
+        <div id="tagContainer" class="d-flex flex-wrap">
+          <div class="tag-filter" onclick="toggleTagFilter('medical-imaging')"># medical imaging</div>
+          <div class="tag-filter" onclick="toggleTagFilter('medical-analysis')"># medical analysis</div>
+          <div class="tag-filter" onclick="toggleTagFilter('federated-learning')"># federated learning</div>
+          <div class="tag-filter" onclick="toggleTagFilter('weakly-supervised-learning')"># weakly-supervised learning</div>
+          <div class="tag-filter" onclick="toggleTagFilter('trustworthy-ai')"># trustworthy AI</div>
+          <div class="tag-filter" onclick="toggleTagFilter('medical-image-segmentation')"># medical image segmentation</div>
+          <div class="tag-filter" onclick="toggleTagFilter('vision-language')"># vision-language</div>
+          <div class="tag-filter" onclick="toggleTagFilter('biometrics')"># biometrics</div>
+          <div class="tag-filter" onclick="toggleTagFilter('multi-label-learning')"># multi-label learning</div>
+          <div class="tag-filter" onclick="toggleTagFilter('llm')"># LLM</div>
+          <!-- More tags -->
+        </div>
+      </div>
+
+      {% include widgets/research_brief.html %}
+    </div>
+  </div>
+
+  <div class="col-12 col-xl-7 mt-3">
+    <div class="text-right mt-0" style="margin-bottom: -3rem;">
+      <small style="font-size: 0.75em;">
+        * Equal contribution, <sup>†</sup> Corresponding author
+      </small>
+      <span class="text-muted" style="margin-left: 0.3em; margin-right: 0.75em; font-size: 0.7em;">(for publications)</span>
+    </div>
+
+    <!-- GROUP PUBLICATIONS BY YEAR -->
+    {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+
+    {% for year in pubs_by_year %}
+      {% assign year_types = "" %}
+      {% for item in year.items %}
+        {% unless year_types contains item.type %}
+          {% assign year_types = year_types | append: item.type | append: " " %}
+        {% endunless %}
+      {% endfor %}
+
+      <div class="year-block" data-types="{{ year_types | strip }}">
+        <h4 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h4>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+          {% for item in year.items %}
+            <div class="filter-item {% if item.type %}{{ item.type }}{% endif %} {% for tag in item.tags %}{{ tag | slugify }} {% endfor %}">
+              {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- JAVASCRIPT FOR FILTERING -->
+<script>
+  let currentType = 'all';
+  let activeTags = new Set();
+
+  function selectType(el, type) {
+    // Remove active class from all
+    document.querySelectorAll('.filter-tab').forEach(tab => {
+      tab.classList.remove('active');
+    });
+    // Add active to selected
+    el.classList.add('active');
+    currentType = type;
+    applyFilters();
+  }
+
+  function toggleTagFilter(tag) {
+    const badge = document.querySelector('.tag-filter[onclick*="' + tag + '"]');
+    if (activeTags.has(tag)) {
+      activeTags.delete(tag);
+      badge.classList.remove('active');
+    } else {
+      activeTags.add(tag);
+      badge.classList.add('active');
+    }
+    applyFilters();
+  }
+
+  function applyFilters() {
+    const items = document.getElementsByClassName("filter-item");
+    const yearBlocks = document.getElementsByClassName("year-block");
+
+    for (let i = 0; i < items.length; i++) {
+      const typeMatch = (currentType === "all" || items[i].classList.contains(currentType));
+      const tagMatch = Array.from(activeTags).every(tag => items[i].classList.contains(tag));
+      const tagPass = (activeTags.size === 0 || tagMatch);
+      items[i].style.display = (typeMatch && tagPass) ? "block" : "none";
+    }
+
+    for (let j = 0; j < yearBlocks.length; j++) {
+      const visibleItems = yearBlocks[j].querySelectorAll(".filter-item");
+      let anyVisible = false;
+      for (let k = 0; k < visibleItems.length; k++) {
+        if (visibleItems[k].style.display !== "none") {
+          anyVisible = true;
+          break;
+        }
+      }
+      yearBlocks[j].style.display = anyVisible ? "block" : "none";
+    }
+  }
+</script>

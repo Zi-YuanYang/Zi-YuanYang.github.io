@@ -1,0 +1,182 @@
+---
+layout: default
+title: Bio
+navbar_title: Bio
+---
+
+<style>
+  .bio-type-filter {
+    display: inline-block;
+    padding: 0.35em 0.75em;
+    font-size: 0.75rem;
+    font-weight: 400;
+    border-radius: 999px;
+    margin-right: 0.5em;
+    margin-bottom: 0.65em;
+    cursor: pointer;
+    background-color: #e9ecef;
+    color: #495057;
+    transition: all 0.2s;
+  }
+
+  .bio-type-filter.active {
+    background-color: #343a40;
+    color: #fff;
+  }
+
+  .bio-timeline-item {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.075);
+  }
+
+  .bio-timeline-item:last-child {
+    border-bottom: 0;
+  }
+
+  .bio-date {
+    font-size: 0.8rem;
+    color: #6c757d;
+    white-space: nowrap;
+  }
+
+  .bio-badge {
+    font-size: 0.7rem;
+    font-weight: 500;
+    padding: 0.35em 0.65em;
+  }
+
+  .bio-tag {
+    font-size: 0.7rem;
+    font-weight: 400;
+  }
+
+  .bio-hidden {
+    display: none !important;
+  }
+
+  @media (max-width: 767.98px) {
+    .bio-date {
+      white-space: normal;
+    }
+  }
+</style>
+
+<div class="row justify-content-center">
+  <div class="col-12 col-xl-3">
+    <div style="position: sticky; top: 80px;">
+      {% include widgets/profile_card.html %}
+
+      <div class="row">
+        <div class="col">
+          <div class="card border-0 mt-3 shadow-sm bg-white">
+            <div class="card-body">
+              <div class="d-flex mb-2">
+                <div class="h5 mb-0">Timeline</div>
+              </div>
+
+              <div class="d-flex flex-wrap">
+                <div class="bio-type-filter active" onclick="selectBioType(this, 'all')">All</div>
+                <div class="bio-type-filter" onclick="selectBioType(this, 'education')">Education</div>
+                <div class="bio-type-filter" onclick="selectBioType(this, 'experience')">Experience</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-xl-7 mt-3">
+    {% assign items = site.data.bio_timeline | sort: "date_start" | reverse %}
+    {% assign items_by_year = items | group_by_exp: "item", "item.date_start | slice: 0, 4" %}
+
+    {% for year in items_by_year %}
+      <div class="year-block bio-year-block" data-year="{{ year.name }}">
+        <h4 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h4>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+          {% for item in year.items %}
+            <div class="bio-timeline-item filter-item {% if item.type %}{{ item.type }}{% endif %}">
+              <div class="p-4">
+                <div class="d-flex flex-wrap justify-content-between align-items-start">
+                  <div class="pr-3">
+                    <div class="mb-2">
+                      <span class="badge badge-light border bio-badge">
+                        {% if item.type == "education" %}
+                          Education
+                        {% else %}
+                          Experience
+                        {% endif %}
+                      </span>
+                    </div>
+
+                    <div class="h5 mb-1">{{ item.title }}</div>
+                    <div class="text-muted">
+                      <strong>{{ item.org }}</strong>
+                      {% if item.location %}
+                        <span class="mx-1">/</span>{{ item.location }}
+                      {% endif %}
+                    </div>
+                  </div>
+
+                  <div class="bio-date mt-1">
+                    {% if item.date_end and item.date_end != "" %}
+                      {{ item.date_start }} - {{ item.date_end }}
+                    {% else %}
+                      {{ item.date_start }} - Present
+                    {% endif %}
+                  </div>
+                </div>
+
+                {% if item.tags %}
+                  <div class="mt-3">
+                    {% for tag in item.tags %}
+                      <span class="badge badge-secondary mr-1 bio-tag">{{ tag }}</span>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+
+                {% if item.bullets %}
+                  <ul class="mt-3 mb-0 pl-3">
+                    {% for bullet in item.bullets %}
+                      <li>{{ bullet }}</li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  let currentBioType = 'all';
+
+  function selectBioType(el, type) {
+    document.querySelectorAll('.bio-type-filter').forEach(tab => {
+      tab.classList.remove('active');
+    });
+
+    el.classList.add('active');
+    currentBioType = type;
+    applyBioFilters();
+  }
+
+  function applyBioFilters() {
+    const items = document.getElementsByClassName('bio-timeline-item');
+    const yearBlocks = document.getElementsByClassName('bio-year-block');
+
+    for (let i = 0; i < items.length; i++) {
+      const typeMatch = currentBioType === 'all' || items[i].classList.contains(currentBioType);
+      items[i].classList.toggle('bio-hidden', !typeMatch);
+    }
+
+    for (let j = 0; j < yearBlocks.length; j++) {
+      const visibleItems = yearBlocks[j].querySelectorAll('.bio-timeline-item:not(.bio-hidden)');
+      yearBlocks[j].style.display = visibleItems.length > 0 ? 'block' : 'none';
+    }
+  }
+
+  applyBioFilters();
+</script>

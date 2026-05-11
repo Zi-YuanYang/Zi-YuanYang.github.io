@@ -1,0 +1,33 @@
+- date_start: "2025-07"
+  date_end: "2025-11"
+  title: "Research Intern"
+  org: "ByteDance Stone AI PaaS"
+  location: "Shenzhen, China"
+  type: "experience"
+  tags: ["LLM"]
+  bullets:
+    - "Developed recommendation systems and multimodal retrieval/matching pipelines for an AI-assisted language learning application (BERT- and Qwen3-based)."
+    - "Built a knowledge difficulty prediction model (Transformer-based) with large-scale corpus statistics, and implemented distributed data processing pipelines for efficient large-scale computation (Spark-based)."
+
+- date_start: "2021-09"
+  date_end: "present"
+  date_end: ""
+  title: "Ph.D / Research Track"
+  org: "Sichuan University"
+  location: "Chengdu, China"
+  type: "education"
+  tags: ["Medical AI"]
+  bullets:
+    - "Research on deep learning for medical imaging and analysis."
+    - "Published 20 papers (including 7 first-author publications) focused on medical imaging and analysis, with publications in top-tier journals and conferences including IEEE TMI, TNNLS, TBME, ICML, CVPR, WWW, and IJCAI, etc."
+    - "Served as a reviewer for multiple journals and conferences, including IEEE TETCI, MICCAI2025, MICCAI2026, etc."
+- date_start: "2017-09"
+  date_end: "2021-06"
+  title: "B.E"
+  org: "Sichuan University"
+  location: "Chengdu, China"
+  type: "education"
+  tags: ["Software Engineering"]
+  # bullets:
+  #   - "Implemented project experiments and wrote weekly reports."
+  #   - "Collaborated with peers on model training and analysis."

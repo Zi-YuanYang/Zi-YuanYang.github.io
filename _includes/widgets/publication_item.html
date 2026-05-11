@@ -1,0 +1,169 @@
+<style>
+  .tag-badge {
+    display: inline-block;
+    padding: 0.35em 0.75em;
+    font-size: 0.7rem;
+    border-radius: 999px;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    background-color: #f8f9fa;
+    color: black;
+    /* color: #343a40; */
+  }
+
+  .tag-badge-bio {
+    display: inline-block;
+    padding: 0.3em 0.75em;
+    font-size: 0.7rem;
+    font-weight: 500;
+    border-radius: 999px;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    background-color: #ff796d;
+    color: #f8f9fa;
+    /* color: #343a40; */
+  }
+
+  .tag-bio {
+    color: #ff6f61;
+    font-weight: 500;
+  }
+
+  .award-badge {
+    display: inline-block;
+    padding: 0.35em 0.75em;
+    font-size: 0.7rem;
+    border-radius: 999px;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    background-color: #FAFAD2;
+    color: #343a40;
+  }
+</style>
+
+{% assign item = include.item %}
+<div class="d-none d-md-block">
+    <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
+        <div class="col-md-3 col-xl-2 mb-md-0 p-md-3 d-flex align-items-center">
+            {%- if item.cover -%}
+            <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+            {%- else -%}
+            <svg class="bubble-visual-hash lazy w-100 rounded-sm" data-bubble-visual-hash="{{ item.id }}" viewBox="0 0 300 200"></svg>
+            {%- endif -%}
+        </div>
+        <div class="col-md-9 col-xl-10 p-3 pl-md-0">
+            <h6 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h6>
+            <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
+            <p class="mt-0 mb-0 small">{{item.pub_pre}} <i>{{ item.pub }}</i> {{ item.pub_post }} {{ item.pub_date }} <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span></p>
+            <p class="mt-0 mb-0 small">{{ item.pub_last }}</p>
+            <!-- <p class="mt-0 mb-1 small text-muted">{{ item.abstract }}</p> -->
+
+            <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
+                <a data-toggle="collapse" href="#abstract-{{ item.title | slugify }}" role="button" aria-expanded="false" aria-controls="abstract-{{ item.title | slugify }}">
+                    [TL;DR]
+                </a>
+
+                {% for link in item.links %}
+                {% if link[1].url %}
+                <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">[{{ link[0] }}]</a>
+                {% else %}
+                <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
+                {% endif %}
+                {% endfor %}
+            </p>
+
+            <!-- Read More Button -->
+            <!-- <p class="mt-1 mb-1 small">
+                <a class="text-primary" data-toggle="collapse" href="#abstract-{{ item.title | slugify }}" role="button" aria-expanded="false" aria-controls="abstract-{{ item.title | slugify }}">
+                    Read more
+                </a>
+            </p> -->
+
+            <!-- Collapsible Abstract -->
+            <div class="collapse" id="abstract-{{ item.title | slugify }}">
+                <p class="small text-muted mb-0">{{ item.abstract }}</p>
+            </div>
+
+            <!-- TAG BADGES -->
+            <!-- {% if item.tags %}
+            <p class="mt-0 mb-0 small">
+                {% for tag in item.tags %}
+                    {% assign color = "secondary" %}
+                    {% if tag == "medical imaging" %}
+                        {% assign color = "success" %}
+                    {% elsif tag == "continual learning" %}
+                        {% assign color = "warning" %}
+                    {% elsif tag == "few-shot learning" %}
+                        {% assign color = "info" %}
+                    {% elsif tag == "federated learning" %}
+                        {% assign color = "primary" %}
+                    {% elsif tag == "multimodal" %}
+                        {% assign color = "danger" %}
+                    {% endif %}
+                    <span class="badge badge-{{ color }} mr-1">{{ tag }}</span>
+                {% endfor %}
+            </p>
+            {% endif %} -->
+            <!-- Random Color -->
+            {% if item.tags %}
+            <p class="mt-0 mb-0">
+                {% for tag in item.tags %}
+                    <span class="tag-badge mr-1" style="margin-top: 1em;">{{ tag }}</span>
+                {% endfor %}
+            </p>
+            {% endif %}
+            <!-- {% if item.tags %}
+            <p class="mt-0 mb-0">
+                {% assign colors = "light" | split: "," %}
+                {% for tag in item.tags %}
+                    {% assign color_index = forloop.index0 | modulo: colors.size %}
+                    {% assign color = colors[color_index] %}
+                    <span class="badge badge-{{ color }} mr-1">{{ tag }}</span>
+                {% endfor %}
+            </p>
+            {% endif %} -->
+
+        </div>
+    </div>
+</div>
+
+<div class="row no-gutters d-md-none {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %} {% if item.cover %}lazy{% endif %}" data-src="{{ item.cover | relative_url }}">
+    <div class="w-100 {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}" style="background-color: rgba(255,255,255,0.9);">
+        <div class="d-flex align-items-start flex-column py-3 px-4">
+            <div class="mb-auto"></div>
+            <div>
+                <h6 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h6>
+                <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
+                <p class="mt-0 mb-0 small">{{item.pub_pre}} <i>{{ item.pub }}</i> {{ item.pub_post }} {{ item.pub_date }} <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span></p>
+                <p class="mt-0 mb-0 small">{{ item.pub_last }}</p>
+                <!-- <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p> -->
+                
+                <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
+                    <a data-toggle="collapse" href="#abstract-{{ item.title | slugify }}" role="button" aria-expanded="false" aria-controls="abstract-{{ item.title | slugify }}">
+                        [TL;DR]
+                    </a>
+
+                    {% for link in item.links %}
+                    {% if link[1].url %}
+                    <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">[{{ link[0] }}]</a>
+                    {% else %}
+                    <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
+                    {% endif %}
+                    {% endfor %}
+                </p>
+                <!-- Collapsible Abstract -->
+                <div class="collapse" id="abstract-{{ item.title | slugify }}">
+                    <p class="small text-muted mb-0">{{ item.abstract }}</p>
+                </div>
+                {% if item.tags %}
+                <p class="mt-0 mb-0">
+                    {% for tag in item.tags %}
+                        <span class="tag-badge mr-1" style="margin-top: 1em;">{{ tag }}</span>
+                    {% endfor %}
+                </p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+</div>

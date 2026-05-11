@@ -1,0 +1,49 @@
+<style>
+  .navbar-custom {
+    background-color: #1a2238;
+    color: white;
+  }
+
+  .navbar-custom .navbar-brand {
+    color: white;
+    font-family: "Zilla Slab Highlight", serif;
+    /* font-family: 'Bitcount Prop Single Ink', system-ui; */
+  }
+
+  .navbar-custom .nav-link {
+    color: white;
+  }
+
+  .navbar-custom .nav-link:hover {
+    color: #BC0906;
+  }
+</style>
+
+<nav class="navbar navbar-expand-sm navbar-custom fixed-top mb-5 shadow-sm">
+  <!-- <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-fluid{% endif %}"> -->
+  <!-- <div class="container-fluid pl-4 pr-0"> -->
+  <div class="container pl-4 pr-0" style="max-width: 1700px;">
+    <div class="row w-100 justify-content-center">
+      <div class="col-12 col-lg-10 d-flex justify-content-between align-items-center">
+        <a class="navbar-brand d-inline-flex align-items-end" href="{{ '/' | relative_url }}">
+          <strong style="margin-right: 0.4em;">{{site.data.profile.navbar_name}}</strong>
+          <!-- <i class="fas fa-mouse-pointer" style="color: #ff6f61; font-size: 1rem; margin-bottom: -3px;"></i> -->
+          <i class="fa-solid fa-battery-half" style="color: #ffffff; font-size: 1rem; margin-bottom: -3px;"></i>
+        </a>
+        <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="fas fa-map"></i> Menu
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            {% for item in site.data.navigation.pages %}
+            <li class="nav-item {% if item.name == page.navbar_title %}active{% endif %}">
+              <a class="nav-link" style="font-size: 1.1rem" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

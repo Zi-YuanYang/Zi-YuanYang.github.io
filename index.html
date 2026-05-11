@@ -1,0 +1,48 @@
+---
+layout: default
+title : Home
+navbar_title: Home
+---
+
+<div class="row justify-content-center">
+  <div class="col-12 col-xl-3">
+    <div style="position: sticky; top: 80px;">
+      {% include widgets/profile_card.html %}
+
+      {% if site.data.display.homepage.show_education %}
+        {% include widgets/education_card.html %}
+      {% endif %}
+
+      {% if site.data.display.homepage.show_experience %}
+        {% include widgets/experience_card.html %}
+      {% endif %}
+
+      {% if site.data.display.homepage.show_awards %}
+        {% include widgets/awards_card.html %}
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="col-12 col-xl-7">
+    {% include widgets/about_card.html %}
+
+    {% include widgets/debug_repo_name.html %}
+    
+    {% include widgets/debug_url.html %}
+
+    {% if site.data.display.homepage.show_news %}
+      {% assign count_news = site.news | size %}
+      {% if count_news > 0 %}
+        {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
+      {% endif %}
+    {% endif %}
+
+    {% if site.data.display.homepage.show_selected_publications %}
+      {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+      {% include widgets/publication_card.html 
+         publications=pubs 
+         title='<i class="fas fa-search"></i><span style="margin-left: 0.3em;">Research Highlights</span>' %}
+    {% endif %}
+
+  </div>
+</div>
