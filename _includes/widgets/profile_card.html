@@ -47,7 +47,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col text-center" style="font-size: 1.2rem">
+                    <div class="col text-center profile-links" style="font-size: 1.2rem">
                         <!-- <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
                             <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
                         </a> -->
@@ -77,13 +77,13 @@
 
                         {% if site.data.profile.wechat_qrcode %}
                         <a class="pr-3 no-break" data-toggle="modal" data-target="#modal-wechat">
-                            <i class="fab fa-weixin"></i> WeChat
+                            <i class="fab fa-weixin"></i>
                         </a>
                         {% endif %}
 
                         {% if site.data.profile.twitter %}
                         <a class="pr-3 no-break" target="_blank" href="https://twitter.com/{{ site.data.profile.twitter }}">
-                            <i class="fab fa-twitter"></i> Twitter
+                            <i class="fab fa-twitter"></i>
                         </a>
                         {% endif %}
 
@@ -95,7 +95,7 @@
 
                         {% if site.data.profile.orcid %}
                         <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
-                            <i class="fab fa-orcid"></i> ORCID
+                            <i class="fab fa-orcid"></i>
                         </a>
                         {% endif %}
                     </div>

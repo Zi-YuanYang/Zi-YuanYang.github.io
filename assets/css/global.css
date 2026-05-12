@@ -81,6 +81,12 @@ h1, h2, h3, h4, h5, h6,
     white-space: nowrap;
 }
 
+.profile-links a,
+.profile-links a:hover,
+.profile-links a:focus {
+    text-decoration: none;
+}
+
 .cover-image {
     width: 180px;
     max-height: 120px;
