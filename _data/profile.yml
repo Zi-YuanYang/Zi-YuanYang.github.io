@@ -65,12 +65,12 @@ education:
   place: Chengdu, China
 
 experience:
-# - name: SeaArt.AI
-#   logo: /assets/images/badges/SeaArt.jpg
-#   position: >- 
-#     Research Intern
-#   date: May. 2026 - present
-#   place: Chengdu, China
+- name: SeaArt.AI
+  logo: /assets/images/badges/SeaArt.jpg
+  position: >- 
+    Research Intern
+  date: May. 2026 - present
+  place: Chengdu, China
 - name: ByteDance Stone AI PaaS
   logo: /assets/images/badges/ByteDance.png
   position: >- 

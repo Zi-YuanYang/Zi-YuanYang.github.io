@@ -1,3 +1,13 @@
+- date_start: "2026-06"
+  date_end: "present"
+  title: "Research Intern"
+  org: "SeaArt.AI"
+  location: "Chengdu, China"
+  type: "experience"
+  tags: ["LLM", "Agent"]
+  bullets:
+    - "Developed AI agent systems for multimodal content generation, including text-to-image and text-to-video pipelines, with current focus on digital humans and AI-generated games."
+
 - date_start: "2025-07"
   date_end: "2025-11"
   title: "Research Intern"
