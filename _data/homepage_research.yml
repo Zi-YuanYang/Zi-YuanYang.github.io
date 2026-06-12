@@ -14,10 +14,10 @@
   - Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-Shaped Medical Image Networks
 - title: '<i class="fas fa-fingerprint"></i><span style="margin-left: 0.3em;">Biometrics</span>'
   papers:
-  - 'Deep Learning in Palmprint Recognition: a Comprehensive Survey'
   - 'FedPalm: a General Federated Learning Framework for Closed-And Open-Set Palmprint Verification'
   - Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification
   - Comprehensive Competition Mechanism in Palmprint Recognition
+  - 'Deep Learning in Palmprint Recognition: a Comprehensive Survey'
 - title: '<i class="fas fa-heartbeat"></i><span style="margin-left: 0.3em;">AI in Healthcare</span>'
   papers:
   - 'FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis'
