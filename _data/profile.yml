@@ -1,87 +1,97 @@
-primary_name: "Yingyu Chen (陈迎语)"
+primary_name: "Ziyuan Yang (杨子元)"
 secondary_name: ""
-navbar_name: "Yingyu Chen @ SCU"
+navbar_name: "Ziyuan Yang @ NTU"
 
 positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-#   name: Position 1 with logo
-# - name: AI Researcher
-- name: <a href="https://deep-imaging-group.github.io/" target="_blank">Deep Imaging Group (DIG)</a> @ <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>
-- name: Supervised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=kCtQkrkAAAAJ" target="_blank">Yi Zhang</a>
-- name: Ph.D Student in Medical Imaging and Analysis
+- name: Research Fellow at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>
+- name: Research interests in AI Security, AI in Healthcare, Biometrics, and Federated Learning
 
+email: "cziyuanyang@gmail.com"
+gscholar: 2vZsJskAAAAJ
+github: Zi-YuanYang
+orcid: 0000-0002-0275-4098
 
-email: "cyy262511@gmail.com"
-# cv_link: https://shiwonkim.github.io/uploads/CV_ShiwonKim_one_page.pdf
-gscholar: oyPRODsAAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: ChenYingyu9
-# twitter: your_twitter_id  # Do not include the '@' symbol
-# linkedin: shiwon-kim-958462173
-orcid: 0009-0001-7303-1030
-
-# <div class="h6 mt-5">Brief Biography</div>
-# <p>
-#   I am an AI researcher with primary interests in developing scalable and data-efficient learning systems, particularly for applications in medical imaging. 
-#   My work focuses on learning from evolving and limited (scarce or privacy-sensitive) data conditions that are common in real-world scenarios but remain challenging for deep learning models. 
-#   Learn more about my research <a href="https://shiwonkim.github.io/research">here</a>.
-# </p>
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently a Ph.D student at the Deep Imaging Group (DIG) at <a href="https://deep-imaging-group.github.io/" target="_blank">Sichuan University (SCU)</a> in Chengdu, China under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=kCtQkrkAAAAJ" target="_blank">Yi Zhang</a>.
-    Previously, I finished my B.Eng in Software Engineering at Sichuan University in June 2021
-    I received my B.Eng. degree in Software Engineering from Sichuan University in June 2021, ranking 13/264 undergraduate students. Following graduation, I was directly admitted to the Ph.D. program at the College of Computer Science, Sichuan University.
+    I am a Research Fellow at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>, advised by Prof.
+    <a href="https://scholar.google.com/citations?user=fjzIdMQAAAAJ" target="_blank">Baosheng Yu</a>. I received my Ph.D. from
+    <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a> in 2025, advised by Prof.
+    <a href="https://scholar.google.com/citations?user=kCtQkrkAAAAJ" target="_blank">Yi Zhang</a>. From 2024 to 2025, I was a research
+    intern at <a href="https://www.a-star.edu.sg/" target="_blank">A*STAR</a>, advised by
+    <a href="https://joeyzhouty.github.io/" target="_blank">Joey Tianyi Zhou</a>.
   </p>
   <p>
-    Research keywords include: <span class="text-hl">Medical Imaging and Analysis</span>, <span class="text-hl">Trustworthy AI</span>, <span class="text-hl">Federated Learning</span>, and so on.
+    I have published over 20 first-authored papers in top-tier journals and conferences, including CVPR, ICLR, AAAI,
+    IJCAI, IJCV, IEEE T-IFS, IEEE T-NNLS, IEEE T-SMCS, IEEE T-AI, IEEE J-BHI, and PR.
+    <a href="https://scholar.google.com/citations?user=2vZsJskAAAAJ" target="_blank"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZi-YuanYang%2Fzi-yuanyang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
+    One paper was selected as an ESI
+    highly cited paper. If you are interested in academic collaborations, please feel free to contact me.
   </p>
-  
+  <p>
+    Research keywords:
+    <span class="text-hl">AI Security</span>,
+    <span class="text-hl">AI in Healthcare</span>,
+    <span class="text-hl">Biometrics</span>,
+    <span class="text-hl">Federated Learning</span>,
+    <span class="text-hl">AI Efficiency</span>.
+  </p>
 
-# <div class="bd-callout bd-callout-info bg-white shadow-sm">
-#   <i class="fas fa-info-circle" style="margin-right: 0.2em;"></i> 
-#   I am actively seeking Ph.D. opportunities starting in Fall 2026. 
-#   If you're looking for a motivated Ph.D. student or collaborator in this area, please feel free to reach out!
-# </div>
-
-portrait_url: /assets/images/photos/CYY.jpg
-# portrait_caption: >-
-#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
-
-education:
-- name: Sichuan University
-  logo: /assets/images/badges/Sichuan_University.png
-  position: >- 
-    College of Software Engineering
-  description:
-    B.E., Software Engineering
-  date: Sep. 2017 - Jun. 2021
-  place: Chengdu, China
-- name: Sichuan University
-  logo: /assets/images/badges/Sichuan_University.png
-  position: >- 
-    College of Computer Science
-  description: Ph.D., Computer Science and Technology <br> supervised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=kCtQkrkAAAAJ" target="_blank">Yi Zhang</a>
-  date: Sep. 2021 - present
-  place: Chengdu, China
-
+portrait_url: /assets/images/photos/ZYY.jpg
 experience:
-- name: SeaArt.AI
-  logo: /assets/images/badges/SeaArt.jpg
-  position: >- 
+- name: Nanyang Technological University
+  logo: /assets/images/badges/NTU-square2.png
+  position: >-
+    Research Fellow
+  date: 2025 - Present
+  place: Singapore
+- name: A*STAR
+  logo: /assets/images/badges/AStar-square.svg
+  position: >-
     Research Intern
-  date: May. 2026 - present
+  date: 2024 - 2025
+  place: Singapore
+- name: Sichuan University
+  logo: /assets/images/badges/Sichuan_University.png
+  position: >-
+    College of Computer Science
+  description: Ph.D., Computer Science and Technology <br> advised by Prof. <a href="https://scholar.google.com/citations?user=kCtQkrkAAAAJ" target="_blank">Yi Zhang</a>
+  date: Sep. 2021 - 2025
   place: Chengdu, China
-- name: ByteDance Stone AI PaaS
-  logo: /assets/images/badges/ByteDance.png
-  position: >- 
-    Research Intern
-  date: Jul. 2025 - Dec. 2025
-  place: Shenzhen, China
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1 
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
+# education:
+# - name: Sichuan University
+#   logo: /assets/images/badges/Sichuan_University.png
+#   position: >-
+#     College of Computer Science
+#   description: Ph.D., Computer Science and Technology <br> advised by Prof. <a href="https://scholar.google.com/citations?user=kCtQkrkAAAAJ" target="_blank">Yi Zhang</a>
+#   date: Sep. 2021 - 2025
+#   place: Chengdu, China
+# - name: Sichuan University
+#   logo: /assets/images/badges/Sichuan_University.png
+#   position: >-
+#     College of Software Engineering
+#   description: B.Eng., Software Engineering
+#   date: Sep. 2017 - Jun. 2021
+#   place: Chengdu, China
+
+
+
+awards:
+- name: IEEE Transactions on Medical Imaging Distinguished Reviewer
+- name: Scholarship by China Scholarship Council
+- name: National Scholarship
+  date: 2023, 2024
+- name: Provincial Outstanding PhD Graduates
+- name: Sichuan Provincial Outstanding Doctoral Thesis on Cyberspace Security
+- name: Outstanding Provincial Master's Thesis
+- name: Outstanding PhD Graduates of Sichuan University
+- name: Outstanding Graduate Student
+  date: 2023, 2024
+- name: Rank #2 in IJCB 2023 Competition (SynFacePAD-2023)
+- name: First-Class Academic Scholarship
+  date: 2023-2025
+- name: Provincial Scholarship
+  date: 2020, 2021
+- name: Special-Class Academic Scholarship
+  date: 2020-2021

@@ -1,0 +1,43 @@
+{% assign phd_item = site.data.profile.education | first %}
+<div class="mt-3 mb-0 bg-white shadow-sm rounded-xl">
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-university"></i><span style="margin-left: 0.3em;">Education & Experience</span></h6>
+    <div class="px-3 pt-3 pb-2">
+        {% if phd_item %}
+        <li class="media mb-2">
+            <img src="{{ phd_item.logo | relative_url }}" alt="{{ phd_item.name }}" style="width: 16px; margin-top: 3px" class="mr-1">
+            <div class="media-body">
+                <div class="d-flex">
+                    <div>{{ phd_item.name }}</div>
+                    <div class="small mt-auto ml-auto no-break"><em>{{ phd_item.date }}</em></div>
+                </div>
+                <div class="small d-flex">
+                    <div>{{ phd_item.position }}</div>
+                    <div class="mt-auto ml-auto no-break"><em>{{ phd_item.place }}</em></div>
+                </div>
+                <div class="small">{{ phd_item.description }}</div>
+            </div>
+        </li>
+        {% endif %}
+
+        {% for item in site.data.profile.experience %}
+        <li class="media mb-2">
+            <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 16px; margin-top: 3px" class="mr-1">
+            <div class="media-body">
+                <div class="d-flex">
+                    <div>{{ item.name }}</div>
+                    <div class="small mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
+                </div>
+                <div class="small d-flex">
+                    <div>{{ item.position }}</div>
+                    <div class="mt-auto ml-auto no-break"><em>{{ item.place }}</em></div>
+                </div>
+                {% if item.name == "A*STAR" %}
+                <div class="small">Advised by <a href="https://joeyzhouty.github.io/" target="_blank">Joey Tianyi Zhou</a></div>
+                {% elsif item.name == "Nanyang Technological University" %}
+                <div class="small">Advised by Prof. <a href="https://scholar.google.com/citations?user=fjzIdMQAAAAJ" target="_blank">Baosheng Yu</a></div>
+                {% endif %}
+            </div>
+        </li>
+        {% endfor %}
+    </div>
+</div>

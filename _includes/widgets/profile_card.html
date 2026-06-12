@@ -38,7 +38,7 @@
                             {%- endif %}
                             {{ position.name }}<br/>
                             {% endfor %}
-                            <span style="font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; font-weight: 100">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
+                            <a href="mailto:{{ site.data.profile.email }}" style="font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; font-weight: 100">{{ site.data.profile.email }}</a>
                         </div>
                         <!-- {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>

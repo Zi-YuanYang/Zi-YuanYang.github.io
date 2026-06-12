@@ -9,13 +9,7 @@ navbar_title: Home
     <div style="position: sticky; top: 80px;">
       {% include widgets/profile_card.html %}
 
-      {% if site.data.display.homepage.show_education %}
-        {% include widgets/education_card.html %}
-      {% endif %}
-
-      {% if site.data.display.homepage.show_experience %}
-        {% include widgets/experience_card.html %}
-      {% endif %}
+      {% include widgets/education_experience_card.html %}
 
       {% if site.data.display.homepage.show_awards %}
         {% include widgets/awards_card.html %}
@@ -26,10 +20,6 @@ navbar_title: Home
   <div class="col-12 col-xl-7">
     {% include widgets/about_card.html %}
 
-    {% include widgets/debug_repo_name.html %}
-    
-    {% include widgets/debug_url.html %}
-
     {% if site.data.display.homepage.show_news %}
       {% assign count_news = site.news | size %}
       {% if count_news > 0 %}
@@ -38,11 +28,30 @@ navbar_title: Home
     {% endif %}
 
     {% if site.data.display.homepage.show_selected_publications %}
-      {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
-      {% include widgets/publication_card.html 
-         publications=pubs 
-         title='<i class="fas fa-search"></i><span style="margin-left: 0.3em;">Research Highlights</span>' %}
+      {% for group in site.data.homepage_research %}
+        {% include widgets/publication_group_card.html title=group.title paper_titles=group.papers %}
+      {% endfor %}
     {% endif %}
+
+    <div class="my-3 bg-white shadow-sm rounded-xl">
+      <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-briefcase"></i><span style="margin-left: 0.3em;">Service</span></h6>
+      <div class="p-4">
+        <p class="mb-2"><strong>Editor</strong></p>
+        <p class="mb-3">Guest Editor for <a href="https://www.techscience.com/cmc/special_detail/image_enhancement" target="_blank">CMC - Computers, Materials & Continua</a>.</p>
+        <p class="mb-3">Guest Editor for <a href="https://www.mdpi.com/journal/sensors/special_issues/Q4LM081MQV" target="_blank">Sensors</a>.</p>
+        <p class="mb-2"><strong>Journal Reviewer</strong></p>
+        <p class="mb-3">IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-IFS, IEEE T-DSC, IEEE T-MI, IEEE T-MM, IEEE T-NNLS, IEEE T-MC, IEEE T-ASL, IEEE T-CSVT, IEEE T-SMCS, IEEE T-II, IEEE T-BC, IEEE COMST, IEEE TCDS, IEEE T-Mech, IEEE SPL, IEEE IoTJ, IEEE Sens-J, IEEE J-BHI, AIRE, AIME, and IET CV/SP/Biom.</p>
+        <p class="mb-2"><strong>Conference Reviewer</strong></p>
+        <p class="mb-0">CVPR, NeurIPS, ICCV, AAAI, ACM MM, ECCV, ICME, MICCAI, EMNLP, IJCNN, ISBI, and WCCI.</p>
+      </div>
+    </div>
+
+    <div class="my-3 bg-white shadow-sm rounded-xl">
+      <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-heart"></i><span style="margin-left: 0.3em;">Acknowledgements</span></h6>
+      <div class="p-4">
+        I would like to thank all my collaborators and advisors. Their support has helped me tremendously.
+      </div>
+    </div>
 
   </div>
 </div>

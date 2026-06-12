@@ -1,43 +1,42 @@
-- date_start: "2026-06"
-  date_end: "present"
-  title: "Research Intern"
-  org: "SeaArt.AI"
-  location: "Chengdu, China"
-  type: "experience"
-  tags: ["LLM", "Agent"]
-  bullets:
-    - "Developed AI agent systems for multimodal content generation, including text-to-image and text-to-video pipelines, with current focus on digital humans and AI-generated games."
-
 - date_start: "2025-07"
-  date_end: "2025-11"
-  title: "Research Intern"
-  org: "ByteDance Stone AI PaaS"
-  location: "Shenzhen, China"
+  date_end: ""
+  title: "Research Fellow"
+  org: "Nanyang Technological University"
+  location: "Singapore"
   type: "experience"
-  tags: ["LLM"]
+  tags: ["AI Security", "AI in Healthcare"]
   bullets:
-    - "Developed recommendation systems and multimodal retrieval/matching pipelines for an AI-assisted language learning application (BERT- and Qwen3-based)."
-    - "Built a knowledge difficulty prediction model (Transformer-based) with large-scale corpus statistics, and implemented distributed data processing pipelines for efficient large-scale computation (Spark-based)."
+    - "Conducting research on trustworthy and efficient AI systems for healthcare and security applications."
+
+- date_start: "2024-05"
+  date_end: "2025-06"
+  title: "Research Intern"
+  org: "A*STAR"
+  location: "Singapore"
+  type: "experience"
+  tags: ["Trustworthy AI", "Healthcare AI"]
+  bullets:
+    - "Worked with Joey Tianyi Zhou on research topics spanning AI security and medical AI."
 
 - date_start: "2021-09"
-  date_end: "present"
-  date_end: ""
-  title: "Ph.D / Research Track"
+  date_end: "2025-06"
+  title: "Ph.D."
   org: "Sichuan University"
   location: "Chengdu, China"
   type: "education"
-  tags: ["Medical AI"]
+  tags: ["Computer Science"]
   bullets:
-    - "Research on deep learning for medical imaging and analysis."
-    - "Published 20 papers (including 7 first-author publications) focused on medical imaging and analysis, with publications in top-tier journals and conferences including IEEE TMI, TNNLS, TBME, ICML, CVPR, WWW, and IJCAI, etc."
-    - "Served as a reviewer for multiple journals and conferences, including IEEE TETCI, MICCAI2025, MICCAI2026, etc."
+    - "Advised by Prof. Yi Zhang."
+    - "Published over 20 first-authored papers in top-tier journals and conferences."
+    - "One paper was selected as an ESI highly cited paper."
+    - "Served as reviewer for journals and conferences including IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-IFS, CVPR, ICCV, and MICCAI."
+
 - date_start: "2017-09"
   date_end: "2021-06"
-  title: "B.E"
+  title: "B.Eng."
   org: "Sichuan University"
   location: "Chengdu, China"
   type: "education"
   tags: ["Software Engineering"]
-  # bullets:
-  #   - "Implemented project experiments and wrote weekly reports."
-  #   - "Collaborated with peers on model training and analysis."
+  bullets:
+    - "Completed undergraduate studies in Software Engineering."

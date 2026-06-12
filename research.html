@@ -71,6 +71,29 @@ body_attr: >-
   .filter-tab.active i {
     filter: brightness(1.3);
   }
+
+  .year-toggle {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .year-toggle:hover {
+    text-decoration: none;
+  }
+
+  .year-toggle .toggle-arrow {
+    display: inline-block;
+    margin-left: 0.35em;
+    transition: transform 0.2s ease;
+  }
+
+  .year-toggle[aria-expanded="false"] .toggle-arrow {
+    transform: rotate(0deg);
+  }
+
+  .year-toggle[aria-expanded="true"] .toggle-arrow {
+    transform: rotate(90deg);
+  }
 </style>
 
 <div class="row justify-content-center">
@@ -94,17 +117,16 @@ body_attr: >-
       <!-- TAG MULTI-FILTER -->
       <div class="mb-3 d-flex flex-wrap align-items-center">
         <div id="tagContainer" class="d-flex flex-wrap">
-          <div class="tag-filter" onclick="toggleTagFilter('medical-imaging')"># medical imaging</div>
-          <div class="tag-filter" onclick="toggleTagFilter('medical-analysis')"># medical analysis</div>
-          <div class="tag-filter" onclick="toggleTagFilter('federated-learning')"># federated learning</div>
-          <div class="tag-filter" onclick="toggleTagFilter('weakly-supervised-learning')"># weakly-supervised learning</div>
-          <div class="tag-filter" onclick="toggleTagFilter('trustworthy-ai')"># trustworthy AI</div>
-          <div class="tag-filter" onclick="toggleTagFilter('medical-image-segmentation')"># medical image segmentation</div>
-          <div class="tag-filter" onclick="toggleTagFilter('vision-language')"># vision-language</div>
+          <div class="tag-filter" onclick="toggleTagFilter('ai-security')"># AI security</div>
+          <div class="tag-filter" onclick="toggleTagFilter('ai-in-healthcare')"># AI in healthcare</div>
           <div class="tag-filter" onclick="toggleTagFilter('biometrics')"># biometrics</div>
-          <div class="tag-filter" onclick="toggleTagFilter('multi-label-learning')"># multi-label learning</div>
-          <div class="tag-filter" onclick="toggleTagFilter('llm')"># LLM</div>
-          <!-- More tags -->
+          <div class="tag-filter" onclick="toggleTagFilter('federated-learning')"># federated learning</div>
+          <div class="tag-filter" onclick="toggleTagFilter('trustworthy-ai')"># trustworthy AI</div>
+          <div class="tag-filter" onclick="toggleTagFilter('privacy-preserving-learning')"># privacy-preserving learning</div>
+          <div class="tag-filter" onclick="toggleTagFilter('backdoor-attack')"># backdoor attack</div>
+          <div class="tag-filter" onclick="toggleTagFilter('adversarial-defense')"># adversarial defense</div>
+          <div class="tag-filter" onclick="toggleTagFilter('medical-imaging')"># medical imaging</div>
+          <div class="tag-filter" onclick="toggleTagFilter('representation-learning')"># representation learning</div>
         </div>
       </div>
 
@@ -124,6 +146,7 @@ body_attr: >-
     {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
     {% for year in pubs_by_year %}
+      {% if year.name >= "2021" %}
       {% assign year_types = "" %}
       {% for item in year.items %}
         {% unless year_types contains item.type %}
@@ -134,14 +157,124 @@ body_attr: >-
       <div class="year-block" data-types="{{ year_types | strip }}">
         <h4 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h4>
         <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
-          {% for item in year.items %}
+          {% assign manual_order_items = year.items | sort: "manual_order" %}
+
+          {% for item in manual_order_items %}
+            {% if item["manual_order"] %}
             <div class="filter-item {% if item.type %}{{ item.type }}{% endif %} {% for tag in item.tags %}{{ tag | slugify }} {% endfor %}">
               {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
             </div>
+            {% endif %}
+          {% endfor %}
+
+          {% assign ccf_levels = "CCF-A|CCF-B|CCF-C|NONE" | split: "|" %}
+          {% assign jcr_levels = "JCR-Q1|JCR-Q2|NONE" | split: "|" %}
+          {% assign priority_levels = "true|false" | split: "|" %}
+          {% for priority_level in priority_levels %}
+            {% for ccf_level in ccf_levels %}
+              {% for jcr_level in jcr_levels %}
+                {% for item in year.items %}
+                  {% assign first_badge = item.special_badges | first %}
+                  {% assign badges_json = item.special_badges | jsonify %}
+                  {% assign priority_json = item.priority_author | jsonify %}
+                  {% assign ccf_match = false %}
+                  {% assign jcr_match = false %}
+                  {% if ccf_level == "NONE" %}
+                    {% if first_badge == nil or first_badge.label != "CCF-A" and first_badge.label != "CCF-B" and first_badge.label != "CCF-C" %}
+                      {% assign ccf_match = true %}
+                    {% endif %}
+                  {% elsif first_badge and first_badge.label == ccf_level %}
+                    {% assign ccf_match = true %}
+                  {% endif %}
+                  {% if jcr_level == "NONE" %}
+                    {% unless badges_json contains 'JCR-Q1' or badges_json contains 'JCR-Q2' %}
+                      {% assign jcr_match = true %}
+                    {% endunless %}
+                  {% elsif badges_json contains jcr_level %}
+                    {% assign jcr_match = true %}
+                  {% endif %}
+                  {% if item["manual_order"] == nil and priority_json == priority_level and ccf_match and jcr_match %}
+                  <div class="filter-item {% if item.type %}{{ item.type }}{% endif %} {% for tag in item.tags %}{{ tag | slugify }} {% endfor %}">
+                    {% include widgets/publication_item.html item=item hide_bottom_border=false first=false last=false %}
+                  </div>
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+            {% endfor %}
           {% endfor %}
         </div>
       </div>
+      {% endif %}
     {% endfor %}
+
+    {% assign earlier_count = 0 %}
+    {% for year in pubs_by_year %}
+      {% if year.name < "2021" %}
+        {% assign earlier_count = earlier_count | plus: year.items.size %}
+      {% endif %}
+    {% endfor %}
+    {% if earlier_count > 0 %}
+      <div class="year-block" data-types="{{ earlier_types | strip }}">
+        <h4 class="pt-4" id="year-earlier">
+          <a class="year-toggle" data-toggle="collapse" href="#earlier-publications" role="button" aria-expanded="false" aria-controls="earlier-publications">
+            Earlier <span class="toggle-arrow">▸</span>
+          </a>
+        </h4>
+        <div class="collapse" id="earlier-publications">
+          <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {% for year in pubs_by_year %}
+              {% if year.name < "2021" %}
+                {% assign manual_order_items = year.items | sort: "manual_order" %}
+
+                {% for item in manual_order_items %}
+                  {% if item["manual_order"] %}
+                  <div class="filter-item {% if item.type %}{{ item.type }}{% endif %} {% for tag in item.tags %}{{ tag | slugify }} {% endfor %}">
+                    {% include widgets/publication_item.html item=item hide_bottom_border=false first=false last=false %}
+                  </div>
+                  {% endif %}
+                {% endfor %}
+
+                {% assign ccf_levels = "CCF-A|CCF-B|CCF-C|NONE" | split: "|" %}
+                {% assign jcr_levels = "JCR-Q1|JCR-Q2|NONE" | split: "|" %}
+                {% assign priority_levels = "true|false" | split: "|" %}
+                {% for priority_level in priority_levels %}
+                  {% for ccf_level in ccf_levels %}
+                    {% for jcr_level in jcr_levels %}
+                      {% for item in year.items %}
+                        {% assign first_badge = item.special_badges | first %}
+                        {% assign badges_json = item.special_badges | jsonify %}
+                        {% assign priority_json = item.priority_author | jsonify %}
+                        {% assign ccf_match = false %}
+                        {% assign jcr_match = false %}
+                        {% if ccf_level == "NONE" %}
+                          {% if first_badge == nil or first_badge.label != "CCF-A" and first_badge.label != "CCF-B" and first_badge.label != "CCF-C" %}
+                            {% assign ccf_match = true %}
+                          {% endif %}
+                        {% elsif first_badge and first_badge.label == ccf_level %}
+                          {% assign ccf_match = true %}
+                        {% endif %}
+                        {% if jcr_level == "NONE" %}
+                          {% unless badges_json contains 'JCR-Q1' or badges_json contains 'JCR-Q2' %}
+                            {% assign jcr_match = true %}
+                          {% endunless %}
+                        {% elsif badges_json contains jcr_level %}
+                          {% assign jcr_match = true %}
+                        {% endif %}
+                        {% if item["manual_order"] == nil and priority_json == priority_level and ccf_match and jcr_match %}
+                        <div class="filter-item {% if item.type %}{{ item.type }}{% endif %} {% for tag in item.tags %}{{ tag | slugify }} {% endfor %}">
+                          {% include widgets/publication_item.html item=item hide_bottom_border=false first=false last=false %}
+                        </div>
+                        {% endif %}
+                      {% endfor %}
+                    {% endfor %}
+                  {% endfor %}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
   </div>
 </div>
 
