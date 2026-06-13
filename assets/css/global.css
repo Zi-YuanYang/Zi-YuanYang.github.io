@@ -147,3 +147,38 @@ div.lazy {
 .email-text {
     font-family: "Courier Prime", monospace;
 }
+
+.scholar-badge-link,
+.scholar-badge-link:hover,
+.scholar-badge-link:focus {
+    text-decoration: none;
+}
+
+.scholar-citation-badge {
+    display: inline-flex;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 999px;
+    font-size: 0.76rem;
+    line-height: 1;
+    vertical-align: middle;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.06);
+}
+
+.scholar-citation-badge-label {
+    padding: 0.32rem 0.55rem;
+    color: #5f6368;
+    background-color: #f6f6f6;
+}
+
+.scholar-citation-icon {
+    margin-right: 0.28rem;
+    color: #4285f4;
+}
+
+.scholar-citation-badge-value {
+    padding: 0.32rem 0.55rem;
+    color: #0b3558;
+    background-color: #9ad0ff;
+    font-weight: 600;
+}

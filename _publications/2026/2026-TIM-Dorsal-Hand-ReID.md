@@ -1,7 +1,7 @@
 ---
-
 title: Channel Group-Wise Exciting Network for Video-Based Dorsal Hand Re-Identification in Uncontrollable Environment
 date: 2026-01-01
+citation_count: 0
 selected: false
 type: publication
 priority_author: false

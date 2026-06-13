@@ -4,7 +4,7 @@ date: 2019-01-01
 selected: false
 type: publication
 priority_author: true
-citation_count: 14
+citation_count: 15
 pub: Applied Sciences
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:

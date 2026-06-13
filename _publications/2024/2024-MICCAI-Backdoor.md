@@ -4,7 +4,7 @@ date: 2024-10-01
 selected: false
 type: publication
 priority_author: true
-citation_count: 1
+citation_count: 4
 tags:
 - '# Medical Image Analysis'
 - '# Trustworthy AI'

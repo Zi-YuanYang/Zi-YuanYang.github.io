@@ -39,3 +39,23 @@ $(function () {
         $grid.masonry('layout');
     });
 })
+document.addEventListener("DOMContentLoaded", async () => {
+    const citationValueElement = document.querySelector("[data-scholar-citedby]");
+    if (!citationValueElement) {
+        return;
+    }
+
+    try {
+        const response = await fetch("/assets/data/google_scholar_summary.json", { cache: "no-store" });
+        if (!response.ok) {
+            return;
+        }
+
+        const data = await response.json();
+        if (typeof data.citedby === "number") {
+            citationValueElement.textContent = data.citedby.toLocaleString();
+        }
+    } catch (error) {
+        console.warn("Failed to load Google Scholar summary", error);
+    }
+});

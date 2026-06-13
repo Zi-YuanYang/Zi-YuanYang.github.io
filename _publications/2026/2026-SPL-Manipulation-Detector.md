@@ -1,7 +1,7 @@
 ---
-
 title: 'Tuning Less, Learning More: toward a More Generalizable Image Manipulation Detector'
 date: 2026-03-01
+citation_count: 0
 selected: false
 type: publication
 priority_author: true

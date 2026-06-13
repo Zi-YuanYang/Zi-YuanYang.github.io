@@ -1,7 +1,7 @@
 ---
 title: Cross-Database Attack of Coding-Based Palmprint Template
 date: 2023-01-15
-citation_count: 13
+citation_count: 16
 selected: false
 type: publication
 priority_author: true

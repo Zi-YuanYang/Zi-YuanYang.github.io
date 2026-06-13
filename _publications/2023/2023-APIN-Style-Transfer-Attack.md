@@ -4,7 +4,7 @@ date: 2023-02-15
 selected: false
 type: publication
 priority_author: true
-citation_count: 14
+citation_count: 17
 special_badges:
 - label: CCF-C
   color: '#00a67e'

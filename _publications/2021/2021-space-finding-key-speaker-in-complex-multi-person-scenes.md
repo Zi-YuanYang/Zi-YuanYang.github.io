@@ -4,7 +4,7 @@ date: 2021-01-01
 selected: false
 type: publication
 priority_author: false
-citation_count: 10
+citation_count: 12
 pub: IEEE Transactions on Emerging Topics in Computing
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:

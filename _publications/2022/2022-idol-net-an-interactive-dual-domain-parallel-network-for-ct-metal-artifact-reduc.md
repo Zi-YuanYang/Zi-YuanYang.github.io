@@ -4,7 +4,7 @@ date: 2022-01-01
 selected: false
 type: publication
 priority_author: false
-citation_count: 41
+citation_count: 59
 pub: IEEE Transactions on Radiation and Plasma Medical Sciences
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:

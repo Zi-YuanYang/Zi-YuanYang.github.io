@@ -4,7 +4,7 @@ date: 2024-06-01
 selected: true
 type: publication
 priority_author: true
-citation_count: 23
+citation_count: 28
 special_badges:
 - label: CCF-A
   color: '#c62828'

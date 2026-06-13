@@ -24,8 +24,13 @@ short_bio: >-
   </p>
   <p>
     I have published over 20 first-authored papers in top-tier journals and conferences, including CVPR, ICLR, AAAI,
-    IJCAI, IJCV, IEEE T-IFS, IEEE T-NNLS, IEEE T-SMCS, IEEE T-AI, IEEE J-BHI, and PR.
-    <a href="https://scholar.google.com/citations?user=2vZsJskAAAAJ" target="_blank"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZi-YuanYang%2Fzi-yuanyang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
+    IJCAI, IJCV, IEEE T-IFS, IEEE T-NNLS, IEEE T-SMCS, IEEE T-AI, and IEEE J-BHI.
+    <a href="https://scholar.google.com/citations?user=2vZsJskAAAAJ" target="_blank" class="scholar-badge-link">
+      <span class="scholar-citation-badge">
+        <span class="scholar-citation-badge-label"><i class="fab fa-google-scholar scholar-citation-icon"></i> citations</span>
+        <span class="scholar-citation-badge-value" data-scholar-citedby>1316</span>
+      </span>
+    </a>
     One paper was selected as an ESI
     highly cited paper. If you are interested in academic collaborations, please feel free to contact me.
   <p>
@@ -102,6 +107,3 @@ awards:
   date: 2020, 2021
 - name: Special-Class Academic Scholarship
   date: 2020-2021
-
-
-

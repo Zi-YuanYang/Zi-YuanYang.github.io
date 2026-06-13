@@ -1,11 +1,10 @@
 ---
-
 title: 'CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition'
 date: 2023-05-01
 selected: true
 type: publication
 priority_author: true
-citation_count: 57
+citation_count: 58
 special_badges:
 - label: JCR-Q1
   color: '#6f42c1'

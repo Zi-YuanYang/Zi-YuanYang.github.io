@@ -4,7 +4,7 @@ date: 2024-09-01
 selected: true
 type: publication
 priority_author: true
-citation_count: 10
+citation_count: 16
 tags:
 - '# Biometrics'
 - '# Privacy-Preserving Learning'

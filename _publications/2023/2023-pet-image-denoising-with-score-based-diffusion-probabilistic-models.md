@@ -4,7 +4,7 @@ date: 2023-01-01
 selected: false
 type: publication
 priority_author: false
-citation_count: 17
+citation_count: 34
 pub: International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 special_badges:
 - label: CCF-B

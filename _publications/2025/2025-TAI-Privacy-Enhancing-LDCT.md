@@ -4,7 +4,7 @@ date: 2025-04-01
 selected: true
 type: publication
 priority_author: true
-citation_count: 0
+citation_count: 2
 special_badges:
 - label: JCR-Q1
   color: '#6f42c1'

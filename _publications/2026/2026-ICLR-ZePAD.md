@@ -4,7 +4,7 @@ date: 2026-01-15
 selected: true
 type: publication
 priority_author: true
-citation_count: 0
+citation_count: 1
 tags:
 - '# AI Security'
 - '# Adversarial Defense'

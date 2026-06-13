@@ -1,7 +1,7 @@
 ---
-
 title: 'ROPREM: A Prototype-Free Retrieval Method for Automatic Check-Out'
 date: 2025-01-01
+citation_count: 0
 selected: false
 type: publication
 priority_author: false
