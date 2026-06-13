@@ -66,6 +66,34 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 400;
 }
 
+.collab-invite {
+    margin: 1.25rem 0;
+    padding: 1rem 1.1rem 0.9rem;
+    background: linear-gradient(135deg, rgba(255, 213, 0, 0.12), rgba(128, 0, 32, 0.05));
+    border-left: 4px solid #800020;
+    border-radius: 0.9rem;
+    box-shadow: 0 8px 20px rgba(128, 0, 32, 0.06);
+}
+
+.collab-invite-label {
+    display: inline-block;
+    margin-bottom: 0.45rem;
+    padding: 0.18rem 0.55rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #800020;
+    background: rgba(255, 255, 255, 0.72);
+    border-radius: 999px;
+}
+
+.collab-invite p {
+    margin-bottom: 0;
+    color: #4a4a4a;
+    line-height: 1.75;
+}
+
 .navbar {
     opacity: 0.95;
 }
@@ -119,4 +147,3 @@ div.lazy {
 .email-text {
     font-family: "Courier Prime", monospace;
 }
-

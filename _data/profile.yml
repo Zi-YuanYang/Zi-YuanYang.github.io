@@ -1,10 +1,11 @@
-primary_name: "Ziyuan Yang (杨子元)"
+primary_name: "Ziyuan Yang"
 secondary_name: ""
 navbar_name: "Ziyuan Yang @ NTU"
 
 positions:
-- name: Research Fellow at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>
-- name: Research interests in AI Security, AI in Healthcare, Biometrics, and Federated Learning
+- name: Research Fellow 
+- name: <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>
+# - name: Research interests in AI Security, AI in Healthcare, Biometrics, and Federated Learning
 
 email: "cziyuanyang@gmail.com"
 gscholar: 2vZsJskAAAAJ
@@ -27,7 +28,6 @@ short_bio: >-
     <a href="https://scholar.google.com/citations?user=2vZsJskAAAAJ" target="_blank"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZi-YuanYang%2Fzi-yuanyang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
     One paper was selected as an ESI
     highly cited paper. If you are interested in academic collaborations, please feel free to contact me.
-  </p>
   <p>
     Research keywords:
     <span class="text-hl">AI Security</span>,
@@ -36,6 +36,13 @@ short_bio: >-
     <span class="text-hl">Federated Learning</span>,
     <span class="text-hl">AI Efficiency</span>.
   </p>
+  </p>
+  <div class="collab-invite">
+        <!-- <span class="collab-invite-label">🔥🔥🔥</span> -->
+        <p>
+         Please feel free to reach out if you're interested in exploring ideas together, I am always happy to discuss new ideas and explore potential collaborations.
+    </p>
+  </div>
 
 portrait_url: /assets/images/photos/ZYY.jpg
 experience:
@@ -95,3 +102,6 @@ awards:
   date: 2020, 2021
 - name: Special-Class Academic Scholarship
   date: 2020-2021
+
+
+
