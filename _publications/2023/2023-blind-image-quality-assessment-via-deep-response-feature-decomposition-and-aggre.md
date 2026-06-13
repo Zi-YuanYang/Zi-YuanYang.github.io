@@ -9,7 +9,7 @@ pub: IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
 - Hui Wang
-- G Wang
+- Guangcheng Wang
 - Wenjun Xia
 - Ziyuan Yang
 - Hui Yu

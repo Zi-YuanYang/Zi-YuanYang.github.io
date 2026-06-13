@@ -8,12 +8,12 @@ citation_count: 6
 pub: IEEE Transactions on Instrumentation and Measurement
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- A Wang
-- J Lu
-- Z Yang
-- W Liang
-- H Zhuang
-- Y Zhang
+- Aohua Wang
+- Jingfeng Lu
+- Ziyuan Yang
+- Wenzhuo Liang
+- Hua Zhuang
+- Yi Zhang
 links:
   Paper: ''
 special_badges:

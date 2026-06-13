@@ -19,6 +19,11 @@ authors:
 - Zhiwen Wang
 - Maosong Ran
 - Ziyuan Yang
+- Hui Yu
+- Jie Jing
+- Tao Wang
+- Jingfeng Lu
+- Yi Zhang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10606502/
   Code: https://github.com/wangzhiwen-scu/EIP4MoCo

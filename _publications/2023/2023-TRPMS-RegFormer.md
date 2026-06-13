@@ -17,6 +17,8 @@ authors:
 - Wenjun Xia
 - Ziyuan Yang
 - Zexin Lu
+- Zhongxian Wang
+- Yi Zhang
 links:
   Paper: https://ieeexplore.ieee.org/document/10138692
   Code: https://github.com/Deep-Imaging-Group/RegFormer

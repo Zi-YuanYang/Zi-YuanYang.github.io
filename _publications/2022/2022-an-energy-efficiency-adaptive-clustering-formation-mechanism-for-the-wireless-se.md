@@ -8,13 +8,13 @@ citation_count: 6
 pub: IET Communications
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- D Lin
-- L Kong
-- C Zhao
-- J Gao
-- H Ouyang
-- Z Yang
-- Z Zhang
+- Deyu Lin
+- Linghe Kong
+- Chengkun Zhao
+- Jiayi Gao
+- Hao Ouyang
+- Ziyuan Yang
+- Zhiqiang Zhang
 links:
   Paper: ''
 special_badges:

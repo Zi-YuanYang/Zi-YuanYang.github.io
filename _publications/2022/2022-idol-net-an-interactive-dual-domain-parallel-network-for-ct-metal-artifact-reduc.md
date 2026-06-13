@@ -8,15 +8,16 @@ citation_count: 59
 pub: IEEE Transactions on Radiation and Plasma Medical Sciences
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- T Wang
-- Z Lu
-- Z Yang
-- W Xia
-- M Hou
-- H Sun
-- Y Liu
-- H Chen
-- J Zhou
+- Tao Wang
+- Zexin Lu
+- Ziyuan Yang
+- Wenjun Xia
+- Mingzheng Hou
+- Huaiqiang Sun
+- Yan Liu
+- Hu Chen
+- Jiliu Zhou
+- Yi Zhang
 links:
   Paper: ''
 special_badges:

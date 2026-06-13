@@ -9,13 +9,13 @@ pub: IEEE Sensors Journal
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
 - Deyu Lin
-- C Yao
-- W Min
-- Q Han
-- K He
+- Chengguang Yao
+- Weidong Min
+- Qqing Han
+- Kaifei He
 - Ziyuan Yang
-- X Lei
-- B Guo
+- Xin Lei
+- Bin Guo
 links:
   Paper: ''
 special_badges:

@@ -8,11 +8,11 @@ citation_count: 19
 pub: Neural Processing Letters
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- H Xu
-- L Leng
-- Z Yang
-- ABJ Teoh
-- Z Jin
+- Huanhuan Xu
+- Lu Leng
+- Ziyuan Yang
+- Andrew Beng Jin Teoh
+- Zhe Jin
 links:
   Paper: ''
 special_badges:

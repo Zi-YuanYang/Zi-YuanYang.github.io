@@ -21,7 +21,7 @@ authors:
 - Lu Leng
 - Bob Zhang
 - Andrew Beng Jin Teoh
-- Yi Zhang
+- Yi Zhang#
 links:
   Paper: https://ieeexplore.ieee.org/document/10223233
   Code: https://github.com/Zi-YuanYang/CCNet

@@ -20,7 +20,7 @@ authors:
 - Zexin Lu
 - Bob Zhang
 - Lu Leng
-- Yi Zhang
+- Yi Zhang#
 links:
   Paper: https://ieeexplore.ieee.org/document/10124928
   Code: https://github.com/Zi-YuanYang/CO3Net

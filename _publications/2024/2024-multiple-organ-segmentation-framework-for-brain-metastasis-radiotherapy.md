@@ -10,12 +10,12 @@ abstract: Imported from the provided publication list. Details can be refined la
 authors:
 - Hui Yu
 - Ziyuan Yang
-- Z Zhang
-- T Wang
-- M Ran
-- Z Wang
-- L Liu
-- Y Liu
+- Zhongzhou Zhang
+- Tao Wang
+- Maosong Ran
+- Zhiwen Wang
+- Lunxin Liu
+- Yan Liu
 - Yi Zhang
 links:
   Paper: ''

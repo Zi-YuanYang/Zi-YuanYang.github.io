@@ -8,10 +8,10 @@ citation_count: 4
 pub: Multimedia Tools and Applications
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- Z Yang
-- L Leng
-- M Li
-- J Chu
+- Ziyuan Yang
+- Lu Leng
+- Ming Li
+- Jun Chu
 links:
   Paper: ''
 special_badges:

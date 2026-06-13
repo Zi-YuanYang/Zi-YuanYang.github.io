@@ -13,10 +13,10 @@ special_badges:
 pub: International Journal of Neural Systems
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- L Chen
-- L Leng
-- Z Yang
-- ABJ Teoh
+- Lin Chen
+- Lu Leng
+- Ziyuan Yang
+- Andrew Beng Jin Teoh
 links:
   Paper: ''
 tags:

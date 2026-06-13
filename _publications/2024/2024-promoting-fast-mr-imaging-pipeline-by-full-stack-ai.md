@@ -8,16 +8,18 @@ citation_count: 7
 pub: Iscience
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- Z Wang
-- B Li
-- H Yu
-- Z Zhang
-- M Ran
-- W Xia
-- Z Yang
-- J Lu
-- H Chen
-- J Zhou
+- Zhiwen Wang
+- Bowen Li
+- Hui Yu
+- Zhongzhou Zhang
+- Maosong Ran
+- Wenjun Xia
+- Ziyuan Yang
+- Jingfeng Lu
+- Hu Chen
+- Jiliu Zhou
+- Hongming Shan
+- Yi Zhang
 links:
   Paper: ''
 special_badges:

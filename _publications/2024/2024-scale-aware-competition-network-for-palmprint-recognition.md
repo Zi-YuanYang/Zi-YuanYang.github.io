@@ -11,10 +11,10 @@ special_badges:
 pub: IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP)
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- C Gao
-- Z Yang
-- M Zhu
-- ABJ Teoh
+- Chengrui Gao
+- Ziyuan Yang
+- Min Zhu
+- Andrew Beng Jin Teoh
 links:
   Paper: ''
 tags:

@@ -16,10 +16,10 @@ abstract: Imported from the provided publication list. Details can be refined la
 authors:
 - Wenjun Xia
 - Ziyuan Yang
-- Q. Zhou
-- Z. Lu
-- Z. Wang
+- Qizheng Zhou
+- Zexin Lu
+- Zhongxian Wang
 - Yi Zhang#
 links:
   Paper: ''
----
+--- 

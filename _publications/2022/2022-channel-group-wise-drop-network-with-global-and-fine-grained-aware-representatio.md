@@ -11,9 +11,9 @@ special_badges:
 pub: 2022 IEEE International Joint Conference on Biometrics (IJCB), 1-9
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- W Rong
-- Z Yang
-- L Leng
+- Wu Rong
+- Ziyuan Yang
+- Lu Leng
 links:
   Paper: ''
 tags:

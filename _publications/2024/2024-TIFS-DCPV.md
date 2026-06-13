@@ -20,6 +20,10 @@ authors:
 - Ziyuan Yang
 - Ming Kang
 - Andrew Beng Jin Teoh
+- Chengrui Gao
+- Wen Chen
+- Bob Zhang
+- Yi Zhang
 links:
   Paper: https://ieeexplore.ieee.org/document/10681118
   Code: https://github.com/Zi-YuanYang/DCPV

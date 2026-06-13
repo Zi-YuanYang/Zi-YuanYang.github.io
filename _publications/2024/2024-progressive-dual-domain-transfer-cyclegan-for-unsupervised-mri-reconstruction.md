@@ -8,11 +8,11 @@ citation_count: 9
 pub: Neurocomputing
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
-- B Li
-- Z Wang
-- Z Yang
-- W Xia
-- Y Zhang
+- Bowen Li
+- Zhiwen Wang
+- Ziyuan Yang
+- Wenjun Xia
+- Yi Zhang
 links:
   Paper: ''
 special_badges:
