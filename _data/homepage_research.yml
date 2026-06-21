@@ -14,6 +14,7 @@
   - Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-Shaped Medical Image Networks
 - title: '<i class="fas fa-fingerprint"></i><span style="margin-left: 0.3em;">Biometrics</span>'
   papers:
+  - Palmprint De-Identification via Diffusion Model for High-Quality and Diverse Synthesis
   - 'FedPalm: a General Federated Learning Framework for Closed-And Open-Set Palmprint Verification'
   - Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification
   - Comprehensive Competition Mechanism in Palmprint Recognition
