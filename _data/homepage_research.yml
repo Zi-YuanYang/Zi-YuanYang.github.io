@@ -20,6 +20,7 @@
   - 'Deep Learning in Palmprint Recognition: a Comprehensive Survey'
 - title: '<i class="fas fa-heartbeat"></i><span style="margin-left: 0.3em;">AI in Healthcare</span>'
   papers:
+  - Low-Level Dataset Distillation for Medical Image Enhancement
   - 'FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis'
   - 'Double Banking on Knowledge: a Unified All-In-One Framework for Unpaired Multi-Modality Semi-Supervised Medical Image Segmentation'
   - Generalizable MRI Motion Correction via Compressed Sensing Equivariant Imaging Prior
