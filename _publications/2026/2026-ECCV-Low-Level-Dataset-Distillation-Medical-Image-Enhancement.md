@@ -5,8 +5,8 @@ selected: true
 type: publication
 priority_author: true
 special_badges:
-- label: CCF-A
-  color: '#c62828'
+- label: CCF-B
+  color: '#1f78ff'
 tags:
 - '# AI in Healthcare'
 - '# Dataset Distillation'
