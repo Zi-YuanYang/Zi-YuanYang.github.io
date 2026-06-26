@@ -1,6 +1,7 @@
 ---
 title: Low-Level Dataset Distillation for Medical Image Enhancement
 date: 2026-06-18
+citation_count: 0
 selected: true
 type: publication
 priority_author: true
