@@ -4,7 +4,7 @@ date: 2023-08-01
 selected: true
 type: publication
 priority_author: true
-citation_count: 80
+citation_count: 81
 tags:
 - '# Biometrics'
 - '# Representation Learning'
