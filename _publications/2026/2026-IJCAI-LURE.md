@@ -6,8 +6,8 @@ type: publication
 priority_author: true
 citation_count: 1
 special_badges:
-- label: CCF-A
-  color: '#c62828'
+- label: CCF-B
+  color: '#1f78ff'
 order: 2
 tags:
 - '# AI Security'
