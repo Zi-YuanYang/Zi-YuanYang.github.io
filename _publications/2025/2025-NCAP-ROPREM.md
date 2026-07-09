@@ -1,5 +1,6 @@
 ---
 title: 'ROPREM: A Prototype-Free Retrieval Method for Automatic Check-Out'
+scholar_title: 'ROPREM: a prototype-free retrival method for automatic check-out'
 date: 2025-01-01
 citation_count: 0
 selected: false

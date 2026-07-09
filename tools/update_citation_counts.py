@@ -6,6 +6,7 @@ import difflib
 import re
 import time
 import unicodedata
+from urllib.parse import quote
 from pathlib import Path
 from typing import Optional
 from urllib.request import Request, urlopen
@@ -18,6 +19,7 @@ SCHOLAR_SUMMARY_FILE = ROOT / "assets" / "data" / "google_scholar_summary.json"
 JEKYLL_SCHOLAR_SUMMARY_FILE = ROOT / "_data" / "google_scholar_summary.yml"
 GOOGLE_SCHOLAR_USER = "2vZsJskAAAAJ"
 GOOGLE_SCHOLAR_URL = f"https://scholar.google.com/citations?user={GOOGLE_SCHOLAR_USER}&hl=en&oi=ao"
+GOOGLE_SCHOLAR_SEARCH_URL = "https://scholar.google.com/scholar?q="
 USER_AGENT = "Mozilla/5.0 (compatible; ziyuanyang-homepage-bot/1.0; +https://github.com/Zi-YuanYang/Zi-YuanYang.github.io)"
 
 
@@ -77,12 +79,13 @@ def parse_scholar_rows(document: str) -> list[dict]:
         citation_text = ""
         if citation_match:
             citation_text = html.unescape(re.sub(r"<.*?>", "", citation_match.group(1))).strip()
+        citation_number_match = re.search(r"\d+", citation_text)
 
         rows.append(
             {
                 "title": title,
                 "year": year_match.group(1) if year_match else None,
-                "citation_count": int(citation_text) if citation_text.isdigit() else 0,
+                "citation_count": int(citation_number_match.group(0)) if citation_number_match else 0,
             }
         )
 
@@ -124,6 +127,30 @@ def fetch_scholar_publications() -> list[dict]:
         time.sleep(0.5)
 
     return publications
+
+
+def fetch_exact_title_citation_count(title: str) -> Optional[int]:
+    quoted_title = f'"{title}"'
+    search_url = GOOGLE_SCHOLAR_SEARCH_URL + quote(quoted_title)
+    document = fetch_url(search_url)
+
+    if "/sorry/" in document or "unusual traffic" in document.lower():
+        raise ValueError("Google Scholar search rate-limited this request")
+
+    top_title_match = re.search(r'<h3[^>]*class="gs_rt"[^>]*>(.*?)</h3>', document, flags=re.S)
+    if not top_title_match:
+        return None
+
+    top_title = html.unescape(re.sub(r"<.*?>", "", top_title_match.group(1))).strip()
+    score = score_candidate(title, None, {"title": top_title})
+    if score < 140:
+        return None
+
+    citation_match = re.search(r'(?:Cited by|被引用次数)\s*(\d+)', document)
+    if not citation_match:
+        return 0
+
+    return int(citation_match.group(1))
 
 
 def write_summary_files(profile_totals: dict[str, int]) -> None:
@@ -222,16 +249,25 @@ def process_file(path: Path, scholar_publications: list[dict]) -> bool:
     lines, body = parse_front_matter(text)
     title = extract_field(lines, "title")
     scholar_title = extract_field(lines, "scholar_title") or title
+    scholar_search_title = extract_field(lines, "scholar_search_title") or scholar_title
     date_value = extract_field(lines, "date")
     year = date_value[:4] if date_value else None
     if not title or not scholar_title:
         return False
 
     scholar_match = find_best_scholar_match(scholar_title, year, scholar_publications)
-    if scholar_match is None:
+    citation_count = int(scholar_match.get("citation_count") or 0) if scholar_match else 0
+    if citation_count == 0:
+        try:
+            exact_title_count = fetch_exact_title_citation_count(scholar_search_title)
+        except Exception:
+            exact_title_count = None
+        if exact_title_count is not None:
+            citation_count = max(citation_count, exact_title_count)
+
+    if scholar_match is None and citation_count == 0:
         return False
 
-    citation_count = int(scholar_match.get("citation_count") or 0)
     new_lines = upsert_citation_count(lines, citation_count)
     new_text = "---\n" + "\n".join(new_lines) + "\n---" + body
     if new_text == text:

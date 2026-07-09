@@ -4,7 +4,7 @@ date: 2026-01-01
 selected: true
 type: publication
 priority_author: true
-citation_count: 0
+citation_count: 4
 tags:
 - '# AI Security'
 - '# Backdoor Attack'

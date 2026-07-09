@@ -1,5 +1,6 @@
 ---
 title: Directly Encrypting DNA Sequences for DNA Storage via Automata Cryptography
+scholar_title: Directly Encrypting DNA Sequences for Secure DNA Storage via Automata Cryptography
 date: 2026-01-01
 citation_count: 0
 selected: false
