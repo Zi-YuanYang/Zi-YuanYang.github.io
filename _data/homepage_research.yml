@@ -1,10 +1,10 @@
 - title: '<i class="fas fa-shield-alt"></i><span style="margin-left: 0.3em;">Security and Privacy Analysis</span>'
   papers:
-  - 'LURE: Latent Space Unblocking for Multi-Concept Reawakening in Diffusion Models'
   - Zero-Sacrifice Persistent-Robustness Adversarial Defense for Pre-Trained Encoders
   - 'Poisoned Distillation: Injecting Backdoors Into Distilled Datasets Without Raw Data Access'
   - A Dual-Level Cancelable Framework for Palmprint Verification and Hack-Proof Data Storage
   - A Novel Privacy-Enhancing Framework for Low-Dose CT Denoising
+  - 'LURE: Latent Space Unblocking for Multi-Concept Reawakening in Diffusion Models'
   - Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System
 - title: '<i class="fas fa-cloud"></i><span style="margin-left: 0.3em;">Federated Learning</span>'
   papers:
