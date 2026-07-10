@@ -2,6 +2,7 @@
 title: Harmless Copyright Protection for CT Dataset
 scholar_title: 'From Compression to Accountability: Harmless Copyright Protection for Dataset Distillation'
 date: 2026-06-13
+citation_count: 0
 selected: false
 type: publication
 priority_author: false
