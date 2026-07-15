@@ -10,6 +10,8 @@ abstract: Imported from the provided publication list. Details can be refined la
 special_badges:
 - label: CCF-A
   color: '#c62828'
+- label: Oral
+  color: '#ff8c42'
 authors:
 - Yongqiang Huang
 - Zerui Shao

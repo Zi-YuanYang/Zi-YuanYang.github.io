@@ -8,6 +8,8 @@ citation_count: 11
 special_badges:
 - label: CCF-B
   color: '#1f78ff'
+- label: Oral
+  color: '#ff8c42'
 pub: IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP)
 abstract: Imported from the provided publication list. Details can be refined later.
 authors:
