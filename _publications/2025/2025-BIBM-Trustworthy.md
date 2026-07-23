@@ -1,7 +1,7 @@
 ---
 title: Trustworthy Disentangled Framework for Multi-Label Medical Image Classification with Multimodal Refinement
 date: 2025-12-15
-citation_count: 0
+citation_count: 1
 selected: true
 type: publication
 priority_author: false
