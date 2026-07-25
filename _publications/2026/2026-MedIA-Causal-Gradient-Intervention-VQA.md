@@ -5,6 +5,9 @@ citation_count: 0
 selected: false
 type: publication
 priority_author: false
+special_badges:
+- label: JCR-Q1
+  color: '#6f42c1'
 tags:
 - '# AI in Healthcare'
 - '# Medical VQA'
