@@ -16,7 +16,7 @@ tags:
 pub: IEEE Signal Processing Letters (IEEE SPL)
 abstract: This paper studies a more generalizable image manipulation detector that reduces task-specific tuning while improving robustness across manipulation types.
 authors:
-- Yingyu Chen*
+- Yixin Chen*
 - Ziyuan Yang*
 - Yi Zhang
 links:
