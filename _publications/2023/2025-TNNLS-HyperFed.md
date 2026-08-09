@@ -4,7 +4,7 @@ date: 2025-01-01
 selected: false
 type: publication
 priority_author: true
-citation_count: 84
+citation_count: 85
 tags:
 - '# Federated Learning'
 - '# Medical Imaging'
