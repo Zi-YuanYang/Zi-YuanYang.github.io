@@ -1,7 +1,7 @@
 ---
 title: Identity and Style Feature Decoupling Network for Cross-Domain Palmprint Recognition
 date: 2025-01-01
-citation_count: 1
+citation_count: 2
 selected: false
 type: publication
 priority_author: false

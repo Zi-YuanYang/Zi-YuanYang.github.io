@@ -4,7 +4,7 @@ date: 2026-03-05
 selected: true
 type: publication
 priority_author: true
-citation_count: 2
+citation_count: 4
 tags:
 - '# Federated Learning'
 - '# Biometrics'
