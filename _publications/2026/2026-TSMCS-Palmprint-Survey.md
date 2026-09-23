@@ -4,7 +4,7 @@ date: 2026-02-01
 selected: true
 type: publication
 priority_author: true
-citation_count: 40
+citation_count: 42
 special_badges:
 - label: CCF-B
   color: '#1f78ff'
