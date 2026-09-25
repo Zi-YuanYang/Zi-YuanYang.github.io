@@ -8,7 +8,6 @@ citation_count: 4
 tags:
 - '# Federated Learning'
 - '# Biometrics'
-order: 4
 special_badges:
 - label: CCF-A
   color: '#c62828'

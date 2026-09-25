@@ -11,6 +11,7 @@ tags:
 - '# AI Security'
 - '# Privacy-Preserving Learning'
 - '# Biometrics'
+manual_order: 1
 pub: Conference on Neural Information Processing Systems (NeurIPS)
 abstract: This paper proposes Asymmetric Reversible Face Protection (ARFP), combining key-conditioned protection, restoration-aware adversarial training, and authorized recovery to protect facial privacy against evaluated restoration attacks while supporting recovery with the correct key and tamper indication.
 authors:

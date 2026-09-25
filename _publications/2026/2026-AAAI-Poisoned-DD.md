@@ -9,7 +9,7 @@ tags:
 - '# AI Security'
 - '# Backdoor Attack'
 - '# Trustworthy AI'
-manual_order: 2
+manual_order: 3
 special_badges:
 - label: CCF-A
   color: '#c62828'

@@ -9,7 +9,7 @@ tags:
 - '# AI Security'
 - '# Adversarial Defense'
 - '# Robust Learning'
-manual_order: 1
+manual_order: 2
 special_badges:
 - label: CCF-A
   color: '#c62828'
