@@ -1,6 +1,7 @@
 ---
 title: 'Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition'
 date: 2026-09-25
+citation_count: 0
 selected: true
 type: publication
 priority_author: true
