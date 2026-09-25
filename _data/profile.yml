@@ -22,7 +22,7 @@ short_bio: >-
     <a href="https://joeyzhouty.github.io/" target="_blank">Joey Tianyi Zhou</a>.
   </p>
   <p>
-    I have published over 20 first-authored papers in top-tier journals and conferences, including CVPR, ICLR, ECCV, AAAI, ACM MM,
+    I have published over 20 first-authored papers in top-tier journals and conferences, including CVPR, NeurIPS, ICLR, ECCV, AAAI, ACM MM,
     IJCAI, IJCV, IEEE T-IFS, IEEE T-NNLS, IEEE T-SMCS, IEEE T-AI, and IEEE J-BHI.
     <a href="https://scholar.google.com/citations?user=2vZsJskAAAAJ" target="_blank" class="scholar-badge-link">
       <span class="scholar-citation-badge">
@@ -31,14 +31,13 @@ short_bio: >-
       </span>
     </a>
     One paper was selected as an ESI
-    highly cited paper. If you are interested in academic collaborations, please feel free to contact me.
+    highly cited paper. My research interests lie at the intersection of Trustworthy Medical AI, AI Security and Privacy, Medical Imaging, and Efficient AI. My research aims to move beyond predictive performance towards trustworthy AI systems that can support clinically meaningful and biologically informed understanding.
   <p>
     Research keywords:
-    <span class="text-hl">AI Security</span>,
-    <span class="text-hl">AI in Healthcare</span>,
-    <span class="text-hl">Biometrics</span>,
-    <span class="text-hl">Federated Learning</span>,
-    <span class="text-hl">AI Efficiency</span>.
+    <span class="text-hl">Trustworthy Medical AI</span>,
+    <span class="text-hl">AI Security and Privacy</span>,
+    <span class="text-hl">Medical Imaging</span>,
+    <span class="text-hl">Efficient AI</span>.
   </p>
   </p>
   <div class="collab-invite">
