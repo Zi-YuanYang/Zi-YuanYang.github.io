@@ -4,6 +4,9 @@ date: 2026-09-25
 selected: true
 type: publication
 priority_author: true
+special_badges:
+- label: CCF-A
+  color: '#c62828'
 tags:
 - '# AI Security'
 - '# Privacy-Preserving Learning'
