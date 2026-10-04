@@ -15,12 +15,12 @@ pub: IEEE Transactions on Radiation and Plasma Medical Sciences (TRPMS)
 pub_post: '(Accepted)'
 abstract: This survey covers methods, applications, and open challenges of federated learning in medical imaging.
 authors:
-- M. Sun
+- Mengyu Sun
 - Ziyuan Yang
-- Y. Huang
-- H. Yu
-- Y. Chen
-- S. Qi
+- Yongqiang Huang
+- Hui Yu
+- Yingyu Chen
+- Shuren Qi
 - Andrew Beng Jin Teoh
-- Y. Zhang
+- Yi Zhang
 ---
