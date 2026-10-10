@@ -3,7 +3,7 @@ title: 'Federated Learning in Medical Imaging: Methods, Applications, and Open C
 date: 2026-10-04
 selected: false
 type: publication
-priority_author: false
+priority_author: true
 special_badges:
 - label: JCR-Q1
   color: '#6f42c1'
@@ -12,15 +12,14 @@ tags:
 - '# Medical Imaging'
 - '# Survey'
 pub: IEEE Transactions on Radiation and Plasma Medical Sciences (TRPMS)
-pub_post: '(Accepted)'
 abstract: This survey covers methods, applications, and open challenges of federated learning in medical imaging.
 authors:
 - Mengyu Sun
-- Ziyuan Yang
+- Ziyuan Yang#
 - Yongqiang Huang
 - Hui Yu
 - Yingyu Chen
 - Shuren Qi
 - Andrew Beng Jin Teoh
-- Yi Zhang
+- Yi Zhang#
 ---

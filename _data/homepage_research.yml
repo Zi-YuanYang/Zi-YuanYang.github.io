@@ -17,10 +17,11 @@
   papers:
   - One CT Unified Model Training Framework to Rule All Scanning Protocols
   - Low-Level Dataset Distillation for Medical Image Enhancement
+  - 'Federated Learning in Medical Imaging: Methods, Applications, and Open Challenges'
   - 'FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis'
-  - 'Double Banking on Knowledge: a Unified All-In-One Framework for Unpaired Multi-Modality Semi-Supervised Medical Image Segmentation'
   - Causal Gradient Intervention for Debiased and Evidence-Grounded Medical Visual Question Answering
-  - 'SOUL-Net: a Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction'
+  # - 'Double Banking on Knowledge: a Unified All-In-One Framework for Unpaired Multi-Modality Semi-Supervised Medical Image Segmentation'
+    # - 'SOUL-Net: a Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction'
   # - 'RegFormer: a Local-Nonlocal Regularization-Based Model for Sparse-View CT Reconstruction'
 - title: '<i class="fas fa-fingerprint"></i><span style="margin-left: 0.3em;">Biometrics</span>'
   papers:
