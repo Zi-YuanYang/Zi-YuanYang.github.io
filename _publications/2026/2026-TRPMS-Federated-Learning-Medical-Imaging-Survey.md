@@ -1,6 +1,7 @@
 ---
 title: 'Federated Learning in Medical Imaging: Methods, Applications, and Open Challenges'
 date: 2026-10-04
+citation_count: 12
 selected: false
 type: publication
 priority_author: true
